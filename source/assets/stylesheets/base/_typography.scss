@@ -7,6 +7,28 @@ body {
   line-height: $base-line-height;
 }
 
+$modular-scale-ratio      : $major-third;
+$modular-scale-base       : 1rem;
+
+//  3.1 Default sizes
+$font-size-base           : 1rem; // 16px
+$font-size-tiny           : modular-scale(-2);  // 0.64em
+$font-size-small          : modular-scale(-1);  // 0.8em
+$font-size-large          : modular-scale(7);   // 4.768em
+$font-size-hero           : modular-scale(8);   // 5.96em
+
+//  3.2 Headings
+$font-size-h1             : modular-scale(6);   // 3.815em
+$font-size-h2             : modular-scale(5);   // 3.052em
+$font-size-h3             : modular-scale(4);   // 2.441em
+$font-size-h4             : modular-scale(3);   // 1.953em
+$font-size-h5             : modular-scale(2);   // 1.563em
+$font-size-h6             : modular-scale(1);   // 1.25em
+
+//  3.3 Line heights
+$line-height-base         : 1.5em;
+$line-height-heading      : 1.1em;
+
 h1,
 h2,
 h3,
@@ -16,8 +38,15 @@ h6 {
   font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: $heading-line-height;
-  margin: 0 0 $small-spacing;
+  margin: 0 0 $small-spacing / 2;
 }
+
+h1 { font-size: $font-size-h1 }
+h2 { font-size: $font-size-h2 }
+h3 { font-size: $font-size-h3 }
+h4 { font-size: $font-size-h4 }
+h5 { font-size: $font-size-h5 }
+h6 { font-size: $font-size-h6 }
 
 p {
   margin: 0 0 $small-spacing;

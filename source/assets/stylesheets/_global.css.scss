@@ -1,19 +1,52 @@
 body {
-  background-color: $light-gray;
-  color: $medium-gray;
+  background-color: $base-background-color;
 }
 
-.delete-me {
-  @include align-items(center);
-  @include display(flex);
-  @include justify-content(center);
-  height: 100vh;
+.wrap {
+  @include outer-container;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem
+}
+.inner {
+  @include span-columns(12);
+  padding: 1.5rem;
+}
 
-  .container {
-    text-align: center;
+header {
+  text-align: center;
+  @include clearfix;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
 
-    h1 {
-      font-weight: 200;
+  border-bottom: 2px solid $almost-white
+}
+
+a {
+  @include transition(all 200ms linear);
+  text-decoration: none
+}
+
+ul {
+  li {
+    margin-bottom: .5rem;
+
+    @include media($large-screen-up) {
+      @include span-columns(4);
+      @include omega(3n);
+    }
+
+  }
+
+  a {
+    display: block;
+    padding: .5rem 1rem;
+    background: rgba($almost-white, .5);
+    border-radius: $base-border-radius;
+    color: $base-font-color;
+
+    &:hover {
+      background: $almost-white;
+      color: $base-font-color;
     }
   }
 }
