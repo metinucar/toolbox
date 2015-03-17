@@ -45,6 +45,13 @@ ul {;
       @include omega(3n);
     }
 
+    ul {}
+    ul li {
+      width: 100%!important;
+      float: left;
+      clear: both;
+    }
+
   }
 
   a {

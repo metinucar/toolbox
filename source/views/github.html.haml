@@ -1,0 +1,1447 @@
+---
+title: Github
+---
+
+%section.wrap
+  %div.inner
+    %header
+      %h1 Github
+      %p A collection of cool hidden and not so hidden features of Git and GitHub.
+      %p
+        Forked from
+        %a{:href => "https://github.com/Kikobeats/awesome-github"} Awesome Github
+        &
+        %a{:href => "https://github.com/Kikobeats/awesome-github"} Awesome Github
+        %br/
+        %a{:href => "http://ucarmetin.github.io/toolbox/"} Go back
+
+  %h2#table-of-contents Table of Contents
+  %ul
+    %li
+      %a{:href => "#github"} GitHub
+      %ul
+        %li
+          %a{:href => "#ignore-whitespace"} Ignore Whitespace
+        %li
+          %a{:href => "#adjust-tab-space"} Adjust Tab Space
+        %li
+          %a{:href => "#commit-history-by-author"} Commit History by Author
+        %li
+          %a{:href => "#cloning-a-repository"} Cloning a Repository
+        %li
+          %a{:href => "#branch"} Branch
+          %ul
+            %li
+              %a{:href => "#compare-all-branches-to-another-branch"} Compare all Branches to Another Branch
+            %li
+              %a{:href => "#comparing-branches"} Comparing Branches
+            %li
+              %a{:href => "#compare-branches-across-forked-repositories"} Compare Branches across Forked Repositories
+        %li
+          %a{:href => "#gists"} Gists
+        %li
+          %a{:href => "#gitio"} Git.io
+        %li
+          %a{:href => "#keyboard-shortcuts"} Keyboard Shortcuts
+        %li
+          %a{:href => "#line-highlighting-in-repositories"} Line Highlighting in Repositories
+        %li
+          %a{:href => "#closing-issues-via-commit-messages"} Closing Issues via Commit Messages
+        %li
+          %a{:href => "#cross-link-issues"} Cross-Link Issues
+        %li
+          %a{:href => "#locking-conversations"} Locking Conversations
+        %li
+          %a{:href => "#ci-status-on-pull-requests"} CI Status on Pull Requests
+        %li
+          %a{:href => "#syntax-highlighting-in-markdown-files"} Syntax Highlighting in Markdown Files
+        %li
+          %a{:href => "#emojis"} Emojis
+        %li
+          %a{:href => "#imagesgifs"} Images/GIFs
+          %ul
+            %li
+              %a{:href => "#embedding-images-in-github-wiki"} Embedding Images in GitHub Wiki
+        %li
+          %a{:href => "#quick-quoting"} Quick Quoting
+        %li
+          %a{:href => "#pasting-clipboard-image-to-comments"} Pasting Clipboard Image to Comments
+        %li
+          %a{:href => "#quick-licensing"} Quick Licensing
+        %li
+          %a{:href => "#task-lists"} Task Lists
+          %ul
+            %li
+              %a{:href => "#task-lists-in-markdown-documents"} Task Lists in Markdown Documents
+        %li
+          %a{:href => "#relative-links"} Relative Links
+        %li
+          %a{:href => "#metadata-and-plugin-support-for-github-pages"} Metadata and Plugin Support for GitHub Pages
+        %li
+          %a{:href => "#viewing-yaml-metadata-in-your-documents"} Viewing YAML Metadata in your Documents
+        %li
+          %a{:href => "#rendering-tabular-data"} Rendering Tabular Data
+        %li
+          %a{:href => "#revert-a-pull-request"} Revert a Pull Request
+        %li
+          %a{:href => "#diffs"} Diffs
+          %ul
+            %li
+              %a{:href => "#rendered-prose-diffs"} Rendered Prose Diffs
+            %li
+              %a{:href => "#diffable-maps"} Diffable Maps
+            %li
+              %a{:href => "#expanding-context-in-diffs"} Expanding Context in Diffs
+            %li
+              %a{:href => "#diff-or-patch-of-pull-request"} Diff or Patch of Pull Request
+            %li
+              %a{:href => "#rendering-and-diffing-images"} Rendering and diffing images
+        %li
+          %a{:href => "#hub"} Hub
+        %li
+          %a{:href => "#contributing-guidelines"} Contributing Guidelines
+        %li
+          %a{:href => "#octicons"} Octicons
+        %li
+          %a{:href => "#github-resources"} GitHub Resources
+          %ul
+            %li
+              %a{:href => "#github-talks"} GitHub Talks
+    %li
+      %a{:href => "#git"} Git
+      %ul
+        %li
+          %a{:href => "#remove-all-deleted-files-from-the-working-tree"} Remove All Deleted Files from the Working Tree
+        %li
+          %a{:href => "#previous-branch"} Previous Branch
+        %li
+          %a{:href => "#stripspace"} Stripspace
+        %li
+          %a{:href => "#checking-out-pull-requests"} Checking out Pull Requests
+        %li
+          %a{:href => "#empty-commits"} Empty Commits
+        %li
+          %a{:href => "#styled-git-status"} Styled Git Status
+        %li
+          %a{:href => "#styled-git-log"} Styled Git Log
+        %li
+          %a{:href => "#git-query"} Git Query
+        %li
+          %a{:href => "#merged-branches"} Merged Branches
+        %li
+          %a{:href => "#fixup-and-autosquash"} Fixup and Autosquash
+        %li
+          %a{:href => "#web-server-for-browsing-local-repositories"} Web Server for Browsing Local Repositories
+        %li
+          %a{:href => "#git-configurations"} Git Configurations
+          %ul
+            %li
+              %a{:href => "#aliases"} Aliases
+            %li
+              %a{:href => "#auto-correct"} Auto-Correct
+            %li
+              %a{:href => "#color"} Color
+        %li
+          %a{:href => "#git-resources"} Git Resources
+        %li
+          %a{:href => "#git-books"} Git Books
+        %li
+          %a{:href => "#webapps"} WebApps
+        %li
+          %a{:href => "#website"} Website
+        %li
+          %a{:href => "#tools"} Tools
+        %li
+          %a{:href => "#browser-extensions"} Browser Extensions
+        %li
+          %a{:href => "#freaky-insanse"} Freaky insane
+  %h2#github GitHub
+  %h3#ignore-whitespace Ignore Whitespace
+  %p
+    Adding
+    %code ?w=1
+    to any diff URL will remove any changes only in whitespace, enabling you to see only that code that has changed.
+  %p
+    %img{:alt => "Diff without whitespace", :src => "https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67"}/
+  %p
+    %a{:href => "https://github.com/blog/967-github-secrets"}
+      %em Read more about GitHub secrets.
+  %h3#adjust-tab-space Adjust Tab Space
+  %p
+    Adding
+    %code ?ts=4
+    to a diff or file URL will display tab characters as 4 spaces wide instead of the default 8. The number after
+    %code ts
+    can be adjusted to suit your preference. This does not work on Gists, or raw file views, but a
+    %a{:href => "https://chrome.google.com/webstore/detail/github-tab-size/ofjbgncegkdemndciafljngjbdpfmbkn"} Chrome
+    or
+    %a{:href => "https://addons.opera.com/en/extensions/details/github-tab-size/"} Opera  extension
+    can automate this.
+  %p
+    Here is a Go source file before adding
+    = succeed ":" do
+      %code ?ts=4
+  %p
+    %img{:alt => "Before, tab space example", :src => "http://i.imgur.com/GIT1Fr0.png"}/
+  %p
+    \...and this is after adding
+    = succeed ":" do
+      %code ?ts=4
+  %p
+    %img{:alt => "After, tab space example", :src => "http://i.imgur.com/70FL4H9.png"}/
+  %h3#commit-history-by-author Commit History by Author
+  %p
+    To view all commits on a repo by author add
+    %code ?author={user}
+    to the URL.
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/commits/master?author=dhh
+  %p
+    %img{:alt => "DHH commit history", :src => "http://i.imgur.com/S7AE29b.png"}/
+  %p
+    %a{:href => "https://help.github.com/articles/differences-between-commit-views"}
+      %em Read more about the differences between commits views.
+  %h3#cloning-a-repository Cloning a Repository
+  %p
+    When cloning a repository the
+    %code .git
+    can be left off the end.
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git clone https://github.com/tiimgreen/github-cheat-sheet
+  %p
+    %a{:href => "http://git-scm.com/docs/git-clone"}
+      %em
+        Read more about the Git
+        %code clone
+        command.
+  %h3#branch Branch
+  %h4#compare-all-branches-to-another-branch Compare all Branches to Another Branch
+  %p
+    If you go to the repo's
+    %a{:href => "https://github.com/tiimgreen/github-cheat-sheet/branches"} Branches
+    page, next to the Commits button:
+  %pre
+    %code
+      :preserve
+        https://github.com/{user}/{repo}/branches
+  %p ... you would see a list of all branches which are not merged into the main branch.
+  %p From here you can access the compare page or delete a branch with a click of a button.
+  %p
+    %img{:alt => "Compare branches not merged into master in rails/rails repo - https://github.com/rails/rails/branches", :src => "http://i.imgur.com/0FEe30z.png"}/
+  %h4#comparing-branches Comparing Branches
+  %p To use GitHub to compare branches, change the URL to look like this:
+  %pre
+    %code
+      :preserve
+        https://github.com/{user}/{repo}/compare/{range}
+  %p
+    Where
+    %code {range} = master...4-1-stable
+  %p For example:
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/compare/master...4-1-stable
+  %p
+    %img{:alt => "Rails branch compare example", :src => "http://i.imgur.com/tIRCOsK.png"}/
+  %p
+    %code {range}
+    can be changed to things like:
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/compare/master@{1.day.ago}...master
+        https://github.com/rails/rails/compare/master@{2014-10-04}...master
+  %p
+    %em
+      Dates are in the format
+      %code YYYY-DD-MM
+  %p
+    %img{:alt => "Another compare example", :src => "http://i.imgur.com/5dtzESz.png"}/
+  %p
+    Branches can also be compared in
+    %code diff
+    and
+    %code patch
+    views:
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/compare/master...4-1-stable.diff
+        https://github.com/rails/rails/compare/master...4-1-stable.patch
+  %p
+    %a{:href => "https://help.github.com/articles/comparing-commits-across-time"}
+      %em Read more about comparing commits across time.
+  %h4#compare-branches-across-forked-repositories Compare Branches across Forked Repositories
+  %p To use GitHub to compare branches across forked repositories, change the URL to look like this:
+  %pre
+    %code
+      :preserve
+        https://github.com/{user}/{repo}/compare/{foreign-user}:{branch}...{own-branch}
+  %p For example:
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/compare/byroot:master...master
+  %p
+    %img{:alt => "Forked branch compare", :src => "http://i.imgur.com/Q1W6qcB.png"}/
+  %h3#gists Gists
+  %p
+    %a{:href => "https://gist.github.com/"} Gists
+    are an easy way to work with small bits of code without creating a fully fledged repository.
+  %p
+    %img{:alt => "Gist", :src => "http://i.imgur.com/VkKI1LC.png?1"}/
+  %p
+    Add
+    %code .pibb
+    to the end of any Gist URL (
+    %a{:href => "https://gist.github.com/tiimgreen/10545817.pibb"}> like this
+    ) in order to get the
+    %em HTML only
+    version suitable for embedding in any other site.
+  %p Gists can be treated as a repository so they can be cloned like any other:
+  %pre
+    %code.lang-bash
+      $ git clone https://gist.github.com/tiimgreen/
+      %span.hljs-number 10545817
+  %p
+    %img{:alt => "Gists", :src => "http://i.imgur.com/BcFzabp.png"}/
+  %p This means you also can modify and push updates to Gists:
+  %pre
+    %code.lang-bash
+      $ git commit
+      $ git push
+      Username
+      %span.hljs-keyword for
+      = succeed ":" do
+        %span.hljs-string 'https://gist.github.com'
+      Password
+      %span.hljs-keyword for
+      = succeed ":" do
+        %span.hljs-string 'https://tiimgreen@gist.github.com'
+  %p
+    However, Gists do not support directories. All files need to be added to the repository root.
+    %a{:href => "https://help.github.com/articles/creating-gists"}
+      %em Read more about creating Gists.
+  %h3#git-io Git.io
+  %p
+    %a{:href => "http://git.io"} Git.io
+    is a simple URL shortener for GitHub.
+  %p
+    %img{:alt => "Git.io", :src => "http://i.imgur.com/6JUfbcG.png?1"}/
+  %p You can also use it via pure HTTP using Curl:
+  %pre
+    %code.lang-bash
+      $ curl -i http://git.io -F
+      %span.hljs-string "url=https://github.com/..."
+      HTTP/
+      %span.hljs-number 1.1
+      %span.hljs-number 201
+      Created
+      Location: http://git.io/abc123
+
+      $ curl -i http://git.io/abc123
+      HTTP/
+      %span.hljs-number 1.1
+      %span.hljs-number 302
+      Found
+      Location: https://github.com/...
+  %p
+    %a{:href => "https://github.com/blog/985-git-io-github-url-shortener"}
+      %em Read more about Git.io.
+  %h3#keyboard-shortcuts Keyboard Shortcuts
+  %p When on a repository page, keyboard shortcuts allow you to navigate easily.
+  %ul
+    %li
+      Pressing
+      %code t
+      will bring up a file explorer.
+    %li
+      Pressing
+      %code w
+      will bring up the branch selector.
+    %li
+      Pressing
+      %code s
+      will focus the search field for the current repository. Pressing Backspace to delete the “This repository” pill changes the field to search all of GitHub.
+    %li
+      Pressing
+      %code l
+      will edit labels on existing Issues.
+    %li
+      Pressing
+      %code y
+      %strong when looking at a file
+      (e.g.
+      = succeed ")" do
+        %code https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md
+      will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
+  %p
+    To see all of the shortcuts for the current page press
+    = succeed ":" do
+      %code ?
+  %p
+    %img{:alt => "Keyboard shortcuts", :src => "http://i.imgur.com/y5ZfNEm.png"}/
+  %p
+    %a{:href => "https://help.github.com/articles/search-syntax/"} Read more about search syntax you can use.
+  %h3#line-highlighting-in-repositories Line Highlighting in Repositories
+  %p
+    Either adding
+    %code #L52
+    to the end of a code file URL or simply clicking the line number will highlight that line number.
+  %p
+    It also works with ranges, e.g.
+    = succeed "," do
+      %code #L53-L60
+    to select ranges, hold
+    %code shift
+    and click two lines:
+  %pre
+    %code
+      :preserve
+        https://github.com/rails/rails/blob/master/activemodel/lib/active_model.rb#L53-L60
+  %p
+    %img{:alt => "Line Highlighting", :src => "http://i.imgur.com/8AhjrCz.png"}/
+  %h3#closing-issues-via-commit-messages Closing Issues via Commit Messages
+  %p
+    If a particular commit fixes an issue, any of the keywords
+    = succeed "," do
+      %code fix/fixes/fixed
+    %code close/closes/closed
+    or
+    = succeed "," do
+      %code resolve/resolves/resolved
+    followed by the issue number, will close the issue once it is committed to the master branch.
+  %pre
+    %code.lang-bash
+      $ git commit -m
+      %span.hljs-string "Fix screwup, fixes #12"
+  %p This closes the issue and references the closing commit.
+  %p
+    %img{:alt => "Closing Repo", :src => "http://i.imgur.com/Uh1gZdx.png"}/
+  %p
+    %a{:href => "https://help.github.com/articles/closing-issues-via-commit-messages"}
+      %em Read more about closing Issues via commit messages.
+  %h3#cross-link-issues Cross-Link Issues
+  %p
+    If you want to link to another issue in the same repository, simply type hash
+    %code #
+    then the issue number, and it will be auto-linked.
+  %p
+    To link to an issue in another repository,
+    %code {user}/{repo}#ISSUE_NUMBER
+    e.g.
+    = succeed "." do
+      %code tiimgreen/toc#12
+  %p
+    %img{:alt => "Cross-Link Issues", :src => "https://camo.githubusercontent.com/447e39ab8d96b553cadc8d31799100190df230a8/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f7265666572656e6365732e706e67"}/
+  %h3#locking-conversations Locking Conversations
+  %p Pull Requests and Issues can now be locked by owners or collaborators of the repo.
+  %p
+    %img{:alt => "Lock conversation", :src => "https://cloud.githubusercontent.com/assets/2723/3221693/bf54dd44-f00d-11e3-8eb6-bb51e825bc2c.png"}/
+  %p This means that users who are not collaborators on the project will no longer be able to comment.
+  %p
+    %img{:alt => "Comments locked", :src => "https://cloud.githubusercontent.com/assets/2723/3221775/d6e513b0-f00e-11e3-9721-2131cb37c906.png"}/
+  %p
+    %a{:href => "https://github.com/blog/1847-locking-conversations"}
+      %em Read more about locking conversations.
+  %h3#ci-status-on-pull-requests CI Status on Pull Requests
+  %p
+    If set up correctly, every time you receive a Pull Request,
+    %a{:href => "https://travis-ci.org/"} Travis CI
+    will build that Pull Request just like it would every time you make a new commit. Read more about how to
+    = succeed "." do
+      %a{:href => "http://docs.travis-ci.com/user/getting-started/"} get started with Travis CI
+  %p
+    %a{:href => "https://github.com/octokit/octokit.rb/pull/452"}
+      %img{:alt => "Travis CI status", :src => "https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png"}/
+  %p
+    %a{:href => "https://github.com/blog/1227-commit-status-api"}
+      %em Read more about the commit status API.
+  %h3#syntax-highlighting-in-markdown-files Syntax Highlighting in Markdown Files
+  %p For example, to syntax highlight Ruby code in your Markdown files write:
+  %pre
+    %code
+      :preserve
+        ```ruby
+        require 'tabbit'
+        table = Tabbit.new('Name', 'Email')
+        table.add_row('Tim Green', 'tiimgreen@gmail.com')
+        puts table.to_s
+        ```
+  %p This will produce:
+  %pre
+    %code.lang-ruby
+      %span.hljs-keyword require
+      %span.hljs-string 'tabbit'
+      table =
+      = succeed ".new(" do
+        %span.hljs-constant Tabbit
+      = succeed "," do
+        %span.hljs-string 'Name'
+      = succeed ")" do
+        %span.hljs-string 'Email'
+      table.add_row(
+      %span.hljs-string> 'Tim Green'
+      ,
+      = succeed ")" do
+        %span.hljs-string 'tiimgreen@gmail.com'
+      puts table.to_s
+  %p
+    GitHub uses
+    %a{:href => "https://github.com/github/linguist"} Linguist
+    to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the
+    = succeed "." do
+      %a{:href => "https://github.com/github/linguist/blob/master/lib/linguist/languages.yml"} languages YAML file
+  %p
+    %a{:href => "https://help.github.com/articles/github-flavored-markdown"}
+      %em Read more about GitHub Flavored Markdown.
+  %h3#emojis Emojis
+  %p
+    Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using
+    = succeed "." do
+      %code :name_of_emoji:
+  %p
+    The full list of supported Emojis on GitHub can be found at
+    %a{:href => "http://www.emoji-cheat-sheet.com/"} emoji-cheat-sheet.com
+    or
+    = succeed "." do
+      %a{:href => "https://github.com/scotch-io/All-Github-Emoji-Icons"} scotch-io/All-Github-Emoji-Icons
+  %p The top 5 used Emojis on GitHub are:
+  %ol
+    %li
+      %code :shipit:
+    %li
+      %code :sparkles:
+    %li
+      %code :-1:
+    %li
+      %code :+1:
+    %li
+      %code :clap:
+  %h3#images-gifs Images/GIFs
+  %p Images and GIFs can be added to comments, READMEs etc.:
+  %pre
+    %code
+      :preserve
+        ![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+  %p Raw images from the repo can be used by calling them directly.:
+  %pre
+    %code
+      :preserve
+        ![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
+  %p
+    %img{:alt => "Peter don't care", :src => "http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif"}/
+  %p All images are cached on GitHub, so if your host goes down, the image will remain available.
+  %h4#embedding-images-in-github-wiki Embedding Images in GitHub Wiki
+  %p There are multiple ways of embedding images in Wiki pages. There's the standard Markdown syntax (shown above). But there's also a syntax that allows things like specifying the height or width of the image:
+  %pre
+    %code.lang-markdown
+      :preserve
+        [[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+  %p Which produces:
+  %p
+    %img{:alt => "Just a screenshot", :src => "http://i.imgur.com/J5bMf7S.png"}/
+  %h3#quick-quoting Quick Quoting
+  %p
+    When on a comment thread and you want to quote something someone previously said, highlight the text and press
+    = succeed "," do
+      %code r
+    this will copy it into your text box in the block-quote format.
+  %p
+    %img{:alt => "Quick Quote", :src => "https://f.cloud.github.com/assets/296432/124483/b0fa6204-6ef0-11e2-83c3-256c37fa7abc.gif"}/
+  %p
+    %a{:href => "https://github.com/blog/1399-quick-quotes"}
+      %em Read more about quick quoting.
+  %h3#pasting-clipboard-image-to-comments Pasting Clipboard Image to Comments
+  %p
+    %em (Works on Chrome browsers only)
+  %p
+    After taking a screenshot and adding it to the clipboard (mac:
+    = succeed ")," do
+      %code cmd-ctrl-shift-4
+    you can simply paste (
+    %code> cmd-v / ctrl-v
+    ) the image into the comment section and it will be auto-uploaded to github.
+  %p
+    %img{:alt => "Pasting Clipboard Image to Comments", :src => "https://cloud.githubusercontent.com/assets/39191/5794265/39c9b65a-9f1b-11e4-9bc7-04e41f59ea5f.png"}/
+  %p
+    %a{:href => "https://help.github.com/articles/issue-attachments"}
+      %em Read more about issue attachments.
+  %h3#quick-licensing Quick Licensing
+  %p When creating a repository, GitHub gives you the option of adding in a pre-made license:
+  %p
+    %img{:alt => "License", :src => "http://i.imgur.com/Chqj4Fg.png"}/
+  %p
+    You can also add them to existing repositories by creating a new file through the web interface. When the name
+    %code LICENSE
+    is typed in you will get an option to use a template:
+  %p
+    %img{:alt => "License", :src => "http://i.imgur.com/fTjQict.png"}/
+  %p
+    Also works for
+    = succeed "." do
+      %code .gitignore
+  %p
+    %a{:href => "https://help.github.com/articles/open-source-licensing"}
+      %em Read more about open source licensing.
+  %h3#task-lists Task Lists
+  %p In Issues and Pull requests check boxes can be added with the following syntax (notice the space):
+  %pre
+    %code
+      :preserve
+        - [ ] Be awesome
+        - [ ] Prepare dinner
+          - [ ] Research recipe
+          - [ ] Buy ingredients
+          - [ ] Cook recipe
+        - [ ] Sleep
+  %p
+    %img{:alt => "Task List", :src => "http://i.imgur.com/jJBXhsY.png"}/
+  %p When they are clicked, they will be updated in the pure Markdown:
+  %pre
+    %code
+      :preserve
+        - [x] Be awesome
+        - [ ] Prepare dinner
+          - [x] Research recipe
+          - [x] Buy ingredients
+          - [ ] Cook recipe
+        - [ ] Sleep
+  %p
+    %a{:href => "https://help.github.com/articles/writing-on-github#task-lists"}
+      %em Read more about task lists.
+  %h4#task-lists-in-markdown-documents Task Lists in Markdown Documents
+  %p
+    In full Markdown documents
+    %strong read-only
+    checklists can now be added using the following syntax:
+  %pre
+    %code
+      :preserve
+        - [ ] Mercury
+        - [x] Venus
+        - [x] Earth
+          - [x] Moon
+        - [x] Mars
+          - [ ] Deimos
+          - [ ] Phobos
+  %ul
+    %li [ ] Mercury
+    %li [x] Venus
+    %li
+      [x] Earth
+      %ul
+        %li [x] Moon
+    %li
+      [x] Mars
+      %ul
+        %li [ ] Deimos
+        %li [ ] Phobos
+  %p
+    %a{:href => "https://github.com/blog/1825-task-lists-in-all-markdown-documents"}
+      %em Read more about task lists in markdown documents.
+  %h3#relative-links Relative Links
+  %p Relative links are recommended in your Markdown files when linking to internal content.
+  %pre
+    %code.lang-markdown
+      [
+      %span.hljs-link_label> Link to a header
+      ](
+      %span.hljs-link_url> #awesome-section
+      )
+      [
+      %span.hljs-link_label> Link to a file
+      ](
+      %span.hljs-link_url> docs/readme
+      )
+  %p Absolute links have to be updated whenever the URL changes (e.g. repository renamed, username changed, project forked). Using relative links makes your documentation easily stand on its own.
+  %p
+    %a{:href => "https://help.github.com/articles/relative-links-in-readmes"}
+      %em Read more about relative links.
+  %h3#metadata-and-plugin-support-for-github-pages Metadata and Plugin Support for GitHub Pages
+  %p
+    Within Jekyll pages and posts, repository information is available within the
+    %code site.github
+    namespace, and can be displayed, for example, using
+    = succeed "." do
+      %code {{ site.github.project_title }}
+  %p
+    The Jemoji and jekyll-mentions plugins enable
+    %a{:href => "#emojis"} emoji
+    and
+    %a{:href => "https://github.com/blog/821"} @mentions
+    in your Jekyll posts and pages to work just like you'd expect when interacting with a repository on GitHub.com.
+  %p
+    %a{:href => "https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages"}
+      %em Read more about repository metadata and plugin support for GitHub Pages.
+  %h3#viewing-yaml-metadata-in-your-documents Viewing YAML Metadata in your Documents
+  %p
+    Many blogging websites, like
+    %a{:href => "http://jekyllrb.com/"} Jekyll
+    with
+    = succeed "," do
+      %a{:href => "http://pages.github.com/"} GitHub Pages
+    depend on some YAML-formatted metadata at the beginning of your post. GitHub will render this metadata as a horizontal table, for easier reading
+  %p
+    %img{:alt => "YAML metadata", :src => "https://camo.githubusercontent.com/47245aa16728e242f74a9a324ce0d24c0b916075/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f36343035302f313232383236372f65303439643063362d323761302d313165332d396464382d6131636432323539393334342e706e67"}/
+  %p
+    %a{:href => "https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents"}
+      %em Read more about viewing YAML metadata in your documents.
+  %h3#rendering-tabular-data Rendering Tabular Data
+  %p
+    GitHub supports rendering tabular data in the form of
+    %code .csv
+    (comma-separated) and
+    %code .tsv
+    (tab-separated) files.
+  %p
+    %img{:alt => "Tabular data", :src => "https://camo.githubusercontent.com/1b6dd0157ffb45d9939abf14233a0cb13b3b4dfe/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f3937363436322f33323038336463652d303638642d313165332d393262322d3566323863313061353035392e706e67"}/
+  %p
+    %a{:href => "https://github.com/blog/1601-see-your-csvs"}
+      %em Read more about rendering tabular data.
+  %h3#revert-a-pull-request Revert a Pull Request
+  %p After a pull request is merged, you may find it does not help anything or it was a bad decision to merge the pull request.
+  %p
+    You can revert it by clicking the
+    %strong Revert
+    button on the right side of a commit in the pull request page to create a pull request with reverted changes to this specific pull request.
+  %p
+    %img{:alt => "Revert button", :src => "https://camo.githubusercontent.com/0d3350caf2bb1cba53123ffeafc00ca702b1b164/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f68656c702f70756c6c5f72657175657374732f7265766572742d70756c6c2d726571756573742d6c696e6b2e706e67"}/
+  %p
+    %a{:href => "https://github.com/blog/1857-introducing-the-revert-button"}
+      %em Read more about reverting pull requests
+  %h3#diffs Diffs
+  %h4#rendered-prose-diffs Rendered Prose Diffs
+  %p
+    Commits and pull requests, including rendered documents supported by GitHub (e.g. Markdown), feature
+    %em source
+    and
+    %em rendered
+    views.
+  %p
+    %img{:alt => "Source / Rendered view", :src => "https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png"}/
+  %p Click the &quot;rendered&quot; button to see the changes as they'll appear in the rendered document. Rendered prose view is handy when you're adding, removing, and editing text:
+  %p
+    %img{:alt => "Rendered Prose Diffs", :src => "https://f.cloud.github.com/assets/17715/2003056/3997edb4-862b-11e3-90be-5e9586edecd7.png"}/
+  %p
+    %a{:href => "https://github.com/blog/1784-rendered-prose-diffs"}
+      %em Read more about rendered prose diffs.
+  %h4#diffable-maps Diffable Maps
+  %p Any time you view a commit or pull request on GitHub that includes geodata, GitHub will render a visual representation of what was changed.
+  %p
+    %a{:href => "https://github.com/benbalter/congressional-districts/commit/2233c76ca5bb059582d796f053775d8859198ec5"}
+      %img{:alt => "Diffable Maps", :src => "https://f.cloud.github.com/assets/282759/2090660/63f2e45a-8e97-11e3-9d8b-d4c8078b004e.gif"}/
+  %p
+    %a{:href => "https://github.com/blog/1772-diffable-more-customizable-maps"}
+      %em Read more about diffable maps.
+  %h4#expanding-context-in-diffs Expanding Context in Diffs
+  %p
+    Using the
+    %em unfold
+    button in the gutter of a diff, you can reveal additional lines of context with a click. You can keep clicking
+    %em unfold
+    until you've revealed the whole file, and the feature is available anywhere GitHub renders diffs.
+  %p
+    %img{:alt => "Expanding Context in Diffs", :src => "https://f.cloud.github.com/assets/22635/1610539/863c1f64-5584-11e3-82bf-151b406a272f.gif"}/
+  %p
+    %a{:href => "https://github.com/blog/1705-expanding-context-in-diffs"}
+      %em Read more about expanding context in diffs.
+  %h4#diff-or-patch-of-pull-request Diff or Patch of Pull Request
+  %p
+    You can get the diff of a Pull Request by adding a
+    %code .diff
+    or
+    %code .patch
+    extension to the end of the URL. For example:
+  %pre
+    %code
+      :preserve
+        https://github.com/tiimgreen/github-cheat-sheet/pull/15
+        https://github.com/tiimgreen/github-cheat-sheet/pull/15.diff
+        https://github.com/tiimgreen/github-cheat-sheet/pull/15.patch
+  %p
+    The
+    %code .diff
+    extension would give you this in plain text:
+  %pre
+    %code
+      :preserve
+        diff --git a/README.md b/README.md
+        index 88fcf69..8614873 100644
+        --- a/README.md
+        +++ b/README.md
+        @@ -28,6 +28,7 @@ All the hidden and not hidden features of Git and GitHub. This cheat sheet was i
+         - [Merged Branches](#merged-branches)
+         - [Quick Licensing](#quick-licensing)
+         - [TODO Lists](#todo-lists)
+        +- [Relative Links](#relative-links)
+         - [.gitconfig Recommendations](#gitconfig-recommendations)
+             - [Aliases](#aliases)
+             - [Auto-correct](#auto-correct)
+        @@ -381,6 +382,19 @@ When they are clicked, they will be updated in the pure Markdown:
+         - [ ] Sleep
+
+        (...)
+  %h4#rendering-and-diffing-images Rendering and diffing images
+  %p GitHub can display several common image formats, including PNG, JPG, GIF, and PSD. In addition, there are several ways to compare differences between versions of those image formats.
+  %p
+    %a{:href => "https://github.com/blog/1845-psd-viewing-diffing"}
+      %img{:alt => "Diffable PSD", :src => "https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif"}/
+  %p
+    %a{:href => "https://help.github.com/articles/rendering-and-diffing-images"}
+      %em Read more about rendering and diffing images.
+  %h3#hub Hub
+  %p
+    %a{:href => "https://github.com/github/hub"} Hub
+    is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
+  %p This allows you to do things like:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ hub clone tiimgreen/toc
+  %p
+    %a{:href => "https://github.com/github/hub#commands"}
+      %em Check out some more cool commands Hub has to offer.
+  %h3#contributing-guidelines Contributing Guidelines
+  %p
+    Adding a
+    %code CONTRIBUTING
+    file to the root of your repository will add a link to your file when a contributor creates an Issue or opens a Pull Request.
+  %p
+    %img{:alt => "Contributing Guidelines", :src => "https://camo.githubusercontent.com/71995d6b0e620a9ef1ded00a04498241c69dd1bf/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f736b697463682f6973737565732d32303132303931332d3136323533392e6a7067"}/
+  %p
+    %a{:href => "https://github.com/blog/1184-contributing-guidelines"}
+      %em Read more about contributing guidelines.
+  %h3#octicons Octicons
+  %p GitHubs icons (Octicons) have now been open sourced.
+  %p
+    %img{:alt => "Octicons", :src => "https://og.github.com/octicons/octicons@1200x630.png"}/
+  %p
+    %a{:href => "https://octicons.github.com"}
+      %em Read more about GitHub's Octicons
+  %h3#github-resources GitHub Resources
+  %table
+    %thead
+      %tr
+        %th Title
+        %th Link
+    %tbody
+      %tr
+        %td GitHub Explore
+        %td
+          %a{:href => "https://github.com/explore"} https://github.com/explore
+      %tr
+        %td GitHub Blog
+        %td
+          %a{:href => "https://github.com/blog"} https://github.com/blog
+      %tr
+        %td GitHub Help
+        %td
+          %a{:href => "https://help.github.com/"} https://help.github.com/
+      %tr
+        %td GitHub Training
+        %td
+          %a{:href => "https://training.github.com/"} https://training.github.com/
+      %tr
+        %td GitHub Developer
+        %td
+          %a{:href => "https://developer.github.com/"} https://developer.github.com/
+  %h4#github-talks GitHub Talks
+  %table
+    %thead
+      %tr
+        %th Title
+        %th Link
+    %tbody
+      %tr
+        %td How GitHub Uses GitHub to Build GitHub
+        %td
+          %a{:href => "https://www.youtube.com/watch?v=qyz3jkOBbQY"} https://www.youtube.com/watch?v=qyz3jkOBbQY
+      %tr
+        %td Introduction to Git with Scott Chacon of GitHub
+        %td
+          %a{:href => "https://www.youtube.com/watch?v=ZDR433b0HJY"} https://www.youtube.com/watch?v=ZDR433b0HJY
+      %tr
+        %td How GitHub No Longer Works
+        %td
+          %a{:href => "https://www.youtube.com/watch?v=gXD1ITW7iZI"} https://www.youtube.com/watch?v=gXD1ITW7iZI
+      %tr
+        %td Git and GitHub Secrets
+        %td
+          %a{:href => "https://www.youtube.com/watch?v=Foz9yvMkvlA"} https://www.youtube.com/watch?v=Foz9yvMkvlA
+      %tr
+        %td More Git and GitHub Secrets
+        %td
+          %a{:href => "https://www.youtube.com/watch?v=p50xsL-iVgU"} https://www.youtube.com/watch?v=p50xsL-iVgU
+  %h2#git Git
+  %h3#remove-all-deleted-files-from-the-working-tree Remove All Deleted Files from the Working Tree
+  %p
+    When you delete a lot of files using
+    %code /bin/rm
+    you can use the following command to remove them from the working tree and from the index, eliminating the need to remove each one individually:
+  %pre
+    %code.lang-bash
+      $ git rm $(git ls-files
+      = succeed ")" do
+        %span.hljs-operator -d
+  %p For example:
+  %pre
+    %code.lang-bash
+      $ git status
+      On branch master
+      Changes not staged
+      %span.hljs-keyword for
+      commit:
+      deleted:    a
+      deleted:    c
+
+      $ git rm $(git ls-files
+      = succeed ")" do
+        %span.hljs-operator -d
+      rm
+      %span.hljs-string 'a'
+      rm
+      %span.hljs-string 'c'
+      $ git status
+      On branch master
+      Changes to be committed:
+      deleted:    a
+      deleted:    c
+  %h3#previous-branch Previous Branch
+  %p To move to the previous branch in Git:
+  %pre
+    %code.lang-bash
+      $ git checkout -
+      %span.hljs-comment # Switched to branch 'master'
+      $ git checkout -
+      %span.hljs-comment # Switched to branch 'next'
+      $ git checkout -
+      %span.hljs-comment # Switched to branch 'master'
+  %p
+    %a{:href => "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging"}
+      %em Read more about Git branching.
+  %h3#stripspace Stripspace
+  %p Git Stripspace:
+  %ul
+    %li Strips trailing whitespace
+    %li Collapses newlines
+    %li Adds newline to end of file
+  %p A file must be passed when calling the command, e.g.:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git stripspace &lt; README.md
+  %p
+    %a{:href => "http://git-scm.com/docs/git-stripspace"}
+      %em
+        Read more about the Git
+        %code stripspace
+        command.
+  %h3#checking-out-pull-requests Checking out Pull Requests
+  %p Pull Requests are special branches on the GitHub repository which can be retrieved locally in several ways:
+  %p
+    Retrieve a specific Pull Request and store it temporarily in
+    %code FETCH_HEAD
+    for quickly
+    = succeed "ing" do
+      %code diff
+    or
+    = succeed "ing:" do
+      %code merge
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git fetch origin refs/pull/[PR-Number]/head
+  %p Acquire all Pull Request branches as local remote branches by refspec:
+  %pre
+    %code.lang-bash
+      $ git fetch origin
+      %span.hljs-string '+refs/pull/*/head:refs/remotes/origin/pr/*'
+  %p
+    Or setup the remote to fetch Pull Requests automatically by adding these corresponding lines in your repository's
+    = succeed ":" do
+      %code .git/config
+  %pre
+    %code
+      :preserve
+        [remote &quot;origin&quot;]
+            fetch = +refs/heads/*:refs/remotes/origin/*
+            url = git@github.com:tiimgreen/github-cheat-sheet.git
+  %pre
+    %code
+      :preserve
+        [remote &quot;origin&quot;]
+            fetch = +refs/heads/*:refs/remotes/origin/*
+            url = git@github.com:tiimgreen/github-cheat-sheet.git
+            fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
+  %p
+    For Fork-based Pull Request contributions, it's useful to
+    %code checkout
+    a remote branch representing the Pull Request and create a local branch from it:
+  %pre
+    %code.lang-bash
+      $ git checkout pr/
+      %span.hljs-number 42
+      pr-
+      %span.hljs-number 42
+  %p Or should you work on more repositories, you can globally configure fetching pull requests in the global git config instead.
+  %pre
+    %code.lang-bash
+      git config --global --add remote.origin.fetch
+      %span.hljs-string "+refs/pull/*/head:refs/remotes/origin/pr/*"
+  %p This way, you can use the following short commands in all your repositories:
+  %pre
+    %code.lang-bash
+      :preserve
+        git fetch origin
+  %pre
+    %code.lang-bash
+      git checkout pr/
+      %span.hljs-number 42
+  %p
+    %a{:href => "https://help.github.com/articles/checking-out-pull-requests-locally"}
+      %em Read more about checking out pull requests locally.
+  %h3#empty-commits Empty Commits
+  %p
+    Commits can be pushed with no code changes by adding
+    = succeed ":" do
+      %code --allow-empty
+  %pre
+    %code.lang-bash
+      $ git commit -m
+      %span.hljs-string "Big-ass commit"
+      \--allow-empty
+  %p Some use-cases for this (that make sense), include:
+  %ul
+    %li Annotating the start of a new bulk of work or a new feature.
+    %li Documenting when you make changes to the project that aren't code related.
+    %li Communicating with people using your repository.
+    %li
+      The first commit of a repo, as the first commit cannot be rebased later:
+      = succeed "." do
+        %code git commit -m &quot;init repo&quot; --allow-empty
+  %p
+    %img{:alt => "It ain't even that trolololol...", :src => "http://i.minus.com/il1jaw.gif"}/
+  %h3#styled-git-status Styled Git Status
+  %p Running:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git status
+  %p Produces:
+  %p
+    %img{:alt => "git status", :src => "http://i.imgur.com/qjPyvXb.png"}/
+  %p
+    By adding
+    = succeed ":" do
+      %code -sb
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git status -sb
+  %p This is produced:
+  %p
+    %img{:alt => "git status -sb", :src => "http://i.imgur.com/K0OY3nm.png"}/
+  %p
+    %a{:href => "http://git-scm.com/docs/git-status"}
+      %em
+        Read more about the Git
+        %code status
+        command.
+  %h3#styled-git-log Styled Git Log
+  %p Running:
+  %pre
+    %code.lang-bash
+      $ git log --all --graph --pretty=format:
+      %span.hljs-string '%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset'
+      \--abbrev-commit --date=relative
+  %p Produces:
+  %p
+    %img{:alt => "git log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --date=relative", :src => "http://i.imgur.com/58eOtkW.png"}/
+  %p
+    Credit to
+    %a{:href => "http://stackoverflow.com/users/88355/palesz"} Palesz
+  %p
+    %em
+      This can be aliased using the instructions found
+      = succeed "." do
+        %a{:href => "https://github.com/tiimgreen/github-cheat-sheet#aliases"} here
+  %p
+    %a{:href => "http://git-scm.com/docs/git-log"}
+      %em
+        Read more about the Git
+        %code log
+        command.
+  %h3#git-query Git Query
+  %p A Git query allows you to search all your previous commit messages and find the most recent one matching the query.
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git show :/query
+  %p
+    Where
+    %code query
+    (case-sensitive) is the term you want to search, this then finds the last one and gives details on the lines that were changed.
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git show :/typo
+  %p
+    %img{:alt => "git show :/query", :src => "http://i.imgur.com/icaGiNt.png"}/
+  %p
+    %em
+      Press
+      %code q
+      to quit.
+  %h3#merged-branches Merged Branches
+  %p Running:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git branch --merged
+  %p Will give you a list of all branches that have been merged into your current branch.
+  %p Conversely:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git branch --no-merged
+  %p Will give you a list of branches that have not been merged into your current branch.
+  %p
+    %a{:href => "http://git-scm.com/docs/git-branch"}
+      %em
+        Read more about the Git
+        %code branch
+        command.
+  %h3#fixup-and-autosquash Fixup and Autosquash
+  %p
+    If there is something wrong with a previous commit (can be one or more from HEAD), for example
+    = succeed "," do
+      %code abcde
+    run the following command after you've amended the problem:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git commit --fixup=abcde
+        $ git rebase abcde^ --autosquash -i
+  %p
+    %a{:href => "http://git-scm.com/docs/git-commit"}
+      %em
+        Read more about the Git
+        %code commit
+        command.
+    %a{:href => "http://git-scm.com/docs/git-rebase"}
+      %em
+        Read more about the Git
+        %code rebase
+        command.
+  %h3#web-server-for-browsing-local-repositories Web Server for Browsing Local Repositories
+  %p
+    Use the Git
+    %code instaweb
+    command to instantly browse your working repository in
+    = succeed "." do
+      %code gitweb
+    This command is a simple script to set up
+    %code gitweb
+    and a web server for browsing the local repository.
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git instaweb
+  %p Opens:
+  %p
+    %img{:alt => "Git instaweb", :src => "http://i.imgur.com/Dxekmqc.png"}/
+  %p
+    %a{:href => "http://git-scm.com/docs/git-instaweb"}
+      %em
+        Read more about the Git
+        %code instaweb
+        command.
+  %h3#git-configurations Git Configurations
+  %p
+    Your
+    %code .gitconfig
+    file contains all your Git configurations.
+  %h4#aliases Aliases
+  %p
+    Aliases are helpers that let you define your own git calls. For example you could set
+    %code git a
+    to run
+    = succeed "." do
+      %code git add --all
+  %p
+    To add an alias, either navigate to
+    %code ~/.gitconfig
+    and fill it out in the following format:
+  %pre
+    %code
+      :preserve
+        [alias]
+          co = checkout
+          cm = commit
+          p = push
+          # Show verbose output about tags, branches or remotes
+          tags = tag -l
+          branches = branch -a
+          remotes = remote -v
+  %p ...or type in the command-line:
+  %pre
+    %code.lang-bash
+      $ git config --global alias.new_alias git_
+      %span.hljs-keyword function
+  %p For example:
+  %pre
+    %code.lang-bash
+      :preserve
+        $ git config --global alias.cm commit
+  %p For an alias with multiple functions use quotes:
+  %pre
+    %code.lang-bash
+      $ git config --global alias.ac
+      %span.hljs-string 'add -A . &amp;&amp; commit'
+  %p Some useful aliases include:
+  %table
+    %thead
+      %tr
+        %th Alias
+        %th Command
+        %th What to Type
+    %tbody
+      %tr
+        %td
+          %code git cm
+        %td
+          %code git commit
+        %td
+          %code git config --global alias.cm commit
+      %tr
+        %td
+          %code git co
+        %td
+          %code git checkout
+        %td
+          %code git config --global alias.co checkout
+      %tr
+        %td
+          %code git ac
+        %td
+          %code git add . -A
+          %code git commit
+        %td
+          %code git config --global alias.ac '!git add -A &amp;&amp; git commit'
+      %tr
+        %td
+          %code git st
+        %td
+          %code git status -sb
+        %td
+          %code git config --global alias.st 'status -sb'
+      %tr
+        %td
+          %code git tags
+        %td
+          %code git tag -l
+        %td
+          %code git config --global alias.tags 'tag -l'
+      %tr
+        %td
+          %code git branches
+        %td
+          %code git branch -a
+        %td
+          %code git config --global alias.branches 'branch -a'
+      %tr
+        %td
+          %code git cleanup
+        %td `git branch --merged
+        %td grep -v '*'
+        %td xargs git branch -d`
+        %td `git config --global alias.cleanup &quot;!git branch --merged
+        %td grep -v '*'
+        %td xargs git branch -d&quot;`
+      %tr
+        %td
+          %code git remotes
+        %td
+          %code git remote -v
+        %td
+          %code git config --global alias.remotes 'remote -v'
+      %tr
+        %td
+          %code git lg
+        %td
+          %code git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --
+        %td
+          %code git config --global alias.lg &quot;log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --&quot;
+  %p
+    %em
+      Some Aliases are taken from
+      %a{:href => "https://github.com/mathiasbynens"} @mathiasbynens
+      dotfiles:
+      %a{:href => "https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig"} https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig
+  %h4#auto-correct Auto-Correct
+  %p
+    If you type
+    %code git comit
+    you will get this:
+  %pre
+    %code.lang-bash
+      $ git comit -m
+      %span.hljs-string "Message"
+      %span.hljs-comment # git: 'comit' is not a git command. See 'git --help'.
+      %span.hljs-comment # Did you mean this?
+      %span.hljs-comment #   commit
+  %p
+    To call
+    %code commit
+    when
+    %code comit
+    is typed, just enable auto-correct:
+  %pre
+    %code.lang-bash
+      $ git config --global help.autocorrect
+      %span.hljs-number 1
+  %p So now you will get this:
+  %pre
+    %code.lang-bash
+      $ git comit -m
+      %span.hljs-string "Message"
+      %span.hljs-comment # WARNING: You called a Git command named 'comit', which does not exist.
+      %span.hljs-comment # Continuing under the assumption that you meant 'commit'
+      %span.hljs-comment # in 0.1 seconds automatically...
+  %h4#color Color
+  %p To add more color to your Git output:
+  %pre
+    %code.lang-bash
+      $ git config --global color.ui
+      %span.hljs-number 1
+  %p
+    %a{:href => "http://git-scm.com/docs/git-config"}
+      %em
+        Read more about the Git
+        %code config
+        command.
+  %h3#git-resources Git Resources
+  %ul
+    %li
+      %a{:href => "http://git-scm.com/"} Official Git Site
+    %li
+      %a{:href => "http://git-scm.com/videos"} Official Git Video Tutorials
+    %li
+      %a{:href => "http://try.github.com/"} Code School Try Git
+    %li
+      %a{:href => "http://gitref.org/"} Introductory Reference &amp; Tutorial for Git
+    %li
+      %a{:href => "http://git-scm.com/docs/gittutorial"} Official Git Tutorial
+    %li
+      %a{:href => "http://git-scm.com/docs/everyday"} Everyday Git
+    %li
+      %a{:href => "http://gitimmersion.com/"} Git Immersion
+    %li
+      %a{:href => "http://rypress.com/tutorials/git/index.html"} Ry's Git Tutorial
+    %li
+      %a{:href => "http://hoth.entp.com/output/git_for_designers.html"} Git for Designers
+    %li
+      %a{:href => "http://eagain.net/articles/git-for-computer-scientists/"} Git for Computer Scientists
+    %li
+      %a{:href => "http://www-cs-students.stanford.edu/~blynn/gitmagic/"} Git Magic
+    %li
+      %a{:href => "http://training.github.com/kit"} GitHub Training Kit
+    %li
+      %a{:href => "http://onlywei.github.io/explain-git-with-d3/#freeplay"} Git Visualization Playground
+  %h3#git-books Git Books
+  %ul
+    %li
+      %a{:href => "http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git"} Pragmatic Version Control Using Git
+    %li
+      %a{:href => "http://git-scm.com/book/en/v2"} Pro Git v2
+    %li
+      %a{:href => "https://github.com/pluralsight/git-internals-pdf"} Git Internals PluralSight
+    %li
+      %a{:href => "http://cbx33.github.com/gitt/"} Git in the Trenches
+    %li
+      %a{:href => "http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387"} Version Control with Git
+    %li
+      %a{:href => "http://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git"} Pragmatic Guide to Git
+    %li
+      %a{:href => "http://www.packtpub.com/git-version-control-for-everyone/book"} Git: Version Control for Everyone
+  %h3#webapps WebApps
+  %ul
+    %li
+      %a{:href => "http://astralapp.com"} Astral, Organize Your GitHub Stars With Ease
+    %li
+      %a{:href => "https://app.gistboxapp.com/"} Gistbox, The Beautiful Way to Organize Code Snippets
+  %h3#tools Tools
+  %ul
+    %li
+      %a{:href => "https://github.com/rafalchmiel/friction"} Github Friction tool
+    %li
+      %a{:href => "https://github.com/oleander/git-fame-rb"} Github Repository Collaborators sorted by contributions
+    %li
+      %a{:href => "https://github.com/tiimgreen/github-cheat-sheet#readme"} Github Cheat Sheet
+    %li
+      %a{:href => "https://hub.github.com"} Github Improve Git CLI
+    %li
+      %a{:href => "https://github.com/IonicaBizau/git-stats"} Github Git Stats
+    %li
+      %a{:href => "https://www.gitignore.io/"} Gitignore
+      \- Create useful .gitignore files for your project
+  %h3#website Website
+  %ul
+    %li
+      %a{:href => "https://octodex.github.com/"} octodex.github.com
+    %li
+      %a{:href => "http://octoboard.com"} octoboard.com
+      (
+      %a{:href => "https://github.com/KuiKui/Octoboard"}> Repository
+      )
+    %li
+      %a{:href => "http://githubarchive.org"} githubarchive.org
+      (
+      %a{:href => "https://github.com/igrigorik/githubarchive.org"}> Repository
+      )
+    %li
+      %a{:href => "http://issuestats.com"} issuestats.com
+      (
+      %a{:href => "https://github.com/hstove/issue_stats"}> Repository
+      )
+    %li
+      %a{:href => "http://githut.info"} githut.info
+      (
+      %a{:href => "https://github.com/littleark/githut/"}> Repository
+      )
+    %li
+      %a{:href => "http://sideeffect.kr/popularconvention"} popularconvention
+      (
+      %a{:href => "https://github.com/outsideris/popularconvention"}> Repository
+      )
+    %li
+      %a{:href => "https://osrc.dfm.io"} open source card
+      (
+      %a{:href => "https://github.com/dfm/osrc"}> Repository
+      )
+    %li
+      %a{:href => "http://git.io"} git.io
+  %h3#browser-extensions Browser Extensions
+  %ul
+    %li
+      %a{:href => "https://github.com/github-linker/chrome-extension/"} Github Linker (Extension for Chrome)
+    %li
+      %a{:href => "https://chrome.google.com/webstore/detail/github-tagger/apegcdgbjbocfnleknnbalmhlpbjgmmf"} Github Tagger
+    %li
+      %a{:href => "https://github.algolia.com/"} Github Awesome Autocomplete
+    %li
+      %a{:href => "https://chrome.google.com/webstore/detail/github-selfies/ldnpkdnkgkogfnahcnldaedcoadjbkbl"} Github Selfies
+  %h3#freaky-insane Freaky insane
+  %ul
+    %li
+      %a{:href => "https://github.com/IonicaBizau/github-contributions"} Github Contributions Generator
+    %li
+      %a{:href => "https://github.com/mehulkar/github-hall-of-fame"} Github Hall of Fame
+    %li
+      %a{:href => "https://github.com/paulmillr/top-github-users"} Github Top Users
