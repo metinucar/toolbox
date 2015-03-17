@@ -1,7 +1,7 @@
 table {
   @include font-feature-settings("kern", "liga", "tnum");
   border-collapse: collapse;
-  margin: $small-spacing 0;
+  margin: 0 0 $base-spacing * 2;
   table-layout: fixed;
   width: 100%;
 }
