@@ -26,7 +26,9 @@ a {
   text-decoration: none
 }
 
-ul {
+ul {;
+  @include clearfix;
+  margin-bottom: 2rem;
   li {
     margin-bottom: .5rem;
 
@@ -48,5 +50,12 @@ ul {
       background: $almost-white;
       color: $base-font-color;
     }
+  }
+
+  p {
+    margin: .5rem 0 1rem;
+    font-family: $monospace;
+    font-size: $font-size-small;
+    padding-left: 1.5rem
   }
 }
