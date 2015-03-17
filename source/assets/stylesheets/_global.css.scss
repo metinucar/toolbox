@@ -22,8 +22,16 @@ header {
 }
 
 a {
+  color: $blue;
   @include transition(all 200ms linear);
-  text-decoration: none
+  text-decoration: none;
+  border-bottom: 1px dashed rgba($blue, .25);
+  padding-bottom: 1px;
+
+  &:hover {
+    border-bottom: 1px solid rgba($blue, .5);
+  }
+
 }
 
 ul {;
@@ -45,10 +53,12 @@ ul {;
     background: rgba($almost-white, .5);
     border-radius: $base-border-radius;
     color: $base-font-color;
+    border-bottom: 1px solid darken($almost-white, 2%);
 
     &:hover {
       background: $almost-white;
       color: $base-font-color;
+      border-bottom: 1px solid darken($almost-white, 4%);
     }
   }
 
