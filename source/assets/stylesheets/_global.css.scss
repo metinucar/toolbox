@@ -23,7 +23,9 @@ header {
 
 a {
   @include transition(all 200ms linear);
-  text-decoration: none
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px dashed currentColor
 }
 
 ul {;
