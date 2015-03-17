@@ -540,7 +540,7 @@ table {
   -ms-font-feature-settings: "kern", "liga", "tnum";
   font-feature-settings: "kern", "liga", "tnum";
   border-collapse: collapse;
-  margin: 0.75em 0;
+  margin: 0 0 3em;
   table-layout: fixed;
   width: 100%; }
 
@@ -612,7 +612,7 @@ h6 {
 
 /* line 51, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 p {
-  margin: 0 0 0.75em; }
+  margin: 0 0 1.5em; }
 
 /* line 55, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 a {
