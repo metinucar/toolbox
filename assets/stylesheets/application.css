@@ -588,27 +588,27 @@ h6 {
 
 /* line 44, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h1 {
-  font-size: 3.8147rem; }
+  font-size: 2.98598rem; }
 
 /* line 45, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h2 {
-  font-size: 3.05176rem; }
+  font-size: 2.48832rem; }
 
 /* line 46, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h3 {
-  font-size: 2.44141rem; }
+  font-size: 2.0736rem; }
 
 /* line 47, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h4 {
-  font-size: 1.95313rem; }
+  font-size: 1.728rem; }
 
 /* line 48, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h5 {
-  font-size: 1.5625rem; }
+  font-size: 1.44rem; }
 
 /* line 49, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 h6 {
-  font-size: 1.25rem; }
+  font-size: 1.2rem; }
 
 /* line 51, /Users/mtncr/Development/toolbox/source/assets/stylesheets/base/_typography.scss */
 p {
@@ -749,5 +749,5 @@ ul {
   ul p {
     margin: .5rem 0 1rem;
     font-family: "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace;
-    font-size: 0.8rem;
+    font-size: 0.83333rem;
     padding-left: 1.5rem; }
