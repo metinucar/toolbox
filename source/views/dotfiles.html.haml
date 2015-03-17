@@ -1,0 +1,221 @@
+---
+title: Dotfiles
+---
+
+%section.wrap
+  %div.inner
+    %header
+      %h1 Dotfiles
+      %p
+        Forked from
+        %a{:href => "https://github.com/webpro/awesome-dotfiles"} Awesome Dotfiles
+        %br/
+        %a{:href => "http://ucarmetin.github.io/toolbox/"} Go back
+
+  %h2#articles Articles
+  %h3#introduction Introduction
+  %ul
+    %li
+      %a{:href => "https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789"} Getting started with dotfiles
+    %li
+      %a{:href => "https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304"} Managing your dotfiles
+    %li
+      %a{:href => "http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/"} Dotfiles Are Meant to Be Forked
+    %li
+      %a{:href => "http://wynnnetherland.com/journal/dotfiles-discovery"} Dotfile discovery
+  %h3#tutorials Tutorials
+  %ul
+    %li
+      %a{:href => "http://mattstauffer.co/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config"} Setting up a new (OS X) development machine: Part 3 - Dotfiles and custom SSH config
+    %li
+      %a{:href => "http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449"} Setting Up a Mac Dev Machine From Zero to Hero With Dotfiles
+    %li
+      %a{:href => "http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/"} Using Git and GitHub to manage your dotfiles
+    %li
+      %a{:href => "http://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/"} conf.d like directories for zsh/bash dotfiles
+  %h3#shell-startup Shell startup
+  %ul
+    %li
+      %a{:href => "http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html"} Shell startup scripts
+    %li
+      %a{:href => "http://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/"} Zsh/Bash startup files loading order
+  %h3#using-gnu-stow Using GNU Stow
+  %ul
+    %li
+      %a{:href => "http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html"} Using GNU Stow to manage your dotfiles
+    %li
+      %a{:href => "http://taihen.org/managing-dotfiles-with-gnu-stow/"} Managing dotfiles with GNU Stow
+  %h3#using-vcsh-mr Using vcsh &amp; mr
+  %ul
+    %li
+      %a{:href => "http://www.martin-burger.net/blog/unix-shell/manage-dotfiles-quickly-and-effortlessly/"} Manage dotfiles Quickly and Effortlessly
+    %li
+      %a{:href => "http://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html"} Managing dot-files with vcsh and myrepos
+    %li
+      %a{:href => "http://www.kunxi.org/blog/2014/02/manage-dotfiles-using-vcsh-and-mr/"} Manage dotfiles using vcsh and mr
+  %h3#using-ansible Using Ansible
+  %ul
+    %li
+      %a{:href => "http://palcu.blogspot.nl/2014/06/dotfiles-and-dev-tools-provisioned-by.html"} Dotfiles and dev tools provisioned by Ansible
+    %li
+      %a{:href => "http://kreusch.com.br/blog/2013/12/03/manage-a-development-machine-with-ansible/"} Manage a development machine with Ansible
+  %h2#dotfiles-repos Dotfiles repos
+  %p A collection of the most popular, well-maintained, and collaborative dotfiles repositories &amp; frameworks. Some projects contain just the dotfiles. Others go further by allowing you to easily add your own custom dotfiles, and/or including scripts to manage dotfiles/plugins.
+  %h3#bash Bash
+  %table
+    %thead
+      %tr
+        %th{:style => "text-align:left"} Title
+        %th{:style => "text-align:left"} Description
+        %th{:style => "text-align:left"} Focus
+    %tbody
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/barryclark/bashstrap"} Bashstrap
+        %td{:style => "text-align:left"} Bootstrap for your terminal. A quick way to spruce up OSX terminal.
+        %td{:style => "text-align:left"} OS X Terminal, prompt, iTerm.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/revans/bash-it"} Bash it
+        %td{:style => "text-align:left"} Community bash framework.
+        %td{:style => "text-align:left"} Autocompletion, themes, aliases, custom functions. Well-structured framework.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "http://mths.be/dotfiles"} Mathias’s dotfiles
+        %td{:style => "text-align:left"} .files, including ~/.osx — sensible hacker defaults for OS X
+        %td{:style => "text-align:left"} Lots of goodness here, great collaborative community effort.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/square/maximum-awesome"} Maximum Awesome
+        %td{:style => "text-align:left"} Config files for vim and tmux, by Square vimsters.
+        %td{:style => "text-align:left"} Vim, tmux. Built for Mac OS X.
+  %h3#zsh Zsh
+  %table
+    %thead
+      %tr
+        %th{:style => "text-align:left"} Title
+        %th{:style => "text-align:left"} Description
+        %th{:style => "text-align:left"} Focus
+    %tbody
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/thoughtbot/dotfiles"} thoughtbot dotfiles
+        %td{:style => "text-align:left"} Set of vim, zsh, git, and tmux configuration files
+        %td{:style => "text-align:left"}
+          Zsh, vim, tmux, git, homebrew. Uses
+          = succeed "." do
+            %a{:href => "https://github.com/thoughtbot/rcm"} rcm
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "http://ohmyz.sh/"} oh-my-zsh
+        %td{:style => "text-align:left"} Community-driven framework for managing your zsh configuration.
+        %td{:style => "text-align:left"} Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/sorin-ionescu/prezto"} Prezto
+        %td{:style => "text-align:left"} Prezto is the configuration framework for Zsh.
+        %td{:style => "text-align:left"} Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "http://skwp.github.io/dotfiles/"} YADR
+        %td{:style => "text-align:left"} The best vim, git, zsh plugins and the cleanest vimrc you've ever seen
+        %td{:style => "text-align:left"} Homebrew, zsh, git, vim, and more. Active repository.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/holman/dotfiles"} holman does dotfiles
+        %td{:style => "text-align:left"} holman does dotfiles
+        %td{:style => "text-align:left"} Organized well around topics. Author wants it to work for everyone.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "http://antigen.sharats.me/"} antigen
+        %td{:style => "text-align:left"} Plugin manager for zsh, inspired by oh-my-zsh and vundle.
+        %td{:style => "text-align:left"} Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
+      %tr
+        %td{:style => "text-align:left"}
+          %a{:href => "https://github.com/eduardolundgren/dotfiles"} Eduardo's dotfiles
+        %td{:style => "text-align:left"} The first JavaScript-based dotfiles powered by Grunt.
+        %td{:style => "text-align:left"} Zsh, Node.js, Ruby, OS X defaults. Installable from npm.
+  %p There are many more great dotfiles repos out there, each containing their own inspiration and gems.
+  %ul
+    %li
+      %a{:href => "https://github.com/search?q=dotfiles&amp;type=Repositories"} Search GitHub for &quot;dotfiles&quot;
+    %li
+      %a{:href => "https://www.google.com/#q=dotfiles"} Google for &quot;dotfiles&quot;
+    %li
+      %a{:href => "https://wiki.archlinux.org/index.php/Dotfiles"} Archlinux collection
+  %p
+    Tip: search for a filename on GitHub, e.g.
+    = succeed "." do
+      %a{:href => "https://www.google.com/#q=site:github.com+.gitconfig"} site:github.com .gitconfig
+  %h2#tools Tools
+  %ul
+    %li
+      %a{:href => "http://www.ansible.com/home"} Ansible
+      \- Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
+    %li
+      %a{:href => "https://github.com/spencergibb/battleschool"} battleschool
+      \- Development environment provisioning using ansible
+    %li
+      %a{:href => "https://github.com/mattly/bork"} Bork
+      \- Bash DSL for config management
+    %li
+      %a{:href => "https://github.com/anishathalye/dotbot"} dotbot
+      \- Tool that bootstraps your dotfiles
+    %li
+      %a{:href => "http://freshshell.com/"} fresh
+      \- Keep your dot files fresh. fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
+    %li
+      %a{:href => "http://www.gnu.org/software/stow/"} GNU Stow
+      \- GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
+    %li
+      %a{:href => "https://github.com/andsens/homeshick"} homeshick
+      \- Git dotfile synchronizer written in bash
+    %li
+      %a{:href => "https://github.com/technicalpickles/homesick"} homesick
+      \- Your home directory is your castle. Don't leave your dotfiles behind (
+      %a{:href => "http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/"}> post
+      ).
+    %li
+      %a{:href => "https://github.com/lra/mackup"} mackup
+      \- Keep your application settings in sync (OS X/Linux)
+    %li
+      %a{:href => "https://github.com/thoughtbot/rcm"} rcm
+      \- rc file (dotfile) management
+    %li
+      %a{:href => "https://github.com/NorfairKing/super-user-stone"} Super User Stone
+      \- SUS manages the deployment of your configuration files (dotfiles)  (
+      %a{:href => "http://blog.cs-syd.eu/super-user-stone/"}> post
+      ).
+    %li
+      %a{:href => "https://github.com/RichiH/vcsh"} vcsh
+      \- Version Control System for $HOME, multiple Git repositories in $HOME
+  %h3#os-x OS X
+  %ul
+    %li
+      %a{:href => "https://github.com/msanders/cider"} Cider
+      \- Cider is a simple wrapper for Homebrew and Homebrew Cask that allows you to save your setup across different machines.
+    %li
+      %a{:href => "https://github.com/kcrawford/dockutil"} dockutil
+      \- Command line tool for managing dock items
+    %li
+      %a{:href => "https://github.com/jh3y/kody"} kody
+      \- Dotfiles runner/manager written in node
+    %li
+      %a{:href => "http://osxc.github.io/"} osxc
+      \- Set of playbook roles made for OS X configuration
+  %h2#miscellaneous Miscellaneous
+  %ul
+    %li
+      %a{:href => "https://plus.google.com/u/0/+RobPikeTheHuman/posts/R58WgWwN9jp"} A lesson in shortcuts
+      \- How the idea of &quot;hidden&quot; or &quot;dot&quot; files was born, by Rob Pike.
+    %li
+      %a{:href => "http://dotfiles.github.io/"} dotfiles.github.io
+      \- Your unofficial guide to dotfiles on GitHub.
+    %li
+      %a{:href => "http://dotfiles.org/"} dotfiles.org
+      \- dotfiles.org is a place to upload, download, and share your dotfiles.
+    %li
+      %a{:href => "https://github.com/kevinSuttle/OSXDefaults"} OS X Defaults
+      \- Centralized place for the awesome work started by
+      = succeed "." do
+        %a{:href => "https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults"} @mathiasbynens on .osx
