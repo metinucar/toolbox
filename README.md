@@ -15,6 +15,7 @@ A curated collection useful awesome lists
 - [Awesome sass](awesome-sass.md)
 - [Awesome shell](awesome-shell.md)
 - [Awesome sketch](awesome-sketch.md)
+- [Awesome software](awesome-software.md)
 - [Awesome solutions](awesome-solutions.md)
 - [Awesome sublime](awesome-sublime.md)
 - [Awesome sysadmin](awesome-sysadmin.md)
