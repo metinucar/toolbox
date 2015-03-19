@@ -2,6 +2,7 @@
 A curated collection useful awesome lists
 
 ## So far
+- [Awesome solutions](awesome-solutions.md)
 - [Awesome analytics](awesome-analytics.md)
 - [Awesome course](awesome-courses.md)
 - [Awesome dotfiles](awesome-dotfiles.md)
