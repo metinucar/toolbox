@@ -1,7 +1,6 @@
 # Toolbox
 A curated collection useful awesome lists
 
-## So far
 Title | Description
 :--|:--
 [Awesome analytics](lists/awesome-analytics.md) | A curated list of analytics frameworks, software and other tools
