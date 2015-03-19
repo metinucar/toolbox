@@ -2,7 +2,7 @@
 A curated collection awesome lists that are useful to me
 
 ## So far
-- [Awesome Analytics](#awesome-analytics)
+- [Awesome Analytics](awesome-analytics)
 
 
 ## Awesome lists
