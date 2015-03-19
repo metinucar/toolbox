@@ -16,7 +16,7 @@ brew cask install onepassword
 brew cask install airmail-amt
 ```
 
-- [Alfred](http://www.alfredapp.com/) - More than spotligt replacement. A productivity application for Mac OS X.
+- [Alfred](http://www.alfredapp.com/) - A productivity application for Mac OS X.
 ```
 brew cask install alfred
 ```
