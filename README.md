@@ -2,7 +2,6 @@
 A curated collection useful awesome lists
 
 ## So far
-- [Awesome solutions](awesome-solutions.md)
 - [Awesome analytics](awesome-analytics.md)
 - [Awesome course](awesome-courses.md)
 - [Awesome dotfiles](awesome-dotfiles.md)
@@ -16,6 +15,7 @@ A curated collection useful awesome lists
 - [Awesome sass](awesome-sass.md)
 - [Awesome shell](awesome-shell.md)
 - [Awesome sketch](awesome-sketch.md)
+- [Awesome solutions](awesome-solutions.md)
 - [Awesome sublime](awesome-sublime.md)
 - [Awesome sysadmin](awesome-sysadmin.md)
 - [Critical path CSS tools](critical-path-css-tools.md)
