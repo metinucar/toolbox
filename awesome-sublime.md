@@ -109,6 +109,7 @@ Plugins:
 
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) — powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview) — preview and build your markdown files quickly in your web browser from Sublime Text.
+- [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble.
 
 ### Documentation and Help Systems
 
