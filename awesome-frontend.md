@@ -133,6 +133,7 @@
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
+- [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -146,6 +147,7 @@
 - [MProgress.js](https://lightningtgc.github.io/MProgress.js/) - Google Material Design Progress Linear bar
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+- [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -163,15 +165,18 @@
 
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
+- [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
 - [gator.js](http://craig.is/riding/gators) - Simple event delegation
+- [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
+- [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -185,6 +190,7 @@
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 - [Payment webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [Payment font](https://github.com/vendocrat/PaymentFont) - A sleek webfont containing 94 icons of all main payment operators and methods
+- [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
