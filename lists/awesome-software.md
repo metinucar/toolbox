@@ -8,7 +8,7 @@ Best software for developers and power users.
 
 - [1 Password](https://agilebits.com/onepassword/mac) - Password manager
 ```
-brew cask install onepassword
+brew cask install 1password
 ```
 
 - [Airmail](http://airmailapp.com/) - Mail client for OSX
