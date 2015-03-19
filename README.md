@@ -1,9 +1,27 @@
 # Toolbox
-A curated collection awesome lists that are useful to me
+A curated collection useful awesome lists
 
 ## So far
-- [Awesome Analytics](awesome-analytics.md)
-
+- [Awesome analytics](awesome-analytics.md)
+- [Awesome course](awesome-courses.md)
+- [Awesome dotfiles](awesome-dotfiles.md)
+- [Awesome frontend](awesome-frontend.md)
+- [Awesome github](awesome-github.md)
+- [Awesome HTML5](awesome-html5.md)
+- [Awesome images](awesome-images.md)
+- [Awesome javascript](awesome-javascript.md)
+- [Awesome php](awesome-php.md)
+- [Awesome ruby](awesome-ruby.md)
+- [Awesome sass](awesome-sass.md)
+- [Awesome shell](awesome-shell.md)
+- [Awesome sketch](awesome-sketch.md)
+- [Awesome sublime](awesome-sublime.md)
+- [Awesome sysadmin](awesome-sysadmin.md)
+- [Critical path CSS tools](critical-path-css-tools.md)
+- [Essential javascript links](essential-javascript-links.md)
+- [Frontend dev bookmarks](frontend-dev-bookmarks.md)
+- [Frontend guidelines](frontend-guidelines.md)
+- [Frontend job interview questions](frontend-job-interview-questions.md)
 
 ## Awesome lists
 - [Awesome awesomeoness](https://github.com/bayandin/awesome-awesomeness)
