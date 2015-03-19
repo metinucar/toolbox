@@ -44,13 +44,14 @@
 ## Themes
 
 - [Sage](https://github.com/roots/sage) - WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap
-- [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project.
+- [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project
 
 
 ## Tools
 
 - [wp-cli](https://github.com/wp-cli/wp-cli) - A command line interface for WordPress
-- [Generate WP](http://generatewp.com/) - Common code snippets generator.
+- [Generate WP](http://generatewp.com/) - Common code snippets generator
+- [Bedrock](https://github.com/roots/bedrock) - Modern WordPress stack that gets you started with the best development tools, practices, and project structure
 
 
 ## Tutorials
