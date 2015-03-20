@@ -6,7 +6,7 @@ Title | Description
 [Awesome analytics](lists/awesome-analytics.md) | A curated list of analytics frameworks, software and other tools
 [Awesome course](lists/awesome-courses.md) | High-quality material i.e. assignments, lectures, notes, readings & examinations
 [Awesome dotfiles](lists/awesome-dotfiles.md) | A curated list of dotfiles resources
-[Awesome favicon](lists/awesome-favicon.md) | Obsessive cheat sheet to favicon sizes/types
+[Awesome favicon](lists/awesome-favicon.rst) | Obsessive cheat sheet to favicon sizes/types
 [Awesome frontend](lists/awesome-frontend.md) | A collection of framework/libraries and tools. Mostly Javascript
 [Awesome github](lists/awesome-github.md) | A collection of cool hidden and not so hidden features of Git and GitHub
 [Awesome .htaccess](lists/awesome-htaccess.md) | A collection of useful .htaccess snippets, all in one place
