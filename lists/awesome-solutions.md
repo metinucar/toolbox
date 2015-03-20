@@ -21,3 +21,6 @@ git checkout master
 # Merge changes from upstream/master into your local master
 git merge upstream/master
 ```
+
+- **Bowtie not working with Spotify ~1.0.2**
+Right-click on your Spotify.app and select 'Open'. Go inside Contents/Resources. You will see an 'applescript' folder there. Move the only file 'Spotify.sdef' from that folder to the 'Resources' folder above. This trick should be made every time your Spotify updates until they fixed the issue. [Source](http://mmth.us/support/simplify_mac/10.html)
