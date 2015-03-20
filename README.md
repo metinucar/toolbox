@@ -24,6 +24,7 @@ Title | Description
 [Awesome solutions](lists/awesome-solutions.md) | A collection of solutions, fixes, instructions around web for various problems
 [Awesome sublime](lists/awesome-sublime.md) | Sublime Text essential plugins and resources
 [Awesome sysadmin](lists/awesome-sysadmin.md) | A curated list of amazingly awesome open source sysadmin resources
+[Awesome wordpress](lists/awesome-wordpress.md) | A curated list of themes, tools, plugins, and tutorials
 [Critical path CSS tools-css-tools](lists/critical-path-css-tools.md) | Tools to prioritize above-the-fold (critical-path) CSS
 [Essential javascript links-links](lists/essential-javascript-links.md) | A curated list by Eric Elliott and friends
 [Frontend dev bookmarks-bookmarks](lists/frontend-dev-bookmark.md) | A huge list of frontend development resources collected over time
