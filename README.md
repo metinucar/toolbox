@@ -15,6 +15,7 @@ Title | Description
 [Awesome php](lists/awesome-php.md) | A curated list of amazingly awesome PHP libraries, resources and shiny things
 [Awesome ruby](lists/awesome-ruby.md) | A collection of awesome Ruby libraries, tools, frameworks and software
 [Awesome sass](lists/awesome-sass.md) | A curated list of awesome SASS
+[Awesome seo](lists/awesome-seo.md) | A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics
 [Awesome shell](lists/awesome-shell.md) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos
 [Awesome sketch](lists/awesome-sketch.md) | A curated list of awesome Sketch videos, articles, guides, whatever for designers, front-end developers or whoever who really wants to learn Sketch
 [Awesome software](lists/awesome-software.md) | A collection of software I use
