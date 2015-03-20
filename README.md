@@ -10,6 +10,7 @@ Title | Description
 [Awesome github](lists/awesome-github.md) | A collection of cool hidden and not so hidden features of Git and GitHub
 [Awesome HTML5](lists/awesome-html5.md) | A curated list of awesome HTML5 resources
 [Awesome images](lists/awesome-images.md) | A collection of amazingly awesome free (stock) photo resources
+[Awesome creative commons media](lists/awesome-creative-commons-media.md) | A curated list of resources that provide media licensed under Creative Commons licenses
 [Awesome javascript](lists/awesome-javascript.md) | A collection of awesome browser-side JavaScript libraries, resources and shiny things
 [Awesome php](lists/awesome-php.md) | A curated list of amazingly awesome PHP libraries, resources and shiny things
 [Awesome ruby](lists/awesome-ruby.md) | A collection of awesome Ruby libraries, tools, frameworks and software
