@@ -6,8 +6,10 @@ Title | Description
 [Awesome analytics](lists/awesome-analytics.md) | A curated list of analytics frameworks, software and other tools
 [Awesome course](lists/awesome-courses.md) | High-quality material i.e. assignments, lectures, notes, readings & examinations
 [Awesome dotfiles](lists/awesome-dotfiles.md) | A curated list of dotfiles resources
+[Awesome favicon](lists/awesome-favicon.md) | Obsessive cheat sheet to favicon sizes/types
 [Awesome frontend](lists/awesome-frontend.md) | A collection of framework/libraries and tools. Mostly Javascript
 [Awesome github](lists/awesome-github.md) | A collection of cool hidden and not so hidden features of Git and GitHub
+[Awesome .htaccess](lists/awesome-htaccess.md) | A collection of useful .htaccess snippets, all in one place
 [Awesome HTML5](lists/awesome-html5.md) | A curated list of awesome HTML5 resources
 [Awesome images](lists/awesome-images.md) | A collection of amazingly awesome free (stock) photo resources
 [Awesome creative commons media](lists/awesome-creative-commons-media.md) | A curated list of resources that provide media licensed under Creative Commons licenses
@@ -27,6 +29,7 @@ Title | Description
 [Frontend dev bookmarks-bookmarks](lists/frontend-dev-bookmark.md) | A huge list of frontend development resources collected over time
 [Frontend guidelines](lists/frontend-guidelines.md) | Some HTML, CSS and JS best practices
 [Frontend job interview questions-interview-questions](lists/frontend-job-interview-questions.md) | This file contains a number of front-end interview questions that can be used when vetting potential candidates
+[Learn to program](lists/learn-to-program.md) | Education resources to learn to program
 [Awesome svg](https://github.com/willianjusten/awesome-svg) *(external)* | A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date
 [Tools of trade](https://github.com/cjbarber/ToolsOfTheTrade) *(external)* | HN Tools of The Trade, 2014 Edition
 [Web performance optimizations](https://github.com/davidsonfellipe/awesome-wpo) *(external)* | A curated list of Web Performance Optimization
@@ -34,6 +37,7 @@ Title | Description
 [Awesome styleguides](https://github.com/RichardLitt/awesome-styleguides) *external* | A list of styleguides
 [Awesome conferences](https://github.com/RichardLitt/awesome-conferences) *external* | A list of awesome conferences
 [Design sprint](https://github.com/thoughtbot/design-sprint) *external* | Product Design Sprint Material by thoughtbot
+[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi) *external* | Sci-Fi worth consuming
 
 ## Other awesome lists
 - [Awesome awesomeoness](https://github.com/bayandin/awesome-awesomeness)
