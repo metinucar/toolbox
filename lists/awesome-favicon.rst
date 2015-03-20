@@ -1,4 +1,5 @@
-# Awesome favicon
+Awesome favicon
+--------
 Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
 
 > Forked from [favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet)
