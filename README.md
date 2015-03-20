@@ -26,8 +26,15 @@ Title | Description
 [Frontend dev bookmarks-bookmarks](lists/frontend-dev-bookmark.md) | A huge list of frontend development resources collected over time
 [Frontend guidelines](lists/frontend-guidelines.md) | Some HTML, CSS and JS best practices
 [Frontend job interview questions-interview-questions](lists/frontend-job-interview-questions.md) | This file contains a number of front-end interview questions that can be used when vetting potential candidates
+[Awesome svg](https://github.com/willianjusten/awesome-svg) *(external)* | A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date
+[Tools of trade](https://github.com/cjbarber/ToolsOfTheTrade) *(external)* | HN Tools of The Trade, 2014 Edition
+[Web performance optimizations](https://github.com/davidsonfellipe/awesome-wpo) *(external)* | A curated list of Web Performance Optimization
+[Remote job](https://github.com/lukasz-madon/awesome-remote-job) *external* | A curated list of awesome remote working resources
+[Awesome styleguides](https://github.com/RichardLitt/awesome-styleguides) *external* | A list of styleguides
+[Awesome conferences](https://github.com/RichardLitt/awesome-conferences) *external* | A list of awesome conferences
+[Design sprint](https://github.com/thoughtbot/design-sprint) *external* | Product Design Sprint Material by thoughtbot
 
-## Awesome lists
+## Other awesome lists
 - [Awesome awesomeoness](https://github.com/bayandin/awesome-awesomeness)
 - [Sindre Sorhus's curated awesome list](https://github.com/sindresorhus/awesome)
 - [Lists](https://github.com/jnv/lists)
