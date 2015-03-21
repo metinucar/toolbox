@@ -73,7 +73,7 @@ To sum up, we want:
 
 
 ## Tools
-- [CSSCSS](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy. It can be used to analyze SASS/SCSS files as well.
+- [CSSCSS](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy. It can be used to analyze SASS/SCSS files as well. There are [gulp](https://www.npmjs.com/package/gulp-csscss/) and [grunt](https://github.com/peterkeating/grunt-csscss) extensions integrating csscss with your dev-workflow.
 
 
 ## At other places
