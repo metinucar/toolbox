@@ -53,6 +53,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
     - [Duplicator](https://github.com/turbobabr/duplicator)
+    - [Bookmarker](https://github.com/turbobabr/Bookmarker) - Bookmarker is an ultimate solution for bookmarking layers
   - Where do you get more
     - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins-for-sketch.html)
     - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
