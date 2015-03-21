@@ -34,6 +34,7 @@ A curated list of awesome Sass.
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons
 - [Pantone Sass](https://github.com/damonbauer/Pantone-Sass) - A Sass map of Pantone colors
 - [Normalize Sass](https://github.com/JohnAlbin/normalize-scss) - A collection of HTML element and attribute rulesets to normalize styles across all browsers
+- [Include Media](https://github.com/eduardoboucas/include-media) - Write simple, elegant and maintainable media queries with Sass
 
 ## SASS Guidelines - Too Long; Didn't read version
 > Forked from [SASS Guidelines](http://sass-guidelin.es/)
