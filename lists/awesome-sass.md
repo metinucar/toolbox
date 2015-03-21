@@ -36,6 +36,7 @@ A curated list of awesome Sass.
 - [Normalize Sass](https://github.com/JohnAlbin/normalize-scss) - A collection of HTML element and attribute rulesets to normalize styles across all browsers
 - [Include Media](https://github.com/eduardoboucas/include-media) - Write simple, elegant and maintainable media queries with Sass
 - [Guss](https://github.com/guardian/guss) - Guss is a collection of Sass bower components, re-usable across multiple Guardian web products
+- [Sassy Flags](https://github.com/Layerful/sassy-flags) - Lightweight Sass library to display flags on your site
 
 ## SASS Guidelines - Too Long; Didn't read version
 > Forked from [SASS Guidelines](http://sass-guidelin.es/)

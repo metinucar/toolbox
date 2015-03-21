@@ -121,6 +121,7 @@
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
 - [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
+- [aLoad](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 260 bytes)
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
