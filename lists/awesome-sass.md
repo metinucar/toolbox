@@ -1,11 +1,16 @@
 # Awesome Sass
-
+A curated list of awesome Sass
 > Forked from [Awesome Sass](https://github.com/HugoGiraudel/awesome-sass)
 
-A curated list of awesome Sass.
+- [GitHub repositories](#github-repositories)
+- [SASS Guidelines - Too Long; Didn&rsquo;t read version](#sass-guidelines-too-long-didnt-read-version)
+- [Tools](#tools)
+- [At other places](#at-other-places)
+- [Screencasts](#screencasts)
+- [CodePen / SassMeister](#codepen-sassmeister)
+
 
 ## GitHub repositories
-
 - [SassDoc](https://github.com/SassDoc/sassdoc) - release the docs!
 - [Sass Guidelines](http://sass-guidelin.es) - an opinionated styleguide for writing sane, maintainable and scalable Sass
 - [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility) - Sass Compatibility tables
@@ -38,6 +43,7 @@ A curated list of awesome Sass.
 - [Guss](https://github.com/guardian/guss) - Guss is a collection of Sass bower components, re-usable across multiple Guardian web products
 - [Sassy Flags](https://github.com/Layerful/sassy-flags) - Lightweight Sass library to display flags on your site
 
+
 ## SASS Guidelines - Too Long; Didn't read version
 > Forked from [SASS Guidelines](http://sass-guidelin.es/)
 
@@ -65,8 +71,12 @@ To sum up, we want:
 - Reduced number of dependencies;
 - Meaningful use of warnings and errors.
 
-## At other places
 
+## Tools
+- [CSSCSS](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy. It can be used to analyze SASS/SCSS files as well.
+
+
+## At other places
 - [Breakpoints and tweakpoints in Sass](http://www.sitepoint.com/breakpoints-tweakpoints-sass/) at SitePoint (17-02-2015)
 - [Why I Don't Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/) at SitePoint (10-02-2015)
 - [SassDoc 2 Shiny Streamy Octopus is Out](http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/) at SitePoint (05-02-2015)
@@ -121,13 +131,13 @@ To sum up, we want:
 - [Looking into the future of Sass](http://davidwalsh.name/future-sass) at David Walsh' (17-07-2013)
 - [Create Striped Backgrounds With Gradients (and a Sass Mixin)](http://css-tricks.com/striped-background-gradients/) at CSS-Tricks (09-07-2013)
 
-## Screencasts
 
+## Screencasts
 - [SassBites #42](https://www.youtube.com/watch?v=H6Y9r49InXo&feature=youtu.be)
 - [Podcast at CDNify](https://cdnify.com/blog/sassdoc-document-sass-files-functions-mixins/)
 
-## CodePen / SassMeister
 
+## CodePen / SassMeister
 - [Assert system](https://sassmeister.com/gist/8b3d421c1e369ca5c88b)
 - [Simple nth-of-type for IE](https://sassmeister.com/gist/5a9558e4f2c9d82a70df)
 - [trim() function](https://sassmeister.com/gist/9eaa43a4a5de27647ca8)
