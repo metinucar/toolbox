@@ -163,6 +163,9 @@ brew cask install slack
 brew cask install sequel-pro
 ```
 
+- [Sketch](http://bohemiancoding.com/sketch/) - Powerful, flexibile, fast and lightweight design tool
+
+
 - [Sketch Toolbox](http://sketchtoolbox.com/) - A super simple plugin manager for Sketch
 ```
 brew cask install sketch-toolbox
