@@ -22,6 +22,7 @@
 - [Colors](#colors)
 - [Databases](#databases)
 - [Social](#social)
+- [Accessibility](#accessibility)
 - [Codepen collection](#codepen-collection)
 
 
@@ -89,6 +90,7 @@
 - [Google web font load](https://github.com/qrpike/Web-Font-Load) - Install all Google Web Fonts onto your local machine
 - [Beautiful web type](https://github.com/ubuwaits/beautiful-web-type) - A showcase of the best typefaces from the Google web fonts directory
 - [Fit text](https://github.com/davatron5000/FitText.js) - FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines
+- [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [Google web font loader](https://github.com/qrpike/Web-Font-Load) - Install all Google Web Fonts onto your local machine
 
 ### Video
@@ -154,6 +156,7 @@
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
+- [Unicorn UI Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -220,6 +223,9 @@
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
+
+## Accessibility
+- [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - The polyfill for a more accessible HTML5
 
 ### Codepen collection
 - [Pull Menu - Menu interaction concept](http://codepen.io/ucarmetin/pen/EagXOE)
