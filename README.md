@@ -41,6 +41,8 @@ Title | Description
 [Chrome DevTools code snippets](https://github.com/bahmutov/code-snippets) *(external)* | Chrome DevTools code snippets
 [Design sprint](https://github.com/thoughtbot/design-sprint) *(external)* | Product Design Sprint Material by thoughtbot
 [Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi) *(external)* | Sci-Fi worth consuming
+[Tools for web](https://github.com/lvwzhen/tools) *(external)* | Various online tools for frontend development
+[Guides](https://github.com/NARKOZ/guides) *(external)* | Design and development guides
 
 ## Other awesome lists
 - [Awesome awesomeoness](https://github.com/bayandin/awesome-awesomeness)
