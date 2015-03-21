@@ -233,4 +233,5 @@
 - [Accessible Read More Links](http://codepen.io/ucarmetin/pen/umpil)
 - [SVG Loading Indicators](http://codepen.io/ucarmetin/pen/EGHfv)
 - [SVG Hamburger Icon](http://codepen.io/ucarmetin/pen/razWdG)
-- [An animated scroll button.](http://codepen.io/robooneus/pen/Aclqr)
+- [An animated scroll button](http://codepen.io/robooneus/pen/Aclqr)
+- [CSS-only Weather App](http://codepen.io/davidkpiano/pen/ByNPQw/)

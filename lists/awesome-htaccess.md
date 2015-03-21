@@ -52,6 +52,7 @@ What we are doing here is mostly collecting useful snippets from all over the in
     - [Switch to Another PHP Version](#switch-to-another-php-version)
     - [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
     - [Serve WebP Images](#serve-webp-images)
+    - [External Resources](#external-resources)
 
 ## Rewrite and Redirection
 Note: It is assumed that you have `mod_rewrite` installed and enabled.
@@ -508,3 +509,6 @@ RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
 [Source](https://github.com/vincentorback/WebP-images-with-htaccess)
+
+### External Resources
+- [HTML5 Boilerplate .htaccess file](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess)
