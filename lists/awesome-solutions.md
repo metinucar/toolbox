@@ -23,7 +23,7 @@ echo $BASH && echo $BASH_VERSION
 Instructions on how to fix npm if you've installed Node through Homebrew on Mac OS X
 
 ## Syncing a fork
-```
+```bash
 # Check current configured remote repositories
 git remote -v
 
