@@ -45,6 +45,7 @@
 
 - [Sage](https://github.com/roots/sage) - WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap
 - [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project
+- [Bones](https://github.com/eddiemachado/bones) - A Mobile-First, Responsive WordPress starter theme based off 320 and Up & HTML5 Boilerplate
 
 
 ## Tools
