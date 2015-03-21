@@ -60,7 +60,8 @@ Alive projects only, with Sublime Text version 3 support.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Dotfiles Syntax Highlighting](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
-- [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+- [CodeFormatter](https://github.com/akalongman/sublimetext-codeformatter) - CodeFormatter is a Sublime Text 2/3 plugin that supports format (beautify) source code
+- [Schemr](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts
 
 ### Ruby Profile
 
@@ -116,6 +117,7 @@ Plugins:
 
 - [GotoDocumentation](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
 - [DashDoc](https://github.com/farcaller/DashDoc) — [Dash](http://kapeli.com/dash) integration for Sublime Text.
+- [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
 - [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool](https://github.com/gleitz/howdoi).
 
 ## Integration
