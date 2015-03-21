@@ -130,3 +130,7 @@ search engines do not use this meta tag
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/):** past in you rich snippets or url to test it
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** Enter the URL of the page with the meta tags to validate
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug):** Enter the URL you want to scrape to see how the page's markup appears to Facebook.
+
+### Testing
+* **[SEO SiteCheckUp](http://seositecheckup.com/):** Comprehensive search engine optimization tools
+* **[WooRank](http://www.woorank.com/):** A review tool for SEO elements, W3 validation, and numerous other variables. Free basic service
