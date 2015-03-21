@@ -92,6 +92,7 @@
 - [Fit text](https://github.com/davatron5000/FitText.js) - FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [Google web font loader](https://github.com/qrpike/Web-Font-Load) - Install all Google Web Fonts onto your local machine
+- [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -187,6 +188,7 @@
 - [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
+- [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -201,6 +203,7 @@
 - [Payment webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [Payment font](https://github.com/vendocrat/PaymentFont) - A sleek webfont containing 94 icons of all main payment operators and methods
 - [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
+- [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
