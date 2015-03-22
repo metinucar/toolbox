@@ -22,7 +22,7 @@ Title | Description
 [Awesome shell](lists/awesome-shell.md) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos
 [Awesome sketch](lists/awesome-sketch.md) | A curated list of awesome Sketch videos, articles, guides, whatever for designers, front-end developers or whoever who really wants to learn Sketch
 [Awesome software](lists/awesome-software.md) | A collection of software I use
-[Awesome solutions](lists/awesome-solutions.md) | A collection of solutions, fixes, instructions around web for various problems
+[Guides](lists/guides.md) | A collection of solutions, fixes, instructions around web for various problems
 [Awesome sublime](lists/awesome-sublime.md) | Sublime Text essential plugins and resources
 [Awesome sysadmin](lists/awesome-sysadmin.md) | A curated list of amazingly awesome open source sysadmin resources
 [Awesome wordpress](lists/awesome-wordpress.md) | A curated list of themes, tools, plugins, and tutorials
