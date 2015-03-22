@@ -1,6 +1,8 @@
-# Awesome Solutions
+# Guides
+A collection of succinct guides
 
-Solutions, instructions, fixes, etc. for various dev-env problems
+## External Resources
+- [Sindre Sorhus's Guides](https://github.com/sindresorhus/guides)
 
 ## Install Bash version 4 on MacOS X
 ```bash
