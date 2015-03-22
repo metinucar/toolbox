@@ -1,7 +1,6 @@
 # Awesome frontend
 > Forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
-- [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Text](#text)
@@ -24,19 +23,6 @@
 - [Social](#social)
 - [Accessibility](#accessibility)
 - [Codepen collection](#codepen-collection)
-
-
-### UI Frameworks
-- [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
-- [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
-- [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
-- [pure](http://purecss.io/) - A set of small, responsive CSS modules
-- [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
-- [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
-- [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
-- [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
-- [Material UI](https://github.com/callemall/material-ui) - A CSS Framework and a Set of React Components that Implement Google's Material Design
-- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -76,6 +62,7 @@
 - [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
 
 ### Text
+- [Redacted Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [Type Scale](http://type-scale.com/) - A visual typography calculator
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
@@ -134,12 +121,12 @@
 - [Page piling](https://github.com/alvarotrigo/pagePiling.js) - Create a scrolling pile of sections.
 
 ### Animations
+- [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animation
 - [GSAP](https://greensock.com/gsap) - Fast animation library
 - [bounce.js](http://bouncejs.com/) - CSS3 powered animations
 - [snabbt](https://daniel-lundin.github.io/snabbt.js/) - Animations with JavaScript and CSS transforms
-- [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
@@ -159,6 +146,7 @@
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
 - [Unicorn UI Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
+- [UI Gradients](http://uigradients.com/) - Dual tone colour gradients for design and code
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -189,6 +177,7 @@
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
+- [CSS Shrink](http://cssshrink.com/) - Minify CSS
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
