@@ -1,47 +1,88 @@
 # Awesome Sass
 A curated list of awesome Sass
-> Forked from [Awesome Sass](https://github.com/HugoGiraudel/awesome-sass)
 
-- [GitHub repositories](#github-repositories)
-- [SASS Guidelines - Too Long; Didn&rsquo;t read version](#sass-guidelines-too-long-didnt-read-version)
-- [Tools](#tools)
-- [At other places](#at-other-places)
-- [Screencasts](#screencasts)
-- [CodePen / SassMeister](#codepen-sassmeister)
-
+* [GitHub repositories](#github-repositories)
+    * [Media queries and grid frameworks](#media-queries-and-grid-frameworks)
+    * [Mixin libraries](#mixin-libraries)
+    * [Colour lists, mixins, and tools](#colour-lists-mixins-and-tools)
+    * [Typography](#typography)
+    * [Ready to use frameworks](#ready-to-use-frameworks)
+    * [Other tools](#other-tools)
+* [SASS Guidelines](#sass-guidelines-too-long-didnt-read-version)
+* [Dev tools](#dev-tools)
+* [Hugo Giraudel&rsquo;s recommendations](#hugo-giraudels-recommendations)
+* [Screencasts](#screencasts)
+* [CodePen / SassMeister](#codepen-sassmeister)
 
 ## GitHub repositories
-- [SassDoc](https://github.com/SassDoc/sassdoc) - release the docs!
-- [Sass Guidelines](http://sass-guidelin.es) - an opinionated styleguide for writing sane, maintainable and scalable Sass
-- [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility) - Sass Compatibility tables
-- [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise) - bitwise operators implemented in Sass
-- [SassyCast](https://github.com/HugoGiraudel/SassyCast) - a small lib for type conversion across data types
-- [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - a JSON encoder/decoder in Sass
-- [SassyLists](https://github.com/Team-Sass/SassyLists) - a collection of functions to manipulate lists
-- [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix) - a collection of functions to manipulate matrices
-- [SassySort](https://github.com/HugoGiraudel/SassySort) - a Sass sorting function using various algorithms
-- [SassyStrings](https://github.com/Team-Sass/Sassy-Strings) - a collection of functions to manipulate strings
-- [SassyLogger](https://github.com/HugoGiraudel/SassyLogger) - a message logger in Sass
-- [SassyGradients](https://github.com/HugoGiraudel/SassyGradients) - a collection of tools to help manipulate gradients in a dynamic way
-- [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators) - iterators and generators implementation in Sass
-- [Bourbon](https://github.com/thoughtbot/bourbon) - A lightweight Sass mixin library
-- [Neat](https://github.com/thoughtbot/neat) - A lightweight, semantic grid framework built with Bourbon
-- [Refills](https://github.com/thoughtbot/refills) - Components and patterns built with Bourbon and Neat
-- [Bitters](https://github.com/thoughtbot/bitters) - Add a dash of pre-defined style to your Bourbon
-- [Susy](https://github.com/ericam/susy) - Responsive layout toolkit for Sass
-- [Singularity](https://github.com/at-import/Singularity) - Grids without limits
-- [Breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
-- [Modularscale Sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
-- [Sass Media Queries](https://github.com/paranoida/sass-mediaqueries) - It is a collection of useful media queries mixins for Sass. Great extension for compass or bourbon
-- [Andy](https://github.com/gillesbertaux/andy) - Open-Source Collection of Useful SASS Mixins Library
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way
-- [Scut](https://github.com/davidtheclark/scut) - Sass utilities for the frontend laborer
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons
-- [Pantone Sass](https://github.com/damonbauer/Pantone-Sass) - A Sass map of Pantone colors
-- [Normalize Sass](https://github.com/JohnAlbin/normalize-scss) - A collection of HTML element and attribute rulesets to normalize styles across all browsers
-- [Include Media](https://github.com/eduardoboucas/include-media) - Write simple, elegant and maintainable media queries with Sass
-- [Guss](https://github.com/guardian/guss) - Guss is a collection of Sass bower components, re-usable across multiple Guardian web products
-- [Sassy Flags](https://github.com/Layerful/sassy-flags) - Lightweight Sass library to display flags on your site
+### Media queries and grid frameworks
+Title | Description
+|:--|:--
+[Susy](https://github.com/ericam/susy) | Responsive layout toolkit for Sass
+[Singularity](https://github.com/at-import/Singularity) | Grids without limits
+&#9734; [Neat](https://github.com/thoughtbot/neat) | A lightweight, semantic grid framework built with Bourbon
+&#9734; [Include Media](https://github.com/eduardoboucas/include-media) | Write simple, elegant and maintainable media queries with Sass
+[Breakpoint](https://github.com/at-import/breakpoint) | Really simple media queries in Sass
+[Sass Media Queries](https://github.com/paranoida/sass-mediaqueries) | It is a collection of useful media queries mixins for Sass
+[Sass MQ](https://github.com/sass-mq/sass-mq) | A Sass mixin that helps you compose media queries in an elegant way
+
+### Mixin libraries, toolkits, and utilities
+Title | Description
+:--|:--
+&#9734; [Bourbon](https://github.com/thoughtbot/bourbon) | A lightweight Sass mixin library
+[Toolkit](https://github.com/at-import/toolkit) | Toolkit for Responsive Web Design and Progressive Enhancement with Compass
+[Andy](https://github.com/gillesbertaux/andy) | Open-Source Collection of Useful SASS Mixins Library
+[Scut](https://github.com/davidtheclark/scut) | Sass utilities for the frontend laborer
+[Buttons](https://github.com/alexwolfe/Buttons) | A CSS button library built using Sass and Compass
+[Hover](https://github.com/IanLunn/Hover) | A collection of CSS3 powered hover effects
+
+### Colour lists, mixins, and tools
+Title | Description
+:--|:--
+[Pantone Sass](https://github.com/damonbauer/Pantone-Sass) | A Sass map of Pantone colors
+[Colors](https://github.com/mrmrs/colors) | Smarter defaults for colors on the web
+
+
+### Typography
+Title | Description
+:--|:--
+&#9734; [Modular Scale](https://github.com/modularscale/modularscale-sass) | Modular scale calculator built into your Sass. You can use [Type Scale](http://type-scale.com/) to visualize various scales.
+[Sassline](https://sassline.com/) | Set text on the web to a baseline grid with Sass & rems
+&#9734; [Type Plate](http://typeplate.com/) | A 'typographic starter kit'
+&#9734; [Type Settings](https://github.com/ianrose/typesettings) | A Sass or Stylus toolkit that sets type in Ems based on modular scale, vertical rhythm, and responsive ratio based headlines
+[Typecsset](https://github.com/csswizardry/typecsset) | A small Sass library for setting type on the web
+
+
+### Ready to use frameworks
+Some of the frameworks listed below do not have SASS support *yet*.
+
+Title | Description
+:--|:--
+[Bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
+[Foundation](https://github.com/zurb/foundation) | An advanced responsive front-end framework
+&#9734;[Semantic UI](https://github.com/Semantic-Org/Semantic-UI) | A UI component framework based around useful principles from natural language
+&#9734;[UI Kit](https://github.com/uikit/uikit) | A lightweight and modular front-end framework for developing fast and powerful web interfaces
+&#9734;[Refills](https://github.com/thoughtbot/refills) | Components and patterns built with Bourbon and Neat
+[Material UI](https://github.com/callemall/material-ui) | A CSS Framework and a Set of React Components that Implement Google's Material Design
+&#9734;[Materialize](http://materializecss.com/) | A modern responsive front-end framework based on Material Design
+[Sassaparilla](https://github.com/fffunction/sassaparilla) | Start your web projects fast with Sassaparilla
+[pure](http://purecss.io/) | A set of small, responsive CSS modules
+[base](http://matthewhartman.github.io/base/) | Responsive CSS framework with IE7+ support
+
+
+### Other tools
+Title | Description
+:--|:--
+[Bitters](https://github.com/thoughtbot/bitters) | Add a dash of pre-defined style to your Bourbon
+[Guss](https://github.com/guardian/guss) | Guss is a collection of Sass bower components, re-usable across multiple Guardian web products
+&#9734;[Normalize SCSS](https://github.com/JohnAlbin/normalize-scss) | The Sass/Compass version of Normalize.css
+&#9734;[Modernizr Mixin](https://github.com/danielguillan/modernizr-mixin) | Simple and comprehensive mixin for Modernizr tests in Sass
+[Sass Burger](https://github.com/jorenvanhee/sass-burger) | A Sass mixin for creating hamburger icons
+[Sassy Flags](https://github.com/Layerful/sassy-flags) | Lightweight Sass library to display flags on your site
+[rem with px fallback](https://github.com/pierreburel/sass-rem) | Sass function and mixin to convert px in rem
+[em with px fallback](https://github.com/pierreburel/sass-em) | Sass function and mixin to convert px in em
+[&#9734;SassDoc](https://github.com/SassDoc/sassdoc) | A documentation tool for SASS
+
 
 
 ## SASS Guidelines - Too Long; Didn't read version
@@ -72,64 +113,26 @@ To sum up, we want:
 - Meaningful use of warnings and errors.
 
 
-## Tools
+## Dev tools
 - [CSSCSS](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy. It can be used to analyze SASS/SCSS files as well. There are [gulp](https://www.npmjs.com/package/gulp-csscss/) and [grunt](https://github.com/peterkeating/grunt-csscss) extensions integrating csscss with your dev-workflow.
+- [SCSS Lint](https://github.com/causes/scss-lint) - Configurable tool for writing clean and consistent SCSS
 
 
-## At other places
-- [Breakpoints and tweakpoints in Sass](http://www.sitepoint.com/breakpoints-tweakpoints-sass/) at SitePoint (17-02-2015)
-- [Why I Don't Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/) at SitePoint (10-02-2015)
-- [SassDoc 2 Shiny Streamy Octopus is Out](http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/) at SitePoint (05-02-2015)
-- [The Ultimate Long-Shadow Mixin](http://www.sitepoint.com/ultimate-long-shadow-sass-mixin/) at SitePoint (22-01-2015)
-- [Extra Map Functions in Sass](http://www.sitepoint.com/extra-map-functions-sass/) at SitePoint (15-01-2015)
-- [Introducing Sass-Compatibility](http://www.sitepoint.com/introducing-sass-compatibility/) at SitePoint (23-12-2014)
-- [Functional wrappers in Sass](http://www.sitepoint.com/functional-wrappers-sass/) at SitePoint (18-12-2014)
-- [Why you should avoid Sass `@extend`](http://www.sitepoint.com/avoid-sass-extend/) at SitePoint (11-12-2014)
-- [Building a linear gradient mixin](http://www.sitepoint.com/building-linear-gradient-mixin-sass/) at SitePoint (02-12-2014)
-- [FR] [Quand Sass ne rend plus service](http://www.24joursdeweb.fr/2014/quand-sass-ne-rend-plus-service/) for 24 Jours du Web (01-12-2014)
-- [Sass Multiple Arguments, Lists or Arglists](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/) at SitePoint (20-11-2014)
-- [Dealing with constants in Sass](http://www.sitepoint.com/dealing-constants-sass/) at SitePoint (28-10-2014)
-- [Cubic Bezier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass) with Tim Severien at The Sass Way (26-10-2014)
-- [Debugging Sass Maps](http://www.sitepoint.com/debugging-sass-maps/) at SitePoint (21-10-2014)
-- [Building a step wizard with BEM and Sass](http://www.sitepoint.com/building-step-wizard-bem-sass/) at SitePoint (02-10-2014)
-- [Beware of selector nesting in Sass](http://www.sitepoint.com/beware-selector-nesting-sass/) at SitePoint (25-09-2014)
-- [A bulletproof function to validate lengths in Sass](http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/) at SitePoint (10-09-2014)
-- [Building a logger mixin in Sass](https://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070) at Tuts+ (02-09-2014)
-- [Sass 3.4 is out!](http://www.sitepoint.com/sass-3-4-is-out/) at SitePoint (22-08-2014)
-- [What's up with SassDoc 1.2?](http://webdesign.tutsplus.com/articles/new-features-and-a-new-look-for-sassdoc--cms-21914) at Tuts+ (12-08-2014)
-- [Keep Sass Simple](http://www.sitepoint.com/keep-sass-simple/) at SitePoint (30-07-2014)
-- [Using Sass to build color palettes](http://www.sitepoint.com/using-sass-build-color-palettes/) at SitePoint (17-07-2014)
-- [How to check for dependencies in Sass libraries](http://webdesign.tutsplus.com/tutorials/how-to-check-for-dependencies-in-sass-libraries--cms-21558?_ga=1.200178030.119067414.1397820966) at Tuts+ (02-07-2014)
-- [Tips to help you level up your Sass](http://www.sitepoint.com/tips-help-level-up-sass/) at SitePoint (26-06-2014)
-- [All you ever need to know about Sass interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375) at Tuts+ (24-06-2014)
-- [A better solution for managing z-index in Sass](http://www.sitepoint.com/better-solution-managing-z-index-sass/) at SitePoint (20-06-2014)
-- [Useful Compass extensions that are worth a try](http://www.sitepoint.com/compass-extensions-worth-a-try/) at SitePoint (09-06-2014)
-- [Using Sass maps](http://www.sitepoint.com/using-sass-maps/) at SitePoint (06-06-2014)
-- [Compass or Bourbon](http://www.sitepoint.com/compass-or-bourbon-sass-frameworks/#comments) at SitePoint (29-05-2014)
-- [Managing responsive breakpoints in Sass](http://www.sitepoint.com/managing-responsive-breakpoints-sass/) at SitePoint (20-05-2014)
-- [A Sass mixin for CSS triangles](http://www.sitepoint.com/sass-mixin-css-triangles/) at SitePoint (15-05-2014)
-- [When and how to support multiple versions of Sass](http://webdesign.tutsplus.com/articles/when-and-how-to-support-multiple-versions-of-sass--cms-20935) at Tuts+ (12-05-2014)
-- [Sass mixins to kickstart your project](http://www.sitepoint.com/sass-mixins-kickstart-project/) at SitePoint (08-05-2014)
-- [Sass or SCSS](http://www.sitepoint.com/whats-difference-sass-scss/) at SitePoint (29-04-2014)
-- [My favourite Sass tools](http://www.sitepoint.com/my-favorite-sass-tools/) at SitePoint (22-04-2014)
-- [Caching values from Sass mixins](http://www.sitepoint.com/caching-values-sass-mixins/) at SitePoint (15-04-2014)
-- [Cross @media queries @extend directive in Sass](http://www.sitepoint.com/cross-media-query-extend-sass/) at SitePoint (10-04-2014)
-- [A creative grid system with Sass and calc()](http://www.sitepoint.com/creative-grid-system-sass-calc/) at SitePoint (27-03-2014)
-- [Creating a Rainbow Border with Sass](http://www.sitepoint.com/rainbow-border-with-sass/) at SitePoint (18-03-2014)
-- [Implementing the Bubble Sort algorithm in Sass](thesassway.com/advanced/implementing-bubble-sort-with-sass) at TheSassWay (17-03-2014)
-- [My current CSS and Sass styleguide](http://www.sitepoint.com/css-sass-styleguide/) at SitePoint (13-03-2014)
-- [An introduction to error handling in Sass](http://webdesign.tutsplus.com/tutorials/an-introduction-to-error-handling-in-sass--cms-19996) at Tuts+ (12-03-2014)
-- [Dealing with color schemes in Sass](http://www.sitepoint.com/dealing-color-schemes-sass/) at SitePoint (06-03-2014)
-- [Architecture for a Sass project](http://www.sitepoint.com/architecture-sass-project/) at SitePoint (27-02-2014)
-- [Is Compass to Sass what jQuery is to JavaScript](http://www.sitepoint.com/compass-sass-jquery-javascript/) at SitePoint (17-02-2014)
-- [A Sass component in 10 minutes](http://www.sitepoint.com/sass-component-10-minutes/) at SitePoint (12-01-2014)
-- [What nobody told you about Sass @extend](http://www.sitepoint.com/sass-extend-nobody-told-you/) at SitePoint (05-02-2014)
-- [Sass: Mixin or placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/) at SitePoint (31-01-2014)
-- [How to programmatically go from one color to another](http://thesassway.com/advanced/how-to-programtically-go-from-one-color-to-another-in-sass) at TheSassWay (30-01-2014)
-- [Math sequences with Sass](http://thesassway.com/advanced/math-sequences-with-sass) at TheSassWay (14-10-2013)
-- [MetaFizzy effect with Sass](http://css-tricks.com/metafizzy-effect-with-sass/) at CSS-Tricks (12-08-2013)
-- [Looking into the future of Sass](http://davidwalsh.name/future-sass) at David Walsh' (17-07-2013)
-- [Create Striped Backgrounds With Gradients (and a Sass Mixin)](http://css-tricks.com/striped-background-gradients/) at CSS-Tricks (09-07-2013)
+## Hugo Giraudel's recommendations
+- [Awesome Sass](https://github.com/HugoGiraudel/awesome-sass)
+- [Sass Guidelines](http://sass-guidelin.es) - an opinionated styleguide for writing sane, maintainable and scalable Sass
+- [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility) - Sass Compatibility tables
+- [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise) - bitwise operators implemented in Sass
+- [SassyCast](https://github.com/HugoGiraudel/SassyCast) - a small lib for type conversion across data types
+- [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - a JSON encoder/decoder in Sass
+- [SassyLists](https://github.com/Team-Sass/SassyLists) - a collection of functions to manipulate lists
+- [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix) - a collection of functions to manipulate matrices
+- [SassySort](https://github.com/HugoGiraudel/SassySort) - a Sass sorting function using various algorithms
+- [SassyStrings](https://github.com/Team-Sass/Sassy-Strings) - a collection of functions to manipulate strings
+- [SassyLogger](https://github.com/HugoGiraudel/SassyLogger) - a message logger in Sass
+- [SassyGradients](https://github.com/HugoGiraudel/SassyGradients) - a collection of tools to help manipulate gradients in a dynamic way
+- [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators) - iterators and generators implementation in Sass
+
 
 
 ## Screencasts
