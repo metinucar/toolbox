@@ -61,6 +61,10 @@ A collection of links that might be helpful to you during creative process.
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en) - A Chrome extension to make HTTP requests.
 - [SEO](awesome-seo.md)
 
+
+## General
+- [North](https://github.com/north/north) - Design and development standards to align and guide your project
+
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
 - [Smashing Magazine](http://www.smashingmagazine.com/) - A magazine for all things digital design.
