@@ -19,6 +19,7 @@
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
+- [Favicons](#favicons)
 - [Databases](#databases)
 - [Social](#social)
 - [Accessibility](#accessibility)
@@ -36,6 +37,7 @@
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics powered by d3
 - [sparkline](http://omnipotent.net/jquery.sparkline/) - Sparkline charts library
 - [sparky](http://prag.ma/code/sparky/) - Sparkline charts library based on rapahel
+- [peity](http://benpickles.github.io/peity/) - Progressive mini <svg> pie, donut, bar and line charts
 - [jsplumb](http://jsplumbtoolkit.com/) - Visual connectivity for webapps (flowcharts, sequence diagrams, etc)
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
@@ -204,12 +206,16 @@
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web.
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
 
+### Favicons
+- [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos
+
 ### Databases
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
+- [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support.
 
 ### Social
 - [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count
