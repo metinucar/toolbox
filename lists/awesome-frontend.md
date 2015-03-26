@@ -62,6 +62,7 @@
 - [Kartograph](http://kartograph.org/) - Simple and lightweight framework for building interactive map applications without Google Maps
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 - [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
+- [Maps icon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG
 
 ### Text
 - [Redacted Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
@@ -89,6 +90,7 @@
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
+- [Embed progressively](http://embedresponsively.com/)
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
@@ -138,7 +140,9 @@
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+- [mmenu](http://mmenu.frebsite.nl/) - A jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
+- [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
 - [SweetAlert](http://tristanedwards.me/sweetalert) - An awesome replacement for JavaScript's alert
@@ -146,9 +150,13 @@
 - [countUp.js](https://inorganik.github.io/countUp.js/) - Count up or down animation effects for numbers
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
+- [Lists](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
 - [Unicorn UI Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 - [UI Gradients](http://uigradients.com/) - Dual tone colour gradients for design and code
+- [Medium editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution
+- [Zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator from dropbox
+- [Buttons](http://buttons.cm/) - Bulletproof email buttons
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -175,11 +183,17 @@
 
 ### General
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [Keypress](https://github.com/dmauro/Keypress/) - A keyboard input capturing utility in which any key can be a modifier key
+- [Timeline JS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript
 - [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
 - [CSS Shrink](http://cssshrink.com/) - Minify CSS
+- [JPG glitch](http://snorpey.github.io/jpg-glitch/) - Image glitch experiment
+- [Planetary](https://github.com/BinaryMuse/planetary.js) - Awesome interactive globes for the web
+- [Easings](http://easings.net/) - Easing Functions Cheat Sheet
+- [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -205,6 +219,9 @@
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web.
 - [colorbrewer2](http://colorbrewer2.org/) - Color advice for cartography
+- [Background check](https://github.com/kennethcachia/Background-Check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it
+- [Color Peek](http://colorpeek.com/) - Simply share one or more CSS colors
+- [Adaptive Backgrounds](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
 
 ### Favicons
 - [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos

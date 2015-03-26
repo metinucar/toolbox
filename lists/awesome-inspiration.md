@@ -80,5 +80,5 @@ A collection of links that might be helpful to you during creative process.
 - [UX Booth](http://www.uxbooth.com/) - A User Experience Design Publication
 - [Veerle's blog](http://veerle.duoh.com/) - XHTML CSS, Graphic Design tutorials and Inspiration
 - [Tutorialzine](http://tutorialzine.com/) - Web development tutorials and resources
-- [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers.
+- [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers
 - [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
