@@ -11,6 +11,7 @@
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations](#animations)
+- [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
@@ -134,6 +135,14 @@
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
+
+### Sliders, Carousels and Lightboxes
+- [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
+- [Flickity](http://flickity.metafizzy.co/) - Touch, responsive, flickable galleries
+- [Owl Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) - Magnific Popup is a responsive lightbox & dialog script
+- [Photo Swipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
