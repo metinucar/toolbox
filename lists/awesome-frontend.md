@@ -167,6 +167,10 @@
 - [Zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator from dropbox
 - [Buttons](http://buttons.cm/) - Bulletproof email buttons
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
+- [Toscani](https://github.com/zdfs/toscani/) - A progressively-enhanced solution for creating a single-field credit card input
+- [Screenfull](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [Headroom](https://github.com/WickyNilliams/headroom.js) - A lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll
+- [Card](https://github.com/jessepollak/card/) - Make your credit card form better in one line of code
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -201,6 +205,7 @@
 - [Planetary](https://github.com/BinaryMuse/planetary.js) - Awesome interactive globes for the web
 - [Easings](http://easings.net/) - Easing Functions Cheat Sheet
 - [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+- [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
