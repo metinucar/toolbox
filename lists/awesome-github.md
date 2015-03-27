@@ -911,6 +911,7 @@ $ git config --global color.ui 1
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [GitHub Training Kit](http://training.github.com/kit)
 - [Git Visualization Playground](http://onlywei.github.io/explain-git-with-d3/#freeplay)
+- [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
 
 ### Git Books
 - [Pragmatic Version Control Using Git](http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git)

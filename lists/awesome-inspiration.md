@@ -67,6 +67,7 @@ A collection of links that might be helpful to you during creative process.
 
 ## Good Reads
 <h5>Need something to read in your spare time?</h5>
+- [Little Big Details](http://littlebigdetails.com/) - Your daily dose of design inspiration
 - [Smashing Magazine](http://www.smashingmagazine.com/) - A magazine for all things digital design.
 - [CSS-Tricks](http://css-tricks.com/) - Awesome blog on anything and everything related to CSS.
 - [Codrops](http://tympanus.net/codrops/) - Great collection of design techniques for modern web developmers and designers.
@@ -82,3 +83,7 @@ A collection of links that might be helpful to you during creative process.
 - [Tutorialzine](http://tutorialzine.com/) - Web development tutorials and resources
 - [Insert HTML](http://www.inserthtml.com/) - A blog covering current and upcoming techniques and technologies for web developers
 - [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
+- [Typo Guide](http://www.typogui.de/) - This little guide is for writers, designer, engineers, students or anyone who just wants to do things right. Mastering the daily typography adventures will help you get your message across more successfully.
+- [I Love Ligatures](http://iloveligatures.tumblr.com/)
+- [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference
+

@@ -30,6 +30,7 @@
 - [Codepen collection](#codepen-collection)
 
 ### Charts
+- [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
 - [c3](http://c3js.org/) - D3-based reusable chart library
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
@@ -54,6 +55,9 @@
 - [WFT Forms](https://github.com/mdo/wtf-forms/) - Friendlier HTML form controls with a little CSS magic
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
+- [iCheck](https://github.com/fronteed/iCheck/) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+- [Autocomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies
+- [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -127,6 +131,7 @@
 - [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [aLoad](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 260 bytes)
+- [Images Loaded](https://github.com/desandro/imagesloaded) - Detect when images have been loaded
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
@@ -188,8 +193,10 @@
 - [Buttons](http://buttons.cm/) - Bulletproof email buttons
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 - [Screenfull](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+- [Full Page](https://github.com/alvarotrigo/fullPage.js) - Create full screen pages fast and simple
 - [Headroom](https://github.com/WickyNilliams/headroom.js) - A lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll
 - [Pour Over](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
+- [The Background Pattern Library](http://thepatternlibrary.com/)
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -226,6 +233,7 @@
 - [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 - [Webshim](https://github.com/aFarkas/webshim/) - Webshims Lib is a modular capability-based polyfill-loading library
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
+- [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -258,6 +266,10 @@
 - [Color Peek](http://colorpeek.com/) - Simply share one or more CSS colors
 - [Adaptive Backgrounds](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
 - [Gradient Animator](http://www.gradient-animator.com/)
+- [Colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web
+- [Material Palette](http://www.materialpalette.com/) - Material Design Color Palette Generator
+- [Colorrrs](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa
+
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
@@ -267,7 +279,9 @@
 
 
 ### Favicons
+- [Favicon theory and guides](lists/awesome-favicon.rst)
 - [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos
+- [Favicon generator](http://realfavicongenerator.net/) - Generate the favicon pictures and HTML code that work on all major browsers and platforms
 
 ### Databases
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online

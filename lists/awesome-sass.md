@@ -46,9 +46,6 @@ Title | Description
 :--|:--
 [Pantone Sass](https://github.com/damonbauer/Pantone-Sass) | A Sass map of Pantone colors
 [Color Schemer](https://github.com/at-import/color-schemer) | A sassy way to build color schemes
-[Colors](https://github.com/mrmrs/colors) | Smarter defaults for colors on the web
-[Colorrrs](http://hex.colorrrs.com/) | A simple tool for converting HEX values to RGB and vice versa
-[Coolor](http://app.coolors.co/3f7cac-95afba-bdc4a7-d5e1a3-e2f89c) | The super fast color palettes generator
 
 
 ### Typography
@@ -135,6 +132,9 @@ To sum up, we want:
 - [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples, pattern libraries and design manuals for inspiration
 - [Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) - Lonely Planet style guide
 - [Primer](http://primercss.io/) - The CSS toolkit and guidelines that power GitHub
+- [Style Manual](http://stylemanual.org/)
+- [A List Apart Pattern Library](http://patterns.alistapart.com/)
+- [CSS Guidelines](http://cssguidelin.es/) - High-level advice and guidelines for writing sane, manageable, scalable CSS
 
 
 
