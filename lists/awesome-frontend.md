@@ -20,6 +20,7 @@
 - [General](#general)
 - [Icons](#icons)
 - [Colors](#colors)
+- [Keyboard Events](#keyboard-events)
 - [Favicons](#favicons)
 - [Databases](#databases)
 - [Social](#social)
@@ -70,7 +71,6 @@
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [Type Scale](http://type-scale.com/) - A visual typography calculator
 - [dropcap.js](https://github.com/adobe-webplatform/dropcap.js) - CSS dropcaps
-- [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 - [grande.js](http://mattduvall.com/grande.js/) - JavaScript library that implements features from Medium's editing experience
 - [pen](http://sofish.github.io/pen) - Editor with markdown support
 - [lettering](http://letteringjs.com/) - JQuery web typography plugin
@@ -110,8 +110,8 @@
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
 
 ### Lazy-Loading
-- [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
+- [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [aLoad](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 260 bytes)
@@ -166,6 +166,7 @@
 - [Medium editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution
 - [Zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator from dropbox
 - [Buttons](http://buttons.cm/) - Bulletproof email buttons
+- [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -191,12 +192,9 @@
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
-- [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
-- [Keypress](https://github.com/dmauro/Keypress/) - A keyboard input capturing utility in which any key can be a modifier key
+- [Hide Show Password](https://github.com/cloudfour/hideShowPassword) - Easily reveal or hide password field contents via JavaScript or a nifty inner toggle button. Supports touch quite nicely!
 - [Timeline JS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript
-- [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
-- [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 - [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
 - [CSS Shrink](http://cssshrink.com/) - Minify CSS
 - [JPG glitch](http://snorpey.github.io/jpg-glitch/) - Image glitch experiment
@@ -231,6 +229,13 @@
 - [Background check](https://github.com/kennethcachia/Background-Check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it
 - [Color Peek](http://colorpeek.com/) - Simply share one or more CSS colors
 - [Adaptive Backgrounds](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
+
+### Keyboard Events
+- [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [Keypress](https://github.com/dmauro/Keypress/) - A keyboard input capturing utility in which any key can be a modifier key
+- [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
+- [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
+
 
 ### Favicons
 - [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos
