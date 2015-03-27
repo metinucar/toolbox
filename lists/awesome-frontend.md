@@ -224,6 +224,7 @@
 - [fontawesome](http://fortawesome.github.io/Font-Awesome/) - Gives you scalable vector icons that can instantly be customized
 - [evil icons](http://evil-icons.io/) - Lightweight SVG icons
 - [ionicons](http://ionicons.com/) - The icon font for Ionic Framework
+- [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [foundation icon font 3](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Zurb Icon Font 3
 - [Payment webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [Payment font](https://github.com/vendocrat/PaymentFont) - A sleek webfont containing 94 icons of all main payment operators and methods
