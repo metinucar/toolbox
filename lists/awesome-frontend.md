@@ -1,14 +1,34 @@
 # Awesome frontend
-> Forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
+> Initially forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
-| | | | |
-|:--|:--|:--|:--|:--
-[Charts](#charts) | [Maps](#maps) | [Forms](#forms) | [Text](#text) | [Video](#video)
-[Audio](#audio) | [Tables](#tables) | [Module loaders](#module-loaders) | [Lazy Loading](#lazy-loading) | [Scrolling](#scrolling)
-[Animations and Transitions](#animations-and-transitions) | [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes) | [Navigation](#navigation) | [UI Elements](#ui-elements) | [Templating](#templating)
-[HTTP requests](#http-requests) | [Dates](#dates) | [Events](#events) | [General](#general) | [Icons](#icons)
-[Colors](#colors) | [Keyboard Events](#keyboard-events) | [Favicons](#favicons) | [Databases](#databases) | [Social](#social)
-[Accessibility](#accessibility) | [Codepen collection](#codepen-collection)
+- [Charts](#charts)
+- [Maps](#maps)
+- [Forms](#forms)
+- [Text](#text)
+- [Video](#video)
+- [Audio](#audio)
+- [Tables](#tables)
+- [Module loaders](#module-loaders)
+- [Lazy Loading](#lazy-loading)
+- [Scrolling](#scrolling)
+- [Animations and Transitions](#animations-and-transitions)
+- [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes)
+- [Navigation](#navigation)
+- [UI Elements](#ui-elements)
+- [Templating](#templating)
+- [HTTP requests](#http-requests)
+- [Dates](#dates)
+- [Events](#events)
+- [General](#general)
+- [Icons](#icons)
+- [Colors](#colors)
+- [Keyboard Events](#keyboard-events)
+- [Favicons](#favicons)
+- [Databases](#databases)
+- [Social](#social)
+- [Accessibility](#accessibility)
+- [Flexbox](#flexbox)
+- [Codepen collection](#codepen-collection)
 
 ### Charts
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
@@ -79,6 +99,7 @@
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [Google web font loader](https://github.com/qrpike/Web-Font-Load) - Install all Google Web Fonts onto your local machine
 - [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+- [Typography Cheatsheet](Typography-Cheatsheet.pdf)
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -106,6 +127,7 @@
 
 ### Lazy-Loading
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
+- [Async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [Aload](http://pazguille.github.io/aload/) - Asynchronously loads images, scripts, styles and more
 - [echo](http://toddmotto.com/labs/echo/) - Standalone JavaScript lazy-loading image micro-library
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
@@ -142,6 +164,7 @@
 - [Owl Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) - Magnific Popup is a responsive lightbox & dialog script
 - [Photo Swipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [Swiper](https://github.com/nolimits4web/swiper/) - Most modern mobile touch slider with hardware accelerated transitions
 - [CSS Modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS
 
 
@@ -201,6 +224,7 @@
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites
 - [Timeline JS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
@@ -211,8 +235,7 @@
 - [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 - [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 - [Webshim](https://github.com/aFarkas/webshim/) - Webshims Lib is a modular capability-based polyfill-loading library
-- [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
-- [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
+- [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -232,6 +255,7 @@
 - [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons
 - [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line
 - [Marka](http://fian.my.id/marka/) - Beautiful transformable icons built for the web
+- [SVG Icons](http://svgicons.sparkk.fr/) - Ready to use SVG Icons for the web
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
@@ -280,6 +304,13 @@
 
 ## Accessibility
 - [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - The polyfill for a more accessible HTML5
+- [Ariabones](https://github.com/iandevlin/ariabones) - Simplifying WAI-ARIA
+
+### Flexbox
+- [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
+- [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
+- [Using flexbox today](http://www.chriswrightdesign.com/experiments/using-flexbox-today/)
 
 ### Codepen collection
 - [Pull Menu - Menu interaction concept](http://codepen.io/ucarmetin/pen/EagXOE)

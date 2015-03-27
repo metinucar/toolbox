@@ -12,6 +12,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
 - Guides
   - [Sketch Shortcuts](http://sketchshortcuts.com/)
   - [Documentation](http://www.bohemiancoding.com/sketch/support/documentation/)
+  - [App Store Sketch](https://github.com/MengTo/AppStoreSketch) - A quick App Store template for Sketch
 
 - Articles
   - [Fireworks vs. Sketch](http://unitid.nl/english/spot-the-difference-fireworks-and-sketch-3)
