@@ -1,33 +1,14 @@
 # Awesome frontend
 > Forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
-- [Charts](#charts)
-- [Maps](#maps)
-- [Forms](#forms)
-- [Text](#text)
-- [Video](#video)
-- [Audio](#audio)
-- [Tables](#tables)
-- [Module loaders](#module-loaders)
-- [Lazy Loading](#lazy-loading)
-- [Scrolling](#scrolling)
-- [Animations and Transitions](#animations-and-transitions)
-- [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes)
-- [Navigation](#navigation)
-- [UI Elements](#ui-elements)
-- [Templating](#templating)
-- [HTTP requests](#http-requests)
-- [Dates](#dates)
-- [Events](#events)
-- [General](#general)
-- [Icons](#icons)
-- [Colors](#colors)
-- [Keyboard Events](#keyboard-events)
-- [Favicons](#favicons)
-- [Databases](#databases)
-- [Social](#social)
-- [Accessibility](#accessibility)
-- [Codepen collection](#codepen-collection)
+| | | | |
+|:--|:--|:--|:--|:--
+[Charts](#charts) | [Maps](#maps) | [Forms](#forms) | [Text](#text) | [Video](#video)
+[Audio](#audio) | [Tables](#tables) | [Module loaders](#module-loaders) | [Lazy Loading](#lazy-loading) | [Scrolling](#scrolling)
+[Animations and Transitions](#animations-and-transitions) | [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes) | [Navigation](#navigation) | [UI Elements](#ui-elements) | [Templating](#templating)
+[HTTP requests](#http-requests) | [Dates](#dates) | [Events](#events) | [General](#general) | [Icons](#icons)
+[Colors](#colors) | [Keyboard Events](#keyboard-events) | [Favicons](#favicons) | [Databases](#databases) | [Social](#social)
+[Accessibility](#accessibility) | [Codepen collection](#codepen-collection)
 
 ### Charts
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
