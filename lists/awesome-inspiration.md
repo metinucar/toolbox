@@ -86,4 +86,5 @@ A collection of links that might be helpful to you during creative process.
 - [Typo Guide](http://www.typogui.de/) - This little guide is for writers, designer, engineers, students or anyone who just wants to do things right. Mastering the daily typography adventures will help you get your message across more successfully.
 - [I Love Ligatures](http://iloveligatures.tumblr.com/)
 - [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference
+- [404](http://404sites.tumblr.com/)
 
