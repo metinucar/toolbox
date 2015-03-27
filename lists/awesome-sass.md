@@ -10,6 +10,7 @@ A curated list of awesome Sass
     * [Other tools](#other-tools)
 * [SASS Guidelines](#sass-guidelines-too-long-didnt-read-version)
 * [Dev tools](#dev-tools)
+* [Learn from others](#learn-from-others)
 * [Hugo Giraudel&rsquo;s recommendations](#hugo-giraudels-recommendations)
 * [Screencasts](#screencasts)
 * [CodePen / SassMeister](#codepen-sassmeister)
@@ -37,12 +38,17 @@ Title | Description
 [Scut](https://github.com/davidtheclark/scut) | Sass utilities for the frontend laborer
 [Buttons](https://github.com/alexwolfe/Buttons) | A CSS button library built using Sass and Compass
 [Hover](https://github.com/IanLunn/Hover) | A collection of CSS3 powered hover effects
+[Lemanz](https://github.com/grayghostvisuals/lemanz) | A starting point for Sass and Compass projects
+
 
 ### Colour lists, mixins, and tools
 Title | Description
 :--|:--
 [Pantone Sass](https://github.com/damonbauer/Pantone-Sass) | A Sass map of Pantone colors
+[Color Schemer](https://github.com/at-import/color-schemer) | A sassy way to build color schemes
 [Colors](https://github.com/mrmrs/colors) | Smarter defaults for colors on the web
+[Colorrrs](http://hex.colorrrs.com/) | A simple tool for converting HEX values to RGB and vice versa
+[Coolor](http://app.coolors.co/3f7cac-95afba-bdc4a7-d5e1a3-e2f89c) | The super fast color palettes generator
 
 
 ### Typography
@@ -70,6 +76,7 @@ Title | Description
 [Sassaparilla](https://github.com/fffunction/sassaparilla) | Start your web projects fast with Sassaparilla
 [pure](http://purecss.io/) | A set of small, responsive CSS modules
 [base](http://matthewhartman.github.io/base/) | Responsive CSS framework with IE7+ support
+[Skeleton](http://getskeleton.com/) | Responsive CSS Boilerplate
 
 
 ### Other tools
@@ -84,6 +91,7 @@ Title | Description
 [rem with px fallback](https://github.com/pierreburel/sass-rem) | Sass function and mixin to convert px in rem
 [em with px fallback](https://github.com/pierreburel/sass-em) | Sass function and mixin to convert px in em
 [&#9734;SassDoc](https://github.com/SassDoc/sassdoc) | A documentation tool for SASS
+[CSS Loaders](https://github.com/lukehaas/css-loaders) | A collection of loading spinners animated with CSS
 
 
 
@@ -115,9 +123,19 @@ To sum up, we want:
 - Meaningful use of warnings and errors.
 
 
+
 ## Dev tools
 - [CSSCSS](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy. It can be used to analyze SASS/SCSS files as well. There are [gulp](https://www.npmjs.com/package/gulp-csscss/) and [grunt](https://github.com/peterkeating/grunt-csscss) extensions integrating csscss with your dev-workflow.
 - [SCSS Lint](https://github.com/causes/scss-lint) - Configurable tool for writing clean and consistent SCSS
+
+
+
+## Learn from others
+- [Evernote's SASS Build Structure](https://github.com/evernote/sass-build-structure) - An example SASS build structure sample to start a project
+- [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/) - Hand-picked collection of brand style guide examples, pattern libraries and design manuals for inspiration
+- [Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) - Lonely Planet style guide
+- [Primer](http://primercss.io/) - The CSS toolkit and guidelines that power GitHub
+
 
 
 ## Hugo Giraudel's recommendations
@@ -140,6 +158,7 @@ To sum up, we want:
 ## Screencasts
 - [SassBites #42](https://www.youtube.com/watch?v=H6Y9r49InXo&feature=youtu.be)
 - [Podcast at CDNify](https://cdnify.com/blog/sassdoc-document-sass-files-functions-mixins/)
+
 
 
 ## CodePen / SassMeister

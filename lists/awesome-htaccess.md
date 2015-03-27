@@ -512,3 +512,4 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 ### External Resources
 - [HTML5 Boilerplate .htaccess file](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess)
+- [htaccess generator](http://beamusup.com/generate-htaccess/) - A tool to create .htaccess file

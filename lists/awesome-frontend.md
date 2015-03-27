@@ -3,6 +3,7 @@
 
 - [Charts](#charts)
 - [Maps](#maps)
+- [Forms](#forms)
 - [Text](#text)
 - [Video](#video)
 - [Audio](#audio)
@@ -10,8 +11,9 @@
 - [Module loaders](#module-loaders)
 - [Lazy Loading](#lazy-loading)
 - [Scrolling](#scrolling)
-- [Animations](#animations)
+- [Animations and Transitions](#animations-and-transitions)
 - [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes)
+- [Navigation](#navigation)
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
@@ -45,6 +47,14 @@
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 
+### Forms
+- [Card](https://github.com/jessepollak/card/) - Make your credit card form better in one line of code
+- [Hide Show Password](https://github.com/cloudfour/hideShowPassword) - Easily reveal or hide password field contents via JavaScript or a nifty inner toggle button. Supports touch quite nicely!
+- [Toscani](https://github.com/zdfs/toscani/) - A progressively-enhanced solution for creating a single-field credit card input
+- [WFT Forms](https://github.com/mdo/wtf-forms/) - Friendlier HTML form controls with a little CSS magic
+- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
+- [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
+
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
 - [leaflet](http://leafletjs.com/) - Library for mobile-friendly interactive maps
@@ -65,6 +75,8 @@
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 - [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
 - [Maps icon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG
+- [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
+- [Map Glyphs](http://mapglyphs.com/) - The Ultimate CSS Map Font
 
 ### Text
 - [Redacted Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
@@ -122,10 +134,11 @@
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
 - [fracs](http://larsjung.de/jquery-fracs/) - Plugin to determine the visible fractions of HTML elements
 - [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile and desktop
-- [Overscroll](https://github.com/tholman/overscroll) - Javascript for adding small easter eggs when over scrolling on apple devices.
-- [Page piling](https://github.com/alvarotrigo/pagePiling.js) - Create a scrolling pile of sections.
+- [Overscroll](https://github.com/tholman/overscroll) - Javascript for adding small easter eggs when over scrolling on apple devices
+- [Page piling](https://github.com/alvarotrigo/pagePiling.js) - Create a scrolling pile of sections
+- [Fart scroll](https://github.com/theonion/fartscroll.js) - You want fart noises as you scroll? We've got you covered!
 
-### Animations
+### Animations and Transitions
 - [animate.css](https://daneden.github.io/animate.css/) - A cross-browser library of CSS animations
 - [impulse](http://impulse.luster.io/) - Dynamic physics interactions for the mobile web
 - [velocity](http://velocityjs.org/) - Accelerated JavaScript animation
@@ -135,6 +148,9 @@
 - [semantic ui - transition](http://semantic-ui.com/modules/transition.html) - Simple CSS3 Animations and transitions
 - [tween.js](https://github.com/tweenjs/tween.js) - Tweening engine
 - [Hover.css](http://ianlunn.github.io/Hover/) - CSS3 Hover Effects
+- [Animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for css animated page transitions
+- [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
+- [Vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
@@ -142,15 +158,20 @@
 - [Owl Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) - Magnific Popup is a responsive lightbox & dialog script
 - [Photo Swipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [CSS Modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS
+
+
+### Navigation
+- [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
+- [mmenu](http://mmenu.frebsite.nl/) - A jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
+- [Snap](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+- [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
 
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
 - [tether](http://github.hubspot.com/tether/docs/welcome/) - Marrying UI Elements (dropdown, tooltips, guide, selects)
 - [button concepts](http://tympanus.net/Development/CreativeButtons/) - List of CSS button variations
-- [select2](https://select2.github.io/) - JQuery based replacement for select boxes
-- [mmenu](http://mmenu.frebsite.nl/) - A jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
-- [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [Pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site
 - [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium
 - [PleaseWait.js](https://pathgather.github.io/please-wait/) - A simple library to show your users a beautiful splash page while your application loads
@@ -160,17 +181,15 @@
 - [Messenger.js](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 - [Sortable.js](http://rubaxa.github.io/Sortable/) - Reorderable drag-and-drop lists
 - [Lists](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements
-- [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
 - [Unicorn UI Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass
 - [UI Gradients](http://uigradients.com/) - Dual tone colour gradients for design and code
 - [Medium editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution
 - [Zxcvbn](https://github.com/dropbox/zxcvbn) - A realistic password strength estimator from dropbox
 - [Buttons](http://buttons.cm/) - Bulletproof email buttons
 - [side-comments](http://aroc.github.io/side-comments-demo/) - Medium style comments
-- [Toscani](https://github.com/zdfs/toscani/) - A progressively-enhanced solution for creating a single-field credit card input
 - [Screenfull](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 - [Headroom](https://github.com/WickyNilliams/headroom.js) - A lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll
-- [Card](https://github.com/jessepollak/card/) - Make your credit card form better in one line of code
+- [Pour Over](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -196,7 +215,6 @@
 - [EventEmitter2](https://github.com/asyncly/EventEmitter2) - Events API with wildcards
 
 ### General
-- [Hide Show Password](https://github.com/cloudfour/hideShowPassword) - Easily reveal or hide password field contents via JavaScript or a nifty inner toggle button. Supports touch quite nicely!
 - [Timeline JS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript
 - [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 - [YMNNJQ](http://youmightnotneedjquery.com/) - See jQuery functions in natural JS. No libraries.
@@ -206,10 +224,13 @@
 - [Easings](http://easings.net/) - Easing Functions Cheat Sheet
 - [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 - [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
+- [Webshim](https://github.com/aFarkas/webshim/) - Webshims Lib is a modular capability-based polyfill-loading library
+- [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
 - [Material design icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [Entypo](http://www.entypo.com/)
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [fontello](http://fontello.com/) - Icon fonts generator
 - [octicons](https://octicons.github.com/) - Github icons
@@ -221,6 +242,8 @@
 - [Payment font](https://github.com/vendocrat/PaymentFont) - A sleek webfont containing 94 icons of all main payment operators and methods
 - [flaticon](http://flaticon.com/) - Tens of thousands of free monochromatic icons in SVG, font, PNG.
 - [Iconmonstr](http://iconmonstr.com/) - A collection of free, simple icons
+- [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line
+- [Marka](http://fian.my.id/marka/) - Beautiful transformable icons built for the web
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
@@ -234,6 +257,7 @@
 - [Background check](https://github.com/kennethcachia/Background-Check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it
 - [Color Peek](http://colorpeek.com/) - Simply share one or more CSS colors
 - [Adaptive Backgrounds](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A jQuery plugin for extracting the dominant color from images and applying the color to their parent
+- [Gradient Animator](http://www.gradient-animator.com/)
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
@@ -251,7 +275,8 @@
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
-- [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support.
+- [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
+- [Storage](https://github.com/alekseykulikov/storage) - Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)
 
 ### Social
 - [socialcount](http://www.filamentgroup.com/lab/socialcount.html) - Custom sharing buttons with share count

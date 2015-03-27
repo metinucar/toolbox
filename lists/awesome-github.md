@@ -900,6 +900,7 @@ $ git config --global color.ui 1
 - [Official Git Site](http://git-scm.com/)
 - [Official Git Video Tutorials](http://git-scm.com/videos)
 - [Code School Try Git](http://try.github.com/)
+- [Learn Git](http://www.git-tower.com/learn/) - Learn Version Control with Git
 - [Introductory Reference & Tutorial for Git](http://gitref.org/)
 - [Official Git Tutorial](http://git-scm.com/docs/gittutorial)
 - [Everyday Git](http://git-scm.com/docs/everyday)
@@ -913,6 +914,7 @@ $ git config --global color.ui 1
 
 ### Git Books
 - [Pragmatic Version Control Using Git](http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git)
+- [Git Book](https://github.com/GitbookIO/gitbook) - Modern book format and toolchain using Git and Markdown
 - [Pro Git v2](http://git-scm.com/book/en/v2)
 - [Git Internals PluralSight](https://github.com/pluralsight/git-internals-pdf)
 - [Git in the Trenches](http://cbx33.github.com/gitt/)
