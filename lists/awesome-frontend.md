@@ -166,6 +166,7 @@
 - [Photo Swipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [Swiper](https://github.com/nolimits4web/swiper/) - Most modern mobile touch slider with hardware accelerated transitions
 - [CSS Modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS
+- [Flex Slider](https://github.com/woothemes/FlexSlider/) - An awesome, fully responsive jQuery slider plugin
 
 
 ### Navigation
@@ -199,6 +200,7 @@
 - [Headroom](https://github.com/WickyNilliams/headroom.js) - A lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll
 - [Pour Over](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
 - [The Background Pattern Library](http://thepatternlibrary.com/)
+- [Loaders](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
