@@ -11,6 +11,7 @@
 
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
 - [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Clear and consistent guide for building your widgets.
+- [WordPress Functionality Plugins Boilerplate](https://github.com/chriscoyier/css-tricks-functionality-plugin)
 
 
 ## Administrator plugins
