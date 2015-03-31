@@ -238,6 +238,7 @@
 - [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 - [Webshim](https://github.com/aFarkas/webshim/) - Webshims Lib is a modular capability-based polyfill-loading library
 - [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+- [Responsible.js](https://github.com/DavidWells/responsible) - Give Users the choice of what mobile experience they want. Adds Toggle for mobile to desktop switching without page reloads
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
