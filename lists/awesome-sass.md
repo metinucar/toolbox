@@ -90,6 +90,8 @@ Title | Description
 [em with px fallback](https://github.com/pierreburel/sass-em) | Sass function and mixin to convert px in em
 [&#9734;SassDoc](https://github.com/SassDoc/sassdoc) | A documentation tool for SASS
 [CSS Loaders](https://github.com/lukehaas/css-loaders) | A collection of loading spinners animated with CSS
+[BEM Constructor](https://github.com/danielguillan/bem-constructor) | A Sass library for building immutable and namespaced BEM-style CSS objects
+[Expressive BEM](http://codepen.io/andersschmidt/thoughts/expressive-bem-with-sass-a-different-approach) | Expressive BEM with Sass: a different approach
 
 
 

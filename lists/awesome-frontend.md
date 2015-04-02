@@ -331,3 +331,4 @@
 - [An animated scroll button](http://codepen.io/robooneus/pen/Aclqr)
 - [CSS-only Weather App](http://codepen.io/davidkpiano/pen/ByNPQw/)
 - [CSS Multi-column layout](http://codepen.io/spylefkaditis/pen/AIqld)
+- [Open profile transition](http://codepen.io/virgilpana/pen/ZYZXgP)
