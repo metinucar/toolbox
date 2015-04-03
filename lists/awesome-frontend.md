@@ -309,6 +309,7 @@
 ## Accessibility
 - [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - The polyfill for a more accessible HTML5
 - [Ariabones](https://github.com/iandevlin/ariabones) - Simplifying WAI-ARIA
+- [Accessibility Wins](http://a11ywins.tumblr.com/) - Showcasing accessible user interfaces
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
