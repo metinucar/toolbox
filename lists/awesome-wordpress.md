@@ -31,6 +31,8 @@
 - [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - Creating a performance report for your site
 - [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
 - [Jetpack](https://wordpress.org/plugins/jetpack/) - Adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools.
+- [iThemes Security](https://tr.wordpress.org/plugins/better-wp-security/) - The easiest, most effective way to secure WordPress in seconds
+- [Theme Authenticity Checker](https://wordpress.org/plugins/tac/) - Scan all of your theme files for potentially malicious or unwanted code
 - [Codepress Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - Customize columns on post listing
 - [Intuitive Custom Post Order](https://wordpress.org/plugins/intuitive-custom-post-order/) - Posts reordering on post listing
 - [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Allow to disable comments easily
