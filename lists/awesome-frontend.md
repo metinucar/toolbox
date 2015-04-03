@@ -220,6 +220,7 @@
 ### Dates
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
+- [jQuery Age](https://github.com/ksylvest/jquery-age) - Age is a jQuery plugin that formats and tracks dates and times as human readable text
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
