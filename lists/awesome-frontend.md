@@ -48,6 +48,7 @@
 - [taucharts](http://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
+- [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 
 ### Forms
 - [Card](https://github.com/jessepollak/card/) - Make your credit card form better in one line of code
