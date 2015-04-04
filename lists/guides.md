@@ -6,6 +6,7 @@ A collection of succinct guides
 
 ## Install Google Fonts
 ```bash
+cd where-you-want-to-install-google-fonts
 curl https://raw.githubusercontent.com/ucarmetin/toolbox/master/google-fonts-install.sh | sh
 ```
 
