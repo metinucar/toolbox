@@ -4,6 +4,11 @@ A collection of succinct guides
 ## External Resources
 - [Sindre Sorhus's Guides](https://github.com/sindresorhus/guides)
 
+## Install Google Fonts
+```bash
+curl https://raw.githubusercontent.com/ucarmetin/toolbox/master/google-fonts-install.sh | sh
+```
+
 ## Install Bash version 4 on MacOS X
 ```bash
 # Install Bash 4 using homebrew

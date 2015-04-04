@@ -98,7 +98,6 @@
 - [Beautiful web type](https://github.com/ubuwaits/beautiful-web-type) - A showcase of the best typefaces from the Google web fonts directory
 - [Fit text](https://github.com/davatron5000/FitText.js) - FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
-- [Google web font loader](https://github.com/qrpike/Web-Font-Load) - Install all Google Web Fonts onto your local machine
 - [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Typography Cheatsheet](Typography-Cheatsheet.pdf)
 
