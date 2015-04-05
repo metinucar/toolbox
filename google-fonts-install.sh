@@ -20,8 +20,6 @@ rm *.html
 rm *.py
 rm AUTHORS
 rm CONTRIBUTORS
-cd ../..
-mv google-fonts/fonts/* ./
 
 echo "Fonts installed; Cleaning up files..."
 rm -f master.tar.gz
