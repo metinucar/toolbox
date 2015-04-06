@@ -335,3 +335,5 @@
 - [CSS Multi-column layout](http://codepen.io/spylefkaditis/pen/AIqld)
 - [Open profile transition](http://codepen.io/virgilpana/pen/ZYZXgP)
 - [Full screen carousel expose](http://codepen.io/virgilpana/full/ByEqew/)
+- [Analog D3 Clock](http://codepen.io/wiinci/pen/flqmJ)
+- [Text-based text aling icons](http://codepen.io/jasongraphix/pen/JAlud)
