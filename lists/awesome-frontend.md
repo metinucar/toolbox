@@ -203,6 +203,7 @@
 - [Loaders](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
 - [Material preloader](https://github.com/aarondo/Material-Preloader) - A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox)
 - [Tabulous](https://github.com/aarondo/tabulous.js) - A jQuery tabs module for todays web
+- [Toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
