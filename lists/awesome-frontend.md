@@ -201,6 +201,8 @@
 - [Pour Over](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
 - [The Background Pattern Library](http://thepatternlibrary.com/)
 - [Loaders](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations
+- [Material preloader](https://github.com/aarondo/Material-Preloader) - A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox)
+- [Tabulous](https://github.com/aarondo/tabulous.js) - A jQuery tabs module for todays web
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
