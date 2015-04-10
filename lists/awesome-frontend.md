@@ -343,3 +343,4 @@
 - [Full screen carousel expose](http://codepen.io/virgilpana/full/ByEqew/)
 - [Analog D3 Clock](http://codepen.io/wiinci/pen/flqmJ)
 - [Text-based text aling icons](http://codepen.io/jasongraphix/pen/JAlud)
+- [6 Responsive navigation ideas](http://codepen.io/dubiel/full/yyWEVo/)
