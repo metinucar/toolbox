@@ -74,6 +74,7 @@ Title | Description
 [pure](http://purecss.io/) | A set of small, responsive CSS modules
 [base](http://matthewhartman.github.io/base/) | Responsive CSS framework with IE7+ support
 [Skeleton](http://getskeleton.com/) | Responsive CSS Boilerplate
+[Bass CSS](https://github.com/basscss/basscss/) | Low-level CSS Toolkit
 
 
 ### Other tools
