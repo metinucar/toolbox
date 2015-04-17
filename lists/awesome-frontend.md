@@ -133,6 +133,7 @@
 - [Unveil](http://luis-almeida.github.io/unveil/) - Lightweight plugin to lazy load images for jQuery or Zepto.js
 - [aLoad](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 260 bytes)
 - [Images Loaded](https://github.com/desandro/imagesloaded) - Detect when images have been loaded
+- [Layzr](http://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
