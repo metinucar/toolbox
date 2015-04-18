@@ -245,6 +245,7 @@
 - [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [Responsible.js](https://github.com/DavidWells/responsible) - Give Users the choice of what mobile experience they want. Adds Toggle for mobile to desktop switching without page reloads
 - [Markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload
+- [Trianglify Generator](http://qrohlf.com/trianglify-generator/)
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
