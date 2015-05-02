@@ -247,6 +247,7 @@
 - [Responsible.js](https://github.com/DavidWells/responsible) - Give Users the choice of what mobile experience they want. Adds Toggle for mobile to desktop switching without page reloads
 - [Markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload
 - [Trianglify Generator](http://qrohlf.com/trianglify-generator/)
+- [Caret generator](http://lugolabs.com/caret)
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -348,3 +349,4 @@
 - [Analog D3 Clock](http://codepen.io/wiinci/pen/flqmJ)
 - [Text-based text aling icons](http://codepen.io/jasongraphix/pen/JAlud)
 - [6 Responsive navigation ideas](http://codepen.io/dubiel/full/yyWEVo/)
+- [Greedy navigation](http://codepen.io/lukejacksonn/pen/PwmwWV)
