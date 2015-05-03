@@ -100,6 +100,7 @@
 - [slabText](https://github.com/freqdec/slabText) - jQuery plugin for producing big, bold & responsive headlines
 - [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Typography Cheatsheet](Typography-Cheatsheet.pdf)
+- [Font-size-adjust calculator](http://fontdeck.com/support/fontsizeadjust/)
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
