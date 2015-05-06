@@ -60,6 +60,7 @@
 - [iCheck](https://github.com/fronteed/iCheck/) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [Autocomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies
 - [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
+- [Input Types Tester](http://inputtypes.com/)
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
