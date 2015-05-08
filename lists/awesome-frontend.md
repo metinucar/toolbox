@@ -170,6 +170,7 @@
 - [Swiper](https://github.com/nolimits4web/swiper/) - Most modern mobile touch slider with hardware accelerated transitions
 - [CSS Modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS
 - [Flex Slider](https://github.com/woothemes/FlexSlider/) - An awesome, fully responsive jQuery slider plugin
+- [Medium's Image Zoom for jQuery](https://github.com/fat/zoom.js)
 
 
 ### Navigation
