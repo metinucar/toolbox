@@ -59,7 +59,7 @@
 
 
 ## Tutorials
-
+- [Proper WordPress Filesystem Permissions And Ownerships](http://www.smashingmagazine.com/2014/05/08/proper-wordpress-filesystem-permissions-ownerships/)
 - [Getting Started With Redux Framework: Introducing It and Integrating It Into Your Theme](http://code.tutsplus.com/tutorials/getting-started-with-redux-framework-introducing-it-and-integrating-it-into-your-theme--cms-22240)
 - [Simple Wordpress Podcast Plugin](https://css-tricks.com/roll-simple-wordpress-podcast-plugin/)
 - [Create a Simple CRM in WordPress](http://code.tutsplus.com/series/create-a-simple-crm-in-wordpress--cms-641) - In this series, we're going to be building a simple CRM system in WordPress to store and track prospective clients.
