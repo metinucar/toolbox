@@ -25,6 +25,7 @@
 - [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO
 - [WP Optimize](https://wordpress.org/plugins/wp-optimize/) - Extensively cleans up your WordPress database and optimize it
 - [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) - Adds a splash page to your site that lets visitors know your site is down for maintenance
+- [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
 - [WP Smush.it](https://wordpress.org/plugins/wp-smushit/) - Optimizing image files
 - [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - Lazy loading images and iframes
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
