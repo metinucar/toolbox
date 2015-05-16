@@ -209,6 +209,7 @@
 - [Tabulous](https://github.com/aarondo/tabulous.js) - A jQuery tabs module for todays web
 - [Toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp
 - [Material Refresh](http://lightningtgc.github.io/material-refresh/) - Google Material Design swipe(pull) to refresh by using JavaScript and CSS3
+- [CSS Spinners](http://www.css-spinners.com/)
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
