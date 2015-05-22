@@ -25,9 +25,9 @@
 - [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO
 - [WP Optimize](https://wordpress.org/plugins/wp-optimize/) - Extensively cleans up your WordPress database and optimize it
 - [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) - Adds a splash page to your site that lets visitors know your site is down for maintenance
+- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery
+- [Bulletproof Security](https://wordpress.org/plugins/bulletproof-security/)
 - [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
-- [WP Smush.it](https://wordpress.org/plugins/wp-smushit/) - Optimizing image files
-- [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - Lazy loading images and iframes
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
 - [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - Creating a performance report for your site
 - [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
@@ -41,7 +41,6 @@
 - [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - Easily create two-factor authentication using the Google Authenticator app for Android/iPhone/Blackberry
 - [Redux Framework](https://wordpress.org/plugins/redux-framework/) - Extensible and fully responsive options framework for WordPress themes and plugins
 - [Theme Test Drive](https://wordpress.org/plugins/theme-test-drive/) - Safely test drive any theme as an administrator, while visitors use the default one
-- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery
 - [Team Post Type](https://github.com/devinsays/team-post-type) - Some boilerplate post type code
 
 
