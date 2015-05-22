@@ -26,6 +26,7 @@
 - [WP Optimize](https://wordpress.org/plugins/wp-optimize/) - Extensively cleans up your WordPress database and optimize it
 - [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) - Adds a splash page to your site that lets visitors know your site is down for maintenance
 - [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery
+- [Wordfence](https://wordpress.org/plugins/wordfence/) - Wordfence Security is a free enterprise class security and performance plugin that makes your site up to 50 times faster and more secure
 - [Bulletproof Security](https://wordpress.org/plugins/bulletproof-security/)
 - [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
