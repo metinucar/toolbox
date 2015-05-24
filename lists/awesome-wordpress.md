@@ -12,6 +12,8 @@
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
 - [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Clear and consistent guide for building your widgets.
 - [WordPress Functionality Plugins Boilerplate](https://github.com/chriscoyier/css-tricks-functionality-plugin)
+- [Custom Post Type Class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily
+- [Custom Post Type Boilerplate](https://github.com/devinsays/team-post-type)
 
 
 ## Administrator plugins
