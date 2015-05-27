@@ -356,3 +356,4 @@
 - [Text-based text aling icons](http://codepen.io/jasongraphix/pen/JAlud)
 - [6 Responsive navigation ideas](http://codepen.io/dubiel/full/yyWEVo/)
 - [Greedy navigation](http://codepen.io/lukejacksonn/pen/PwmwWV)
+- [Slack logo CSS animation](http://codepen.io/callmenick/pen/XbdxbV)
