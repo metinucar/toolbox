@@ -252,6 +252,7 @@
 - [Markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload
 - [Trianglify Generator](http://qrohlf.com/trianglify-generator/)
 - [Caret generator](http://lugolabs.com/caret)
+- [Hammer](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
