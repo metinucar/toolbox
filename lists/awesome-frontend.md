@@ -102,6 +102,7 @@
 - [Text to ASCII](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 - [Typography Cheatsheet](Typography-Cheatsheet.pdf)
 - [Font-size-adjust calculator](http://fontdeck.com/support/fontsizeadjust/)
+- [Font to Width](https://github.com/chrissam42/font-to-width) - Font-To-Width if a small Javascript routine which fits text to the width of an element using multiple font styles of different widths
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
