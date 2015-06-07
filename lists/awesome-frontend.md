@@ -103,6 +103,8 @@
 - [Typography Cheatsheet](Typography-Cheatsheet.pdf)
 - [Font-size-adjust calculator](http://fontdeck.com/support/fontsizeadjust/)
 - [Font to Width](https://github.com/chrissam42/font-to-width) - Font-To-Width if a small Javascript routine which fits text to the width of an element using multiple font styles of different widths
+- [Underline](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering
+- [Paragraph settings](http://universaltypography.com/demo/)
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
