@@ -93,6 +93,7 @@ Title | Description
 [CSS Loaders](https://github.com/lukehaas/css-loaders) | A collection of loading spinners animated with CSS
 [BEM Constructor](https://github.com/danielguillan/bem-constructor) | A Sass library for building immutable and namespaced BEM-style CSS objects
 [Expressive BEM](http://codepen.io/andersschmidt/thoughts/expressive-bem-with-sass-a-different-approach) | Expressive BEM with Sass: a different approach
+[Suit CSS](https://suitcss.github.io/) | A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.
 
 
 
