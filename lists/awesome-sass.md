@@ -75,6 +75,7 @@ Title | Description
 [base](http://matthewhartman.github.io/base/) | Responsive CSS framework with IE7+ support
 [Skeleton](http://getskeleton.com/) | Responsive CSS Boilerplate
 [Bass CSS](https://github.com/basscss/basscss/) | Low-level CSS Toolkit
+[Clique UI](https://github.com/CliqueStudios/Clique.UI/) | A lightweight, modular front-end framework for rapid web-interface development
 
 
 ### Other tools
