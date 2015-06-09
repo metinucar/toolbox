@@ -17,7 +17,7 @@
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
-- [Dates](#dates)
+- [Date and Time](#date-and-time)
 - [Events](#events)
 - [General](#general)
 - [Icons](#icons)
@@ -51,6 +51,7 @@
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 
 ### Forms
+- [Garlic](https://github.com/guillaumepotier/garlic.js/) - Automatically persist your forms' text and select field values locally, until the form is submitted
 - [Card](https://github.com/jessepollak/card/) - Make your credit card form better in one line of code
 - [Hide Show Password](https://github.com/cloudfour/hideShowPassword) - Easily reveal or hide password field contents via JavaScript or a nifty inner toggle button. Supports touch quite nicely!
 - [Toscani](https://github.com/zdfs/toscani/) - A progressively-enhanced solution for creating a single-field credit card input
@@ -228,7 +229,8 @@
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript And JSON(P)
 - [fetch](https://github.com/github/fetch) - A `window.fetch` javascript polyfill
 
-### Dates
+### Date and time
+- [Knwl](https://github.com/loadfive/Knwl.js) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 - [jQuery Age](https://github.com/ksylvest/jquery-age) - Age is a jQuery plugin that formats and tracks dates and times as human readable text
