@@ -363,3 +363,4 @@
 - [6 Responsive navigation ideas](http://codepen.io/dubiel/full/yyWEVo/)
 - [Greedy navigation](http://codepen.io/lukejacksonn/pen/PwmwWV)
 - [Slack logo CSS animation](http://codepen.io/callmenick/pen/XbdxbV)
+- [Using the CSS counter() Function](http://codepen.io/svinkle/pen/HAzyb)
