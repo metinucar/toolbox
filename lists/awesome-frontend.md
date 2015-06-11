@@ -366,3 +366,4 @@
 - [Using the CSS counter() Function](http://codepen.io/svinkle/pen/HAzyb)
 - [Importing CSS Breakpoints Into Javascript](http://codepen.io/mherchel/pen/gbygBd) - [Use case](https://www.lullabot.com/blog/article/importing-css-breakpoints-javascript)
 - [Form with Animation That Assists in UX](http://codepen.io/sdras/pen/LEorev/)
+- Radio-controlled tabs [jQuery](http://codepen.io/artlawry/pen/gbLev) and [Javascript](http://codepen.io/artlawry/pen/KIpjn). [Tutorial](http://alistapart.com/article/radio-controlled-web-design)
