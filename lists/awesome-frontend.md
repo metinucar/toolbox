@@ -364,3 +364,4 @@
 - [Greedy navigation](http://codepen.io/lukejacksonn/pen/PwmwWV)
 - [Slack logo CSS animation](http://codepen.io/callmenick/pen/XbdxbV)
 - [Using the CSS counter() Function](http://codepen.io/svinkle/pen/HAzyb)
+- [Importing CSS Breakpoints Into Javascript](http://codepen.io/mherchel/pen/gbygBd) - Use case(https://www.lullabot.com/blog/article/importing-css-breakpoints-javascript)
