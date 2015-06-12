@@ -297,6 +297,7 @@
 - [Colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web
 - [Material Palette](http://www.materialpalette.com/) - Material Design Color Palette Generator
 - [Colorrrs](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa
+- [Vibrant](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 
 
 ### Keyboard Events
