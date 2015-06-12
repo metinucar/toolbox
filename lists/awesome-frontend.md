@@ -28,6 +28,7 @@
 - [Social](#social)
 - [Accessibility](#accessibility)
 - [Flexbox](#flexbox)
+- [Performance](#performance)
 - [Codepen collection](#codepen-collection)
 
 ### Charts
@@ -62,6 +63,7 @@
 - [Autocomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies
 - [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 - [Input Types Tester](http://inputtypes.com/)
+- [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -342,6 +344,9 @@
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
 - [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
 - [Using flexbox today](http://www.chriswrightdesign.com/experiments/using-flexbox-today/)
+
+### Performance
+- [Justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics
 
 ### Codepen collection
 - [Pull Menu - Menu interaction concept](http://codepen.io/ucarmetin/pen/EagXOE)
