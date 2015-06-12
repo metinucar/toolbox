@@ -333,6 +333,9 @@
 - [Accessible horizontal scrolling table with fixed left column](http://codepen.io/wiinci/pen/vEHbr?editors=100)
 - [Color Safe](http://colorsafe.co/)
 - [Abbr Touch](https://github.com/Tyriar/abbr-touch.js) - A JavaScript library that makes abbr element title attributes touch accessible
+- [Axe](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit
+- [Accessibility cheatsheet](https://www.evernote.com/l/ACFnh7xvc4ZOvrGjjAOhCfc_8bNeJPyZCGk)
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
