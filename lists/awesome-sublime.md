@@ -132,6 +132,7 @@ Plugins:
 - [Spacegray](http://kkga.github.io/spacegray/) — A Hyperminimal UI theme.
 - [After Glow](https://github.com/YabataDesign/afterglow-theme) - A minimal dark Theme
 - [Centurion](https://github.com/allanhortle/Centurion) - A clean cut UI theme
+- [Material](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
 ### Color Schemes
 

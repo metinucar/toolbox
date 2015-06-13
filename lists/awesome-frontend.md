@@ -304,6 +304,7 @@
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
+- [Mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [Keypress](https://github.com/dmauro/Keypress/) - A keyboard input capturing utility in which any key can be a modifier key
 - [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
