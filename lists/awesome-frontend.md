@@ -344,6 +344,7 @@
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A visual guide to CSS3 Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) - Don't forget to check out [the playground on codepen](http://codepen.io/justd/pen/yydezN)
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
 - [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
 - [Using flexbox today](http://www.chriswrightdesign.com/experiments/using-flexbox-today/)
