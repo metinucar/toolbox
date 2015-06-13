@@ -30,6 +30,7 @@
 - [Flexbox](#flexbox)
 - [Performance](#performance)
 - [Codepen collection](#codepen-collection)
+- [Repositories](#repositories)
 
 ### Charts
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
@@ -346,6 +347,7 @@
 - [Solved by Flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox
 - [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
 - [Using flexbox today](http://www.chriswrightdesign.com/experiments/using-flexbox-today/)
+- [Flexbox dice](http://codepen.io/LandonSchropp/pen/KpzzGo) - [Here](http://davidwalsh.name/flexbox-dice) you find the tutorial explaining how to create flexbox dice
 
 ### Performance
 - [Justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics
@@ -379,3 +381,8 @@
 - [Form with Animation That Assists in UX](http://codepen.io/sdras/pen/LEorev/)
 - Radio-controlled tabs [jQuery](http://codepen.io/artlawry/pen/gbLev) and [Javascript](http://codepen.io/artlawry/pen/KIpjn). [Tutorial](http://alistapart.com/article/radio-controlled-web-design)
 - [Morphing navigation with radio buttons](http://codepen.io/scottohara/pen/AoFvD)
+
+### Repositories
+Here I collect those repositories that are educational and cover more than one aspect of web design & development
+
+- [Chrome Dev Summit Site](https://github.com/GoogleChrome/devsummit) - A fast, Material Design conference site containing useful tips on animations, performance and service worker.
