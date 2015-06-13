@@ -32,7 +32,7 @@ Title | Description
 [Frontend guidelines](lists/frontend-guidelines.md) | Some HTML, CSS and JS best practices
 [Frontend job interview questions-interview-questions](lists/frontend-job-interview-questions.md) | This file contains a number of front-end interview questions that can be used when vetting potential candidates
 [Learn to program](lists/learn-to-program.md) | Education resources to learn to program
-[Social Media Image Sizes Reference Guide](lists/social-profile-image-sizes.md.md) | An up-to-date quick reference guide to social media image sizes
+[Social Media Image Sizes Reference Guide](lists/social-profile-image-sizes.md) | An up-to-date quick reference guide to social media image sizes
 [Awesome svg](https://github.com/willianjusten/awesome-svg) *(external)* | A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date
 [Tools of trade](https://github.com/cjbarber/ToolsOfTheTrade) *(external)* | HN Tools of The Trade, 2014 Edition
 [Web performance optimizations](https://github.com/davidsonfellipe/awesome-wpo) *(external)* | A curated list of Web Performance Optimization
