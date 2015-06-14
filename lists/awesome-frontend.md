@@ -383,6 +383,7 @@
 - [Form with Animation That Assists in UX](http://codepen.io/sdras/pen/LEorev/)
 - Radio-controlled tabs [jQuery](http://codepen.io/artlawry/pen/gbLev) and [Javascript](http://codepen.io/artlawry/pen/KIpjn). [Tutorial](http://alistapart.com/article/radio-controlled-web-design)
 - [Morphing navigation with radio buttons](http://codepen.io/scottohara/pen/AoFvD)
+- [Pure CSS off-screen menu](http://codepen.io/SitePoint/pen/uIemr)
 
 ### Repositories
 Here I collect those repositories that are educational and cover more than one aspect of web design & development
