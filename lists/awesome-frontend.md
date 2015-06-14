@@ -126,7 +126,7 @@
 - [SoundCite](http://soundcite.knightlab.com/) - Inline audio player
 
 ### Tables
-- [Table saw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables
+- [Tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables
 - [sortable](http://github.hubspot.com/sortable/docs/welcome/) - Makes tables sortable
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
@@ -262,6 +262,7 @@
 - [Trianglify Generator](http://qrohlf.com/trianglify-generator/)
 - [Caret generator](http://lugolabs.com/caret)
 - [Hammer](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
+- [Social count](https://github.com/filamentgroup/SocialCount) - Simple barebones project to show share counts from various social networks
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
