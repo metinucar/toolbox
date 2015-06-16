@@ -32,6 +32,7 @@
 - [Bulletproof Security](https://wordpress.org/plugins/bulletproof-security/)
 - [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
+- [Query Monitor](https://wordpress.org/plugins/query-monitor/) - View debugging and performance information on database queries, hooks, conditionals, HTTP requests, redirects and more
 - [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - Creating a performance report for your site
 - [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
 - [Jetpack](https://wordpress.org/plugins/jetpack/) - Adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools.
