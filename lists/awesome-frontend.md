@@ -168,6 +168,7 @@
 - [Animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for css animated page transitions
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
 - [Vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
+- [Dynamics](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations
 
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
