@@ -344,6 +344,8 @@
 - [Axe](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit
 - [Accessibility cheatsheet](https://www.evernote.com/l/ACFnh7xvc4ZOvrGjjAOhCfc_8bNeJPyZCGk)
+- [Web Accessibility Checklist](http://a11yproject.com/checklist.html) - A beginner's guide to web accessibility
+- [HTML5 Accessibility](http://www.html5accessibility.com/)
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
