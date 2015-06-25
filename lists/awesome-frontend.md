@@ -30,6 +30,7 @@
 - [Flexbox](#flexbox)
 - [Performance](#performance)
 - [Codepen collection](#codepen-collection)
+- [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
 
 ### Charts
@@ -389,6 +390,15 @@
 - Radio-controlled tabs [jQuery](http://codepen.io/artlawry/pen/gbLev) and [Javascript](http://codepen.io/artlawry/pen/KIpjn). [Tutorial](http://alistapart.com/article/radio-controlled-web-design)
 - [Morphing navigation with radio buttons](http://codepen.io/scottohara/pen/AoFvD)
 - [Pure CSS off-screen menu](http://codepen.io/SitePoint/pen/uIemr)
+
+### Email newsletter
+- [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+- [Email framework](https://github.com/g13nn/Email-Framework) - Responsive HTML Email Framework
+- [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages
+- [Responsive html email template](https://github.com/leemunroe/responsive-html-email-template)
+- [Mailchimp email blueprints](https://github.com/mailchimp/Email-Blueprints) - HTML Email Layouts by MailChimp
+- [Responsive email](https://github.com/philwareham/responsive-email) - A table-based (but responsive) email template. Has MailChimp merge tags in place
+- [Yeoman gulp ink generator](https://github.com/lightingbeetle/generator-gulp-ink-email) - Yeoman generator for creating responsive emails using Zurb Ink framwork. Developed and used by Lighting Beetle.
 
 ### Repositories
 Here I collect those repositories that are educational and cover more than one aspect of web design & development
