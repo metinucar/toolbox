@@ -31,6 +31,7 @@
 - [Accessibility](#accessibility)
 - [Flexbox](#flexbox)
 - [Performance](#performance)
+- [Internationalization](#internationalization)
 - [Codepen collection](#codepen-collection)
 - [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
@@ -86,6 +87,7 @@
 - [Labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 - [Input Types Tester](http://inputtypes.com/)
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
+- [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -382,6 +384,10 @@
 ### Performance
 - [Justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics
 - [Postscribe](https://github.com/krux/postscribe) - Asynchronously write javascript, even with document.write.
+
+### Internationalization
+- [l10ns](http://l10ns.org/) - Internationalization workflowand formatting
+- [globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
 
 ### Codepen collection
 - [Pull Menu - Menu interaction concept](http://codepen.io/ucarmetin/pen/EagXOE)
