@@ -46,6 +46,7 @@
 - [Redux Framework](https://wordpress.org/plugins/redux-framework/) - Extensible and fully responsive options framework for WordPress themes and plugins
 - [Theme Test Drive](https://wordpress.org/plugins/theme-test-drive/) - Safely test drive any theme as an administrator, while visitors use the default one
 - [Team Post Type](https://github.com/devinsays/team-post-type) - Some boilerplate post type code
+- [Multisite language switcher](https://wordpress.org/plugins/multisite-language-switcher/) - A simple, powerful and easy to use plugin that will help you to manage multilingual content in a multisite WordPress installation
 
 
 ## Themes
