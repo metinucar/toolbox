@@ -1,6 +1,7 @@
 # Awesome frontend
 > Initially forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
+- [UI Frameworks](#ui-frameworks)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Forms](#forms)
@@ -34,6 +35,22 @@
 - [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
 - [Articles](#articles)
+
+### UI Frameworks
+- [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
+- [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
+- [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
+- [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
+- [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
+- [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
+- [famo.us](http://famo.us/) - Framework that helps you to create UIs
+- [kube](http://imperavi.com/kube/) - Minimalistic Web framework
+- [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
+- [pure](http://purecss.io/) - A set of small, responsive CSS modules
+- [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
+- [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 
 ### Charts
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
