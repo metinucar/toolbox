@@ -404,3 +404,4 @@
 Here I collect those repositories that are educational and cover more than one aspect of web design & development
 
 - [Chrome Dev Summit Site](https://github.com/GoogleChrome/devsummit) - A fast, Material Design conference site containing useful tips on animations, performance and service worker.
+- [Compare JavaScript libraries by weight](http://weightof.it/)
