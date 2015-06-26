@@ -25,6 +25,7 @@
 - [Keyboard Events](#keyboard-events)
 - [Favicons](#favicons)
 - [Databases](#databases)
+- [Local storage](#local-storage)
 - [Social](#social)
 - [Accessibility](#accessibility)
 - [Flexbox](#flexbox)
@@ -32,6 +33,7 @@
 - [Codepen collection](#codepen-collection)
 - [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
+- [Articles](#articles)
 
 ### Charts
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
@@ -324,8 +326,11 @@
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
 - [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
+
+### Local storage
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
 - [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
+- [Basil](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
 - [Storage](https://github.com/alekseykulikov/storage) - Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)
 
 ### Social
@@ -402,6 +407,8 @@
 
 ### Repositories
 Here I collect those repositories that are educational and cover more than one aspect of web design & development
-
 - [Chrome Dev Summit Site](https://github.com/GoogleChrome/devsummit) - A fast, Material Design conference site containing useful tips on animations, performance and service worker.
 - [Compare JavaScript libraries by weight](http://weightof.it/)
+
+### Articles
+- [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
