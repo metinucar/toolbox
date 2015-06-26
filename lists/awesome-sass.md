@@ -33,6 +33,7 @@ iPads & iPhones
 Title | Description
 :--|:--
 &#9734; [Bourbon](https://github.com/thoughtbot/bourbon) | A lightweight Sass mixin library
+&#9734; [Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate) | A boilerplate for Sass projects using the 7-1 architecture pattern
 [Toolkit](https://github.com/at-import/toolkit) | Toolkit for Responsive Web Design and Progressive Enhancement with Compass
 [Andy](https://github.com/gillesbertaux/andy) | Open-Source Collection of Useful SASS Mixins Library
 [Scut](https://github.com/davidtheclark/scut) | Sass utilities for the frontend laborer
