@@ -418,6 +418,7 @@
 - Radio-controlled tabs [jQuery](http://codepen.io/artlawry/pen/gbLev) and [Javascript](http://codepen.io/artlawry/pen/KIpjn). [Tutorial](http://alistapart.com/article/radio-controlled-web-design)
 - [Morphing navigation with radio buttons](http://codepen.io/scottohara/pen/AoFvD)
 - [Pure CSS off-screen menu](http://codepen.io/SitePoint/pen/uIemr)
+- [Mask/Unmask password](http://codepen.io/CreativeJuiz/pen/cvyEi)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
