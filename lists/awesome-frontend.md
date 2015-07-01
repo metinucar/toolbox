@@ -50,7 +50,7 @@
 - [papier](http://gugel.io/papier/) - Material design like minimal CSS framework
 - [pure](http://purecss.io/) - A set of small, responsive CSS modules
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
-- [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+- [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate. [Here](https://github.com/whatsnewsaes/Skeleton-Sass) is an unofficial SASS port of skeleton
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 
 ### Charts
