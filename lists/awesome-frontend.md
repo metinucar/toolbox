@@ -2,6 +2,7 @@
 > Initially forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
 - [UI Frameworks](#ui-frameworks)
+- [Boilerplates](#boilerplates)
 - [Charts](#charts)
 - [Maps](#maps)
 - [Forms](#forms)
@@ -52,6 +53,12 @@
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate. [Here](https://github.com/whatsnewsaes/Skeleton-Sass) is an unofficial SASS port of skeleton
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+
+### Boilerplates
+- [Google Web Starter Kit](https://github.com/google/web-starter-kit)
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+- [ExpandJS](http://expandjs.com/) - ExpandJS is a modular library with 80+ custom elements and 350+ utility functions to kickstart your Web Applications
+- [Boy](https://github.com/corysimmons/boy) - HTML5 Boilerplate with older browsers in mind.
 
 ### Charts
 - [Awesome d3](https://github.com/wbkd/awesome-d3)
