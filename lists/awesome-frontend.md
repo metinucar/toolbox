@@ -54,6 +54,7 @@
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 
 ### Charts
+- [Awesome d3](https://github.com/wbkd/awesome-d3)
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
 - [c3](http://c3js.org/) - D3-based reusable chart library
@@ -325,6 +326,7 @@
 - [Material Palette](http://www.materialpalette.com/) - Material Design Color Palette Generator
 - [Colorrrs](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa
 - [Vibrant](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
+- [Brand colors](http://brandcolors.net/) - Official color codes for the world's biggest brands
 
 
 ### Keyboard Events
@@ -433,6 +435,7 @@
 Here I collect those repositories that are educational and cover more than one aspect of web design & development
 - [Chrome Dev Summit Site](https://github.com/GoogleChrome/devsummit) - A fast, Material Design conference site containing useful tips on animations, performance and service worker.
 - [Compare JavaScript libraries by weight](http://weightof.it/)
+- [A collection of web development logos in SVG](https://github.com/gilbarbara/logos)
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
