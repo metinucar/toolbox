@@ -58,6 +58,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Marvel Sketch](https://github.com/marvelapp/marvel-sketch) - Sketch plugin for marvelapp
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
     - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator)
+    - [Sketch flex layout](https://github.com/hrescak/Sketch-Flex-Layout) - Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
   - Nice-to-have
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
