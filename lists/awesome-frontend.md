@@ -296,6 +296,8 @@
 - [Caret generator](http://lugolabs.com/caret)
 - [Hammer](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures
 - [Social count](https://github.com/filamentgroup/SocialCount) - Simple barebones project to show share counts from various social networks
+- [Background blur](https://github.com/msurguy/background-blur) - Ultra light cross browser image blurring plugin for jQuery
+- [Unsplash it](https://unsplash.it/) - Beautiful placeholders using images from unsplash
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
