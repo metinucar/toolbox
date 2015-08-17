@@ -298,6 +298,7 @@
 - [Social count](https://github.com/filamentgroup/SocialCount) - Simple barebones project to show share counts from various social networks
 - [Background blur](https://github.com/msurguy/background-blur) - Ultra light cross browser image blurring plugin for jQuery
 - [Unsplash it](https://unsplash.it/) - Beautiful placeholders using images from unsplash
+- [Pure CSS Apple Devices](http://purecssapple.com/)
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
