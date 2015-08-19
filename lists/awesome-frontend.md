@@ -39,6 +39,7 @@
 - [Articles](#articles)
 
 ### UI Frameworks
+- [Material design](https://www.google.com/design/spec/material-design/introduction.html)
 - [Material design lite](https://github.com/google/material-design-lite) - Material Design Lite Components in HTML/CSS/JS
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
