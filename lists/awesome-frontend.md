@@ -98,6 +98,7 @@
 - [Input Types Tester](http://inputtypes.com/)
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
+- [Strectchy](https://github.com/LeaVerou/stretchy) - Form element autosizing
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -320,6 +321,7 @@
 - [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line
 - [Marka](http://fian.my.id/marka/) - Beautiful transformable icons built for the web
 - [SVG Icons](http://svgicons.sparkk.fr/) - Ready to use SVG Icons for the web
+- [SVG Porn](http://svgporn.com/) - High quality SVG logos
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
