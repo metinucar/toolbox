@@ -301,6 +301,7 @@
 - [Background blur](https://github.com/msurguy/background-blur) - Ultra light cross browser image blurring plugin for jQuery
 - [Unsplash it](https://unsplash.it/) - Beautiful placeholders using images from unsplash
 - [Pure CSS Apple Devices](http://purecssapple.com/)
+- [Rucksack](https://github.com/simplaio/rucksack) - A little bag of CSS superpowers, built on PostCSS
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
