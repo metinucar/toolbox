@@ -214,7 +214,7 @@
 - [CSS Modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS
 - [Flex Slider](https://github.com/woothemes/FlexSlider/) - An awesome, fully responsive jQuery slider plugin
 - [Medium's Image Zoom for jQuery](https://github.com/fat/zoom.js)
-
+- [Wallop](https://github.com/peduarte/wallop) - Much more than just a slider
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
