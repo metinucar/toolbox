@@ -1,5 +1,4 @@
 # Awesome Wordpress
-
 - [Extending WordPress](#extending-wordpress)
 - [Administrator plugins](#administrator-plugins)
 - [Themes](#themes)
@@ -8,16 +7,15 @@
 
 
 ## Extending WordPress
-
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
 - [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Clear and consistent guide for building your widgets.
 - [WordPress Functionality Plugins Boilerplate](https://github.com/chriscoyier/css-tricks-functionality-plugin)
 - [Custom Post Type Class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily
 - [Custom Post Type Boilerplate](https://github.com/devinsays/team-post-type)
+- [ACF Field Type Template](https://github.com/elliotcondon/acf-field-type-template)
 
 
 ## Administrator plugins
-
 - [Advanced Custom Fields](http://www.advancedcustomfields.com/) - Powerful fields for WordPress developers
 - [Block Bad Queries](https://wordpress.org/plugins/block-bad-queries/) - Helping to protect WordPress against malicious URL requests
 - [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - Bringing automatic default responsive images to WordPress
@@ -50,14 +48,12 @@
 
 
 ## Themes
-
 - [Sage](https://github.com/roots/sage) - WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap
 - [Underscores.me](http://underscores.me/) - Clean and commented theme to start a project
 - [Bones](https://github.com/eddiemachado/bones) - A Mobile-First, Responsive WordPress starter theme based off 320 and Up & HTML5 Boilerplate
 
 
 ## Tools
-
 - [wp-cli](https://github.com/wp-cli/wp-cli) - A command line interface for WordPress
 - [Generate WP](http://generatewp.com/) - Common code snippets generator
 - [Bedrock](https://github.com/roots/bedrock) - Modern WordPress stack that gets you started with the best development tools, practices, and project structure
