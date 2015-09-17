@@ -26,8 +26,8 @@ Title | Description
 [Breakpoint](https://github.com/at-import/breakpoint) | Really simple media queries in Sass
 [Sass Media Queries](https://github.com/paranoida/sass-mediaqueries) | It is a collection of useful media queries mixins for Sass
 [Sass MQ](https://github.com/sass-mq/sass-mq) | A Sass mixin that helps you compose media queries in an elegant way
-[MQs](http://www.stephen.io/mediaqueries/) | CSS Media Queries for
-iPads & iPhones
+[MQs](http://www.stephen.io/mediaqueries/) | CSS Media Queries for iPads & iPhones
+[Jeet](https://github.com/mojotech/jeet) | The most advanced, yet intuitive, grid system available for Sass or Stylus
 
 ### Mixin libraries, toolkits, and utilities
 Title | Description

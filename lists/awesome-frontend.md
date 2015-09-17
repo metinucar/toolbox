@@ -99,6 +99,9 @@
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 - [Strectchy](https://github.com/LeaVerou/stretchy) - Form element autosizing
+- [AutoNumeric](https://github.com/BobKnothe/autoNumeric) - autoNumeric is a jQuery plugin that automatically formats currency (money) and numbers as you type on form inputs.
+- [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
+
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -165,6 +168,7 @@
 - [handson table](http://handsontable.com/) - Minimalist Excel-like data grid editor
 - [dynatables](http://www.dynatable.com/) - Semantic and interactive table plugin using jQuery, HTML5, and JSON
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
+- [Footable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 
 ### Module loaders
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
@@ -302,6 +306,7 @@
 - [Unsplash it](https://unsplash.it/) - Beautiful placeholders using images from unsplash
 - [Pure CSS Apple Devices](http://purecssapple.com/)
 - [Rucksack](https://github.com/simplaio/rucksack) - A little bag of CSS superpowers, built on PostCSS
+- [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
