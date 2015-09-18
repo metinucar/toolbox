@@ -307,6 +307,9 @@
 - [Pure CSS Apple Devices](http://purecssapple.com/)
 - [Rucksack](https://github.com/simplaio/rucksack) - A little bag of CSS superpowers, built on PostCSS
 - [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips
+- [UpUp](https://github.com/TalAter/UpUp/) - UpUp is a tiny javascript library that makes sure your users can always access your site's content
+- [Offline.js](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
+- [Jets](https://github.com/NeXTs/Jets.js) - Native CSS search engine
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -456,6 +459,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Chrome Dev Summit Site](https://github.com/GoogleChrome/devsummit) - A fast, Material Design conference site containing useful tips on animations, performance and service worker.
 - [Compare JavaScript libraries by weight](http://weightof.it/)
 - [A collection of web development logos in SVG](https://github.com/gilbarbara/logos)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)

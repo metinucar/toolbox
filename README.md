@@ -37,6 +37,7 @@ Title | Description
 [Tools of trade](https://github.com/cjbarber/ToolsOfTheTrade) *(external)* | HN Tools of The Trade, 2014 Edition
 [Web performance optimizations](https://github.com/davidsonfellipe/awesome-wpo) *(external)* | A curated list of Web Performance Optimization
 [Remote job](https://github.com/lukasz-madon/awesome-remote-job) *(external)* | A curated list of awesome remote working resources
+[Awesome OSX](https://github.com/iCHAIT/awesome-osx) *(external)* | A curated list of awesome applications, softwares, tools and shiny things for OS X.
 [Awesome styleguides](https://github.com/RichardLitt/awesome-styleguides) *(external)* | A list of styleguides
 [Awesome conferences](https://github.com/RichardLitt/awesome-conferences) *(external)* | A list of awesome conferences
 [Chrome DevTools code snippets](https://github.com/bahmutov/code-snippets) *(external)* | Chrome DevTools code snippets
