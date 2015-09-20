@@ -329,6 +329,7 @@
 - [UpUp](https://github.com/TalAter/UpUp/) - UpUp is a tiny javascript library that makes sure your users can always access your site's content
 - [Offline.js](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
 - [Jets](https://github.com/NeXTs/Jets.js) - Native CSS search engine
+- [Algebra](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -481,6 +482,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Compare JavaScript libraries by weight](http://weightof.it/)
 - [A collection of web development logos in SVG](https://github.com/gilbarbara/logos)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [Frontbook](https://github.com/morkro/FrontBook) - A small and modern frontend boilerplate
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
