@@ -55,6 +55,7 @@
 - [semantic-ui](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 - [skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate. [Here](https://github.com/whatsnewsaes/Skeleton-Sass) is an unofficial SASS port of skeleton
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
+- [Formstone](https://github.com/Formstone/Formstone) - Library of modular front end components
 
 ### Boilerplates
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit)
@@ -99,9 +100,18 @@
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 - [Strectchy](https://github.com/LeaVerou/stretchy) - Form element autosizing
-- [AutoNumeric](https://github.com/BobKnothe/autoNumeric) - autoNumeric is a jQuery plugin that automatically formats currency (money) and numbers as you type on form inputs.
-- [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 
+### Validation
+- [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
+- [Parsley](https://github.com/guillaumepotier/Parsley.js) - Easy Form validation
+- [validate.js](https://github.com/rickharrison/validate.js) - Form validation library inspired by CodeIgniter
+- [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+
+### Numbers & Currencies
+- [Numeral.js](http://numeraljs.com/) - Formatting and manipulating numbers
+- [accounting.js](http://openexchangerates.github.io/accounting.js) - Number, money and currency formatting
+- [money.js](http://openexchangerates.github.io/money.js/) - Currency conversion library
+- [AutoNumeric](https://github.com/BobKnothe/autoNumeric) - autoNumeric is a jQuery plugin that automatically formats currency (money) and numbers as you type on form inputs.
 
 ### Maps
 - [Google static maps v2](https://developers.google.com/maps/documentation/staticmaps/)
@@ -123,7 +133,6 @@
 - [mapsicon](https://github.com/djaiss/mapsicon) - Collection of maps for nearly every country in the world in PNG and SVG
 - [Cesium](http://cesiumjs.org/) - JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin.
 - [Maps icon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG
-- [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
 - [Map Glyphs](http://mapglyphs.com/) - The Ultimate CSS Map Font
 
 ### Text
@@ -170,8 +179,17 @@
 - [DataTables](http://www.datatables.net/) - jQuery plugin which adds sorting, paging and filtering abilities to plain HTML tables with minimal effort
 - [Footable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 
-### Module loaders
+## Statistics
+- [datalib](https://github.com/vega/datalib) - Javascript data utility library
+- [jstat](https://github.com/jstat/jstat) - Javascript Statistical Library
+- [simple-statistics](https://github.com/simple-statistics/simple-statistics) - simple statistics for node & browser javascript
+
+### Module Loaders
+- [Browserify](http://browserify.org/) - Lets you require('modules') in the browser
 - [RequireJS](https://github.com/jrburke/requirejs) - A file and AMD module loader
+- [stealjs](http://stealjs.com/) - Dependency loader and builder
+- [Systemjs](https://github.com/systemjs/systemjs) - ES6, AMD and CommonJS loader
+- [webpack](http://webpack.github.io/) - CommonJs and AMD module loader
 
 ### Lazy-Loading
 - [loadXT](https://github.com/ressio/lazy-load-xt) - Lazy loading for any elements
@@ -182,6 +200,7 @@
 - [aLoad](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 260 bytes)
 - [Images Loaded](https://github.com/desandro/imagesloaded) - Detect when images have been loaded
 - [Layzr](http://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images
+- [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
@@ -225,7 +244,6 @@
 - [mmenu](http://mmenu.frebsite.nl/) - A jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
 - [Snap](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
-
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -277,6 +295,8 @@
 - [moment.js](http://momentjs.com/) - Parse, validate, manipulate, and display dates
 - [sugar](http://sugarjs.com/dates) - Parse, create, manipulate, compare, format and display dates
 - [jQuery Age](https://github.com/ksylvest/jquery-age) - Age is a jQuery plugin that formats and tracks dates and times as human readable text
+- [datedropper](http://felicegattuso.com/projects/datedropper/) - datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+- [Pikaday](http://dbushell.github.io/Pikaday/) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ### Events
 - [bean](https://github.com/fat/bean) - Events api
@@ -295,7 +315,6 @@
 - [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 - [Shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 - [Webshim](https://github.com/aFarkas/webshim/) - Webshims Lib is a modular capability-based polyfill-loading library
-- [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 - [Responsible.js](https://github.com/DavidWells/responsible) - Give Users the choice of what mobile experience they want. Adds Toggle for mobile to desktop switching without page reloads
 - [Markdownify](https://github.com/tibastral/markdownify) - The simplest markdown editor with built in cloudinary image upload
 - [Trianglify Generator](http://qrohlf.com/trianglify-generator/)
@@ -351,7 +370,6 @@
 - [Vibrant](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 - [Brand colors](http://brandcolors.net/) - Official color codes for the world's biggest brands
 
-
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
 - [Mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
@@ -359,17 +377,19 @@
 - [Konami code](https://github.com/tommcfarlin/konami-code) - Using the Konami code, easily configure and Easter Egg for your page or any element on the page
 - [keymaster](https://github.com/madrobby/keymaster) - Simple key listener
 
-
 ### Favicons
 - [Favicon theory and guides](lists/awesome-favicon.rst)
 - [favico.js](http://lab.ejci.net/favico.js/) - Make use of your favicon with badges, images or videos
 - [Favicon generator](http://realfavicongenerator.net/) - Generate the favicon pictures and HTML code that work on all major browsers and platforms
 
 ### Databases
+- [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
+- [localForage](https://github.com/mozilla/localForage) - Library like a localStorage API with fallback store for browsers with no IndexedDB or WebSQL support
+- [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
+- [lovefield](https://github.com/google/lovefield) - SQL-like, relational query engine for the browser
+- [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
 - [pouchdb](http://pouchdb.com/) - Created to help developers build applications that work as well offline as they do online
 - [taffydb](http://www.taffydb.com/) - Brings database features into your JavaScript applications
-- [LokiJS](http://lokijs.org/) - Embeddable / in-memory database
-- [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
 
 ### Local storage
 - [store.js](https://github.com/marcuswestin/store.js/) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage and userData behavior
@@ -382,6 +402,7 @@
 - [whatsapp button](http://whatsapp-sharing.com/) - Creates a whatsapp sharing button
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
+- [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
 
 ## Accessibility
 - [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - The polyfill for a more accessible HTML5
