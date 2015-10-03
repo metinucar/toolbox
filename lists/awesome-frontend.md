@@ -240,6 +240,7 @@
 - [Medium's Image Zoom for jQuery](https://github.com/fat/zoom.js)
 - [Wallop](https://github.com/peduarte/wallop) - Much more than just a slider
 - [Remodal](https://github.com/VodkaBears/Remodal) - Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking
+- [Vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
@@ -332,6 +333,7 @@
 - [Offline.js](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
 - [Jets](https://github.com/NeXTs/Jets.js) - Native CSS search engine
 - [Algebra](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations
+- [Clipboard](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
