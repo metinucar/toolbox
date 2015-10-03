@@ -239,6 +239,7 @@
 - [Flex Slider](https://github.com/woothemes/FlexSlider/) - An awesome, fully responsive jQuery slider plugin
 - [Medium's Image Zoom for jQuery](https://github.com/fat/zoom.js)
 - [Wallop](https://github.com/peduarte/wallop) - Much more than just a slider
+- [Remodal](https://github.com/VodkaBears/Remodal) - Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
