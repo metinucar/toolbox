@@ -91,6 +91,7 @@
 - [Hide Show Password](https://github.com/cloudfour/hideShowPassword) - Easily reveal or hide password field contents via JavaScript or a nifty inner toggle button. Supports touch quite nicely!
 - [Toscani](https://github.com/zdfs/toscani/) - A progressively-enhanced solution for creating a single-field credit card input
 - [WFT Forms](https://github.com/mdo/wtf-forms/) - Friendlier HTML form controls with a little CSS magic
+- [JCF](https://github.com/w3co/jcf) - Advanced form elements customization using CSS/JS
 - [select2](https://select2.github.io/) - JQuery based replacement for select boxes
 - [chosen](https://harvesthq.github.io/chosen/) - Library for making long, unwieldy select boxes more friendly
 - [iCheck](https://github.com/fronteed/iCheck/) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
