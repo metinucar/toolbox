@@ -58,6 +58,7 @@ Title | Description
 &#9734; [Type Plate](http://typeplate.com/) | A 'typographic starter kit'
 &#9734; [Type Settings](https://github.com/ianrose/typesettings) | A Sass or Stylus toolkit that sets type in Ems based on modular scale, vertical rhythm, and responsive ratio based headlines
 [Typecsset](https://github.com/csswizardry/typecsset) | A small Sass library for setting type on the web
+[Typebase](https://github.com/devinhunt/typebase.css) | A starting point for good typography on the web
 
 
 ### Ready to use frameworks
