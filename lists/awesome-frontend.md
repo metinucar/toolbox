@@ -490,6 +490,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 - [Frontbook](https://github.com/morkro/FrontBook) - A small and modern frontend boilerplate
 - [Blooming Menu](https://github.com/caiogondim/blooming-menu) - AwesomeMenu made with CSS
+- [SPFJS](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
