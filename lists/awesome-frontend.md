@@ -489,6 +489,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [A collection of web development logos in SVG](https://github.com/gilbarbara/logos)
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
 - [Frontbook](https://github.com/morkro/FrontBook) - A small and modern frontend boilerplate
+- [Blooming Menu](https://github.com/caiogondim/blooming-menu) - AwesomeMenu made with CSS
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
