@@ -491,6 +491,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Frontbook](https://github.com/morkro/FrontBook) - A small and modern frontend boilerplate
 - [Blooming Menu](https://github.com/caiogondim/blooming-menu) - AwesomeMenu made with CSS
 - [SPFJS](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
+- [Web design standards](https://github.com/18F/web-design-standards) - Open source UI components and visual style guide for U.S. government websites
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
