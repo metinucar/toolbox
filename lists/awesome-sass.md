@@ -88,7 +88,7 @@ Title | Description
 [Guss](https://github.com/guardian/guss) | Guss is a collection of Sass bower components, re-usable across multiple Guardian web products
 &#9734;[Normalize SCSS](https://github.com/JohnAlbin/normalize-scss) | The Sass/Compass version of Normalize.css
 &#9734;[Modernizr Mixin](https://github.com/danielguillan/modernizr-mixin) | Simple and comprehensive mixin for Modernizr tests in Sass
-[Sanitize](https://github.com/jonathantneal/sanitize.css) | [Normalize alternative] Render elements consistently. Style with best practices.
+&#9734;[Sanitize](https://github.com/jonathantneal/sanitize.css) | [Normalize alternative] Render elements consistently. Style with best practices.
 [Sass Burger](https://github.com/jorenvanhee/sass-burger) | A Sass mixin for creating hamburger icons. Here is an [alternative](https://github.com/callmenick/Animating-Hamburger-Icons/)
 [Sassy Flags](https://github.com/Layerful/sassy-flags) | Lightweight Sass library to display flags on your site
 [rem with px fallback](https://github.com/pierreburel/sass-rem) | Sass function and mixin to convert px in rem
