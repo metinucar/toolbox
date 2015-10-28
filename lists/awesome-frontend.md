@@ -157,6 +157,7 @@
 - [Underline](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering
 - [Paragraph settings](http://universaltypography.com/demo/)
 - [Font library](http://katydecorah.com/font-library/#) - An open source project to tag and organize Google Fonts
+- [Typeset](https://github.com/davidmerfield/typeset) - An html pre-proces­sor for web ty­pog­ra­phy
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -202,6 +203,7 @@
 - [Images Loaded](https://github.com/desandro/imagesloaded) - Detect when images have been loaded
 - [Layzr](http://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images
 - [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
+- [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
@@ -248,6 +250,8 @@
 - [mmenu](http://mmenu.frebsite.nl/) - A jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
 - [Snap](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
+- [Paradeiser](https://github.com/lucidlemon/paradeiser) - Small and sleek mobile navigation
+- [Burger](https://github.com/mblode/burger) - The minimal hamburger menu with fullscreen navigation
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -335,6 +339,8 @@
 - [Jets](https://github.com/NeXTs/Jets.js) - Native CSS search engine
 - [Algebra](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations
 - [Clipboard](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard
+- [CSSGram](https://github.com/una/CSSgram) - CSS library for Instagram filters
+- [Smart Crop](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -492,6 +498,9 @@ Here I collect those repositories that are educational and cover more than one a
 - [Blooming Menu](https://github.com/caiogondim/blooming-menu) - AwesomeMenu made with CSS
 - [SPFJS](https://github.com/youtube/spfjs) - A lightweight JS framework for fast navigation and page updates from YouTube
 - [Web design standards](https://github.com/18F/web-design-standards) - Open source UI components and visual style guide for U.S. government websites
+- [Simple Icons](http://simpleicons.org/) - SVG icons for popular brands
+- [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
+- [FUT Toolkit](https://github.com/trydis/FIFA-Ultimate-Team-Toolkit)
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
