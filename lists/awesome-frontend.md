@@ -500,7 +500,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Web design standards](https://github.com/18F/web-design-standards) - Open source UI components and visual style guide for U.S. government websites
 - [Simple Icons](http://simpleicons.org/) - SVG icons for popular brands
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
-- [FUT Toolkit](https://github.com/trydis/FIFA-Ultimate-Team-Toolkit)
+- [CSS Next](http://cssnext.io/) - Use tomorrow's CSS syntax, today
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
