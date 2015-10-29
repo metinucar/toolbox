@@ -244,6 +244,7 @@
 - [Wallop](https://github.com/peduarte/wallop) - Much more than just a slider
 - [Remodal](https://github.com/VodkaBears/Remodal) - Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking
 - [Vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
+- [Chocolat](https://github.com/nicolas-t/Chocolat) - Responsive jQuery Lightbox Plugin
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
