@@ -36,6 +36,7 @@
 - [Codepen collection](#codepen-collection)
 - [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
+- [CSS Sectrets](#css-secrets)
 - [Articles](#articles)
 
 ### UI Frameworks
@@ -502,6 +503,19 @@ Here I collect those repositories that are educational and cover more than one a
 - [Simple Icons](http://simpleicons.org/) - SVG icons for popular brands
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [CSS Next](http://cssnext.io/) - Use tomorrow's CSS syntax, today
+
+### CSS Secrets
+- [The outline-offset property](http://codepen.io/SitePoint/pen/VLXyZw/)
+- [Using bolder/lighter keywords with font-weight](http://codepen.io/SitePoint/pen/domZLx/)
+- [Using table-layout property](http://codepen.io/SitePoint/pen/vORpYN/)
+- [Pseudo-elements on a Horizontal Rule](http://codepen.io/SitePoint/pen/ZGxmpK/)
+- [Selecting range of elements with CSS](http://codepen.io/SitePoint/pen/wamQGv/)
+- [An animation called "reverse" won't work in shorthand](http://codepen.io/SitePoint/pen/OVvayK/)
+- [Using Fractional Iteration Count with "Linear" Timing Function](http://codepen.io/SitePoint/pen/VLXQmM/)
+- [Invalid Characters as HTML Class Delimiters](http://codepen.io/SitePoint/pen/NqYyNe/)
+- [Testing ::first-letter](http://codepen.io/SitePoint/pen/KpoZjE/)
+- [Using vertical-align on table cells](http://codepen.io/SitePoint/pen/KpoZdo/)
+- [Using the vertical-align property on inline elements](http://codepen.io/SitePoint/pen/zGWpxy/)
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
