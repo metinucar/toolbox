@@ -503,6 +503,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Simple Icons](http://simpleicons.org/) - SVG icons for popular brands
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [CSS Next](http://cssnext.io/) - Use tomorrow's CSS syntax, today
+- [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 
 ### CSS Secrets
 - [The outline-offset property](http://codepen.io/SitePoint/pen/VLXyZw/)
