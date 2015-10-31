@@ -44,6 +44,7 @@ Title | Description
 [Design sprint](https://github.com/thoughtbot/design-sprint) *(external)* | Product Design Sprint Material by thoughtbot
 [Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi) *(external)* | Sci-Fi worth consuming
 [Tools for web](https://github.com/lvwzhen/tools) *(external)* | Various online tools for frontend development
+[Javascript Path](https://github.com/javascript-society/javascript-path) | List of books to master JavaScript Development
 [Guides](https://github.com/NARKOZ/guides) *(external)* | Design and development guides
 
 ## Other awesome lists

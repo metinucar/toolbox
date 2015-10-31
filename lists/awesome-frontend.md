@@ -159,6 +159,7 @@
 - [Paragraph settings](http://universaltypography.com/demo/)
 - [Font library](http://katydecorah.com/font-library/#) - An open source project to tag and organize Google Fonts
 - [Typeset](https://github.com/davidmerfield/typeset) - An html pre-proces­sor for web ty­pog­ra­phy
+- [Font CDN](http://fontcdn.org/) - A search tool for Google web fonts
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
