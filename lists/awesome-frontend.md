@@ -5,8 +5,8 @@
 - [Boilerplates](#boilerplates)
 - [Charts](#charts)
 - [Maps](#maps)
-- [Forms](#forms)
 - [Text](#text)
+- [Forms](#forms)
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
@@ -255,6 +255,7 @@
 - [Menu Aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's
 - [Paradeiser](https://github.com/lucidlemon/paradeiser) - Small and sleek mobile navigation
 - [Burger](https://github.com/mblode/burger) - The minimal hamburger menu with fullscreen navigation
+- [NavNav](http://navnav.co/) - A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
