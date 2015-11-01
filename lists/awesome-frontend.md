@@ -506,6 +506,7 @@ Here I collect those repositories that are educational and cover more than one a
 - [Expose](https://github.com/Jack000/Expose) - A simple static site generator for photoessays
 - [CSS Next](http://cssnext.io/) - Use tomorrow's CSS syntax, today
 - [Trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
+- [Myth](https://github.com/segmentio/myth) - A CSS preprocessor that acts like a polyfill for future versions of the spec
 
 ### CSS Secrets
 - [The outline-offset property](http://codepen.io/SitePoint/pen/VLXyZw/)
