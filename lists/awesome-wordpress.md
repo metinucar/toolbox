@@ -4,6 +4,7 @@
 - [Themes](#themes)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
+- [Tutorials](#default-setup)
 
 
 ## Extending WordPress
@@ -67,7 +68,7 @@
 - [Create a Simple CRM in WordPress](http://code.tutsplus.com/series/create-a-simple-crm-in-wordpress--cms-641) - In this series, we're going to be building a simple CRM system in WordPress to store and track prospective clients.
 
 
-## Detaulf setup
+## Default setup
 ```bash
 
   # Install Virtualbox and Vagrant
