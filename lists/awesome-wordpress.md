@@ -46,6 +46,7 @@
 - [Theme Test Drive](https://wordpress.org/plugins/theme-test-drive/) - Safely test drive any theme as an administrator, while visitors use the default one
 - [Team Post Type](https://github.com/devinsays/team-post-type) - Some boilerplate post type code
 - [Multisite language switcher](https://wordpress.org/plugins/multisite-language-switcher/) - A simple, powerful and easy to use plugin that will help you to manage multilingual content in a multisite WordPress installation
+- [Public Post Review](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of a post before it is published
 
 
 ## Themes
