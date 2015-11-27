@@ -67,6 +67,7 @@
 - [Getting Started With Redux Framework: Introducing It and Integrating It Into Your Theme](http://code.tutsplus.com/tutorials/getting-started-with-redux-framework-introducing-it-and-integrating-it-into-your-theme--cms-22240)
 - [Simple Wordpress Podcast Plugin](https://css-tricks.com/roll-simple-wordpress-podcast-plugin/)
 - [Create a Simple CRM in WordPress](http://code.tutsplus.com/series/create-a-simple-crm-in-wordpress--cms-641) - In this series, we're going to be building a simple CRM system in WordPress to store and track prospective clients.
+- [How to Develop a Membership Site with WordPress](http://code.tutsplus.com/series/how-to-develop-a-membership-site-with-wordpress--cms-884) - WordPress already ships with loads of good stuff to make a membership site. Unfortunately most of the process is handled on the back end, and ideally we want to keep users away from the admin area. So over this three-part series we will be moving this process to the front of the site, throwing in some customization, and styling it up along the way.
 
 
 ## Default setup
