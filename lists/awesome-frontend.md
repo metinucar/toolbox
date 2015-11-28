@@ -206,6 +206,7 @@
 - [Layzr](http://github.com/callmecavs/layzr.js) - A small, fast, modern, and dependency-free library for lazy loading images
 - [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
 - [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images
+- [Antimoderate](https://github.com/whackashoe/antimoderate) - The progressive image loading library for great good
 
 ### Scrolling
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
