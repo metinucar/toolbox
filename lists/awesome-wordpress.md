@@ -80,6 +80,7 @@
 - [Tools of the Smart WordPress Developer](http://code.tutsplus.com/series/tools-of-the-smart-wordpress-developer--cms-838) - In this series, we're going to have a look at several great tools and utilities that we can use with our WordPress websites.
 - [Mastering WP_Query](http://code.tutsplus.com/series/mastering-wp_query--cms-818) - In this series, we're taking a deep look at *WP_Query*, *WP_Comment_Query*, and *WP_User_Query* so that we may gain a greater understanding of one of the most powerful APIs that WordPress has to offer.
 - [How to Develop a Membership Site with WordPress](http://code.tutsplus.com/series/how-to-develop-a-membership-site-with-wordpress--cms-884) - WordPress already ships with loads of good stuff to make a membership site. Unfortunately most of the process is handled on the back end, and ideally we want to keep users away from the admin area. So over this three-part series we will be moving this process to the front of the site, throwing in some customization, and styling it up along the way.
+- [Getting started with wordpress plugin development: the ultimate guide](https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/)
 
 
 ## Others
