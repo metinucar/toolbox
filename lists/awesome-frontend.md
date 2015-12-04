@@ -347,6 +347,7 @@
 - [CSSGram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [Smart Crop](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [Notie](https://github.com/jaredreich/notie.js) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies
+- [Jump](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
