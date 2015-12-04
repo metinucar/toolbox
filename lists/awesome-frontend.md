@@ -248,6 +248,7 @@
 - [Remodal](https://github.com/VodkaBears/Remodal) - Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking
 - [Vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
 - [Chocolat](https://github.com/nicolas-t/Chocolat) - Responsive jQuery Lightbox Plugin
+- [Light Gallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
@@ -388,6 +389,7 @@
 - [Colorrrs](http://hex.colorrrs.com/) - A simple tool for converting HEX values to RGB and vice versa
 - [Vibrant](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
 - [Brand colors](http://brandcolors.net/) - Official color codes for the world's biggest brands
+- [Crayon](https://github.com/riccardoscalco/crayon) - Crayon.css is a list of css variables linking color names to hex values
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events

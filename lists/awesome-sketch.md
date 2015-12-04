@@ -41,10 +41,12 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
   - (Resources) [SketchLand](http://sketch.land)
   - (Resources) [SketchResources](http://sketchresources.com/)
   - [SketchTips](http://www.sketchtips.info/), a blog about Sketch
-  - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
+  - [Sketch Tricks on Medium](https://medium.com/sketch-tricks)
+  - [Sketch Repo](http://sketchrepo.com/) - Mockups, icons, ui kit, etc.
 
 - Plugins
-  > A plugin manager like [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
+  > [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
+  > [Sketch Plugins](https://designcode.io/sketch-plugins) has almost all essential sketch plugins for designers and developers
 
   - Absolutely essential ones
     - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
@@ -64,6 +66,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
     - [Sort me](https://github.com/romashamin/sort-me-sketch) - Sort artboards and layers by name
+    - [Sketch Iconfont](https://github.com/keremciu/sketch-iconfont) - Its a small plugin to use icon fonts in Sketch for developers and designers
   - Where do you get more
     - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins-for-sketch.html)
     - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)

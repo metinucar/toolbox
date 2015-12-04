@@ -88,3 +88,7 @@ A collection of links that might be helpful to you during creative process.
 - [Mobile Patterns](http://www.mobile-patterns.com/) - A library of iOS and Android screenshots for designers and developers to reference
 - [404](http://404sites.tumblr.com/)
 
+
+## Other
+- [100 Days UI Challenge](http://100daysui.com/) - A collection of UI elements
+- [UI Movement](http://uimovement.com/)
