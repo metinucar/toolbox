@@ -30,6 +30,7 @@ Title | Description
 [Jeet](https://github.com/mojotech/jeet) | The most advanced, yet intuitive, grid system available for Sass or Stylus
 [Layout Grid](https://github.com/clippings/layout-grid) | Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile
 [Financial Times o-grid](https://github.com/Financial-Times/o-grid) | Responsive grid system
+[CSS Wizardy Grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system
 
 ### Mixin libraries, toolkits, and utilities
 Title | Description
