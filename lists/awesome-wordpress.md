@@ -17,6 +17,7 @@
 - [ACF Field Type Template](https://github.com/elliotcondon/acf-field-type-template)
 - [Github Plugin Updater](https://github.com/radishconcepts/WordPress-GitHub-Plugin-Updater) - This class is meant to be used with your Github hosted WordPress plugins. See the how to guide [here](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-wordpress-github-plugin-updater--cms-23924).
 - [Kirki](https://github.com/aristath/kirki) - Extending the customizer
+- [Redux Framework](https://wordpress.org/plugins/redux-framework/) - Extensible and fully responsive options framework for WordPress themes and plugins
 - [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress option framework
 
 
@@ -46,7 +47,6 @@
 - [Disable Comments](https://wordpress.org/plugins/disable-comments/) - Allow to disable comments easily
 - [Tablepress](https://wordpress.org/plugins/tablepress/) - Easily create and embed tables on posts
 - [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - Easily create two-factor authentication using the Google Authenticator app for Android/iPhone/Blackberry
-- [Redux Framework](https://wordpress.org/plugins/redux-framework/) - Extensible and fully responsive options framework for WordPress themes and plugins
 - [Theme Test Drive](https://wordpress.org/plugins/theme-test-drive/) - Safely test drive any theme as an administrator, while visitors use the default one
 - [Team Post Type](https://github.com/devinsays/team-post-type) - Some boilerplate post type code
 - [Multisite language switcher](https://wordpress.org/plugins/multisite-language-switcher/) - A simple, powerful and easy to use plugin that will help you to manage multilingual content in a multisite WordPress installation
