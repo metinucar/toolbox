@@ -10,6 +10,7 @@ A curated collection useful awesome lists
 - [Frontend guidelines](lists/frontend-guidelines.md) - Some HTML, CSS and JS best practices
 - [Frontend dev bookmarks-bookmarks](lists/frontend-dev-bookmark.md) - A huge list of frontend development resources collected over time
 - [Awesome sketch](lists/awesome-sketch.md) - A curated list of awesome Sketch videos, articles, guides, whatever for designers, front-end developers or whoever who really wants to learn Sketch
+- [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [Awesome creative commons media](lists/awesome-creative-commons-media.md) - A curated list of resources that provide media licensed under Creative Commons licenses
 - [Awesome inspiration](lists/awesome-inspiration.md) - A collection of links that might be helpful to you during creative process
 - [Awesome images](lists/awesome-images.md) - A collection of amazingly awesome free (stock) photo resources
