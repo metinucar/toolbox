@@ -209,6 +209,7 @@
 - [Antimoderate](https://github.com/whackashoe/antimoderate) - The progressive image loading library for great good
 
 ### Scrolling
+- [Scroll reveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers
 - [scrollme](http://scrollme.nckprsn.com/) - A jQuery plugin for adding simple scrolling effects to web pages
 - [WOW](http://mynameismatthieu.com/WOW/) - Reveal CSS animation as you scroll down a page
 - [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) - Library for scroll interactions
