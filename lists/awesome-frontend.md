@@ -349,6 +349,7 @@
 - [Smart Crop](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [Notie](https://github.com/jaredreich/notie.js) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies
 - [Jump](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library
+- [Mo.js](https://github.com/legomushroom/mojs) - Motion graphics toolbelt for the web
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
