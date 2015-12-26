@@ -3,6 +3,7 @@
 
 - [unsplash.com](http://unsplash.com/) - free of licences
 - [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
+- [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
 - [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 - [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 - [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
@@ -18,7 +19,6 @@
 - [morguefile.com](http://www.morguefile.com/) - no attribution required
 - [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 - [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
-- [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
 - [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 - [picography.co](http://picography.co/) - free of licences
 - [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
