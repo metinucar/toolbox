@@ -86,6 +86,7 @@
 - [vis.js](http://visjs.org/) - A dynamic, browser based visualization library.
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
+- [Knob](https://github.com/aterrien/jQuery-Knob) - Nice, downward compatible, touchable, jQuery dial
 
 ### Forms
 - [Garlic](https://github.com/guillaumepotier/garlic.js/) - Automatically persist your forms' text and select field values locally, until the form is submitted
