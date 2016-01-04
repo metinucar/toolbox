@@ -31,6 +31,10 @@ A curated collection useful awesome lists
 - [You don't need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript
 - [Javascript Path](https://github.com/javascript-society/javascript-path) | List of books to master JavaScript Development
 
+# Productivity tools
+- [Console](lists/console.md) - A collection of console tools
+- [Guides](lists/guides.md) - A collection of solutions, fixes, instructions around web for various problems
+
 ## Programming
 - [Learn to program](lists/learn-to-program.md) - Education resources to learn to program
 - [Awesome php](lists/awesome-php.md) - A curated list of amazingly awesome PHP libraries, resources and shiny things
@@ -44,7 +48,6 @@ A curated collection useful awesome lists
 - [Awesome seo](lists/awesome-seo.md) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics
 - [Awesome shell](lists/awesome-shell.md) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos
 - [Awesome software](lists/awesome-software.md) - A collection of software I use
-- [Guides](lists/guides.md) - A collection of solutions, fixes, instructions around web for various problems
 - [Awesome sublime](lists/awesome-sublime.md) - Sublime Text essential plugins and resources
 - [Awesome sysadmin](lists/awesome-sysadmin.md) - A curated list of amazingly awesome open source sysadmin resources
 - [Frontend job interview questions-interview-questions](lists/frontend-job-interview-questions.md) - This file contains a number of front-end interview questions
