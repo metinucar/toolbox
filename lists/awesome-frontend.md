@@ -58,6 +58,7 @@
 - [uikit](http://getuikit.com/index.html) - A lightweight and modular front-end framework
 - [Formstone](https://github.com/Formstone/Formstone) - Library of modular front end components
 - [Angular Material](https://github.com/angular/material) - Material design for Angular
+- [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework
 
 ### Boilerplates
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit)
