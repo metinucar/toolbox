@@ -9,7 +9,6 @@
 
 ## Extending WordPress
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
-- [Plugin Boilerplate II](https://github.com/devinvinson/WordPress-Plugin-Boilerplate/) - A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [Widget Boilerplate](https://github.com/tommcfarlin/WordPress-Widget-Boilerplate) - Clear and consistent guide for building your widgets.
 - [WordPress Functionality Plugins Boilerplate](https://github.com/chriscoyier/css-tricks-functionality-plugin)
 - [Custom Post Type Class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily
