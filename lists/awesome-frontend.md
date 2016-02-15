@@ -404,6 +404,7 @@
 - [Brand colors](http://brandcolors.net/) - Official color codes for the world's biggest brands
 - [Crayon](https://github.com/riccardoscalco/crayon) - Crayon.css is a list of css variables linking color names to hex values
 - [Color Hunt](http://www.colorhunt.co/) - Curated collection of beautiful colors, updated daily
+- [CSS Filters](http://www.cssfilters.co/) - Custom and Instagram like photo filter playgorund for CSS
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
