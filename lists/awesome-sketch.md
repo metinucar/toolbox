@@ -64,6 +64,7 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) - A plugin that integrates constraints in Sketch to lay out layers
   - Nice-to-have
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
+    - [Git Sketch](https://github.com/mathieudutour/git-sketch-plugin) - A Git client generating pretty diffs built right into Sketch
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
     - [Sort me](https://github.com/romashamin/sort-me-sketch) - Sort artboards and layers by name
     - [Sketch Iconfont](https://github.com/keremciu/sketch-iconfont) - Its a small plugin to use icon fonts in Sketch for developers and designers

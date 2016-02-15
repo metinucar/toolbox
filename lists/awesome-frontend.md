@@ -4,14 +4,17 @@
 - [UI Frameworks](#ui-frameworks)
 - [Boilerplates](#boilerplates)
 - [Charts](#charts)
-- [Maps](#maps)
-- [Text](#text)
 - [Forms](#forms)
+- [Validation](#validation)
+- [Numbers & Currencies](#numbers-currencies)
+- [Maps](#maps)
+- [Typography](#typography)
 - [Video](#video)
 - [Audio](#audio)
 - [Tables](#tables)
-- [Module loaders](#module-loaders)
-- [Lazy Loading](#lazy-loading)
+- [Statistics](#statistics)
+- [Module Loaders](#module-loaders)
+- [Lazy-Loading](#lazy-loading)
 - [Scrolling](#scrolling)
 - [Animations and Transitions](#animations-and-transitions)
 - [Sliders, Carousels and Lightboxes](#sliders-carousels-and-lightboxes)
@@ -19,7 +22,7 @@
 - [UI Elements](#ui-elements)
 - [Templating](#templating)
 - [HTTP requests](#http-requests)
-- [Date and Time](#date-and-time)
+- [Date and time](#date-and-time)
 - [Events](#events)
 - [General](#general)
 - [Icons](#icons)
@@ -36,7 +39,7 @@
 - [Codepen collection](#codepen-collection)
 - [Email newsletter](#email-newsletter)
 - [Repositories](#repositories)
-- [CSS Sectrets](#css-secrets)
+- [CSS Secrets](#css-secrets)
 - [Articles](#articles)
 
 ### UI Frameworks
@@ -45,7 +48,6 @@
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [BASSCSS](http://www.basscss.com/) - Low-level CSS toolkit
 - [bootflat](http://bootflat.github.io/index.html) - Bootstrap with a flat design theme
-- [Bootswatch](https://github.com/thomaspark/bootswatch) - A collection of themes for Bootstrap
 - [cardinal](http://cardinalcss.com/) - Cardinal is a small mobile first CSS framework
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [famo.us](http://famo.us/) - Framework that helps you to create UIs
@@ -59,6 +61,7 @@
 - [Formstone](https://github.com/Formstone/Formstone) - Library of modular front end components
 - [Angular Material](https://github.com/angular/material) - Material design for Angular
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework
+- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ### Boilerplates
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit)
@@ -140,7 +143,7 @@
 - [Maps icon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG
 - [Map Glyphs](http://mapglyphs.com/) - The Ultimate CSS Map Font
 
-### Text
+### Typography
 - [Redacted Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 - [flowtype](http://simplefocus.com/flowtype/) - Responsive typography
 - [Type Scale](http://type-scale.com/) - A visual typography calculator
@@ -163,6 +166,7 @@
 - [Font library](http://katydecorah.com/font-library/#) - An open source project to tag and organize Google Fonts
 - [Typeset](https://github.com/davidmerfield/typeset) - An html pre-proces­sor for web ty­pog­ra­phy
 - [Font CDN](http://fontcdn.org/) - A search tool for Google web fonts
+- [Ffffalback](http://ffffallback.com/) - A simple tool for bulletproof web typography
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
@@ -241,6 +245,7 @@
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
 - [Flickity](http://flickity.metafizzy.co/) - Touch, responsive, flickable galleries
+- [Viewer](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer
 - [Owl Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) - Magnific Popup is a responsive lightbox & dialog script
 - [Photo Swipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
@@ -293,6 +298,7 @@
 - [Toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp
 - [Material Refresh](http://lightningtgc.github.io/material-refresh/) - Google Material Design swipe(pull) to refresh by using JavaScript and CSS3
 - [CSS Spinners](http://www.css-spinners.com/)
+- [Loading Buttons](https://github.com/lmgonzalves/loading-buttons) - Loading buttons
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -354,6 +360,7 @@
 - [Notie](https://github.com/jaredreich/notie.js) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies
 - [Jump](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library
 - [Mo.js](https://github.com/legomushroom/mojs) - Motion graphics toolbelt for the web
+- [Feature](https://github.com/viljamis/feature.js/) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -379,6 +386,7 @@
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
 - [coolors](http://coolors.co/) - Super fast color scheme generator
+- [Flag colors](http://flag-colors.com/) - A 600+ color collection available in sass, less, stylus and css
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
 - [color](http://color.hailpixel.com/) - Intuitive color picker
 - [colourco](http://colourco.de/) - Color scheme tool

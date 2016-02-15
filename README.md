@@ -11,6 +11,7 @@ A curated collection useful awesome lists
 - [Frontend dev bookmarks-bookmarks](lists/frontend-dev-bookmark.md) - A huge list of frontend development resources collected over time
 - [Awesome sketch](lists/awesome-sketch.md) - A curated list of awesome Sketch videos, articles, guides, whatever for designers, front-end developers or whoever who really wants to learn Sketch
 - [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes) - This is a quick refresher of CSS concepts compiled from various articles online
 - [Awesome creative commons media](lists/awesome-creative-commons-media.md) - A curated list of resources that provide media licensed under Creative Commons licenses
 - [Awesome inspiration](lists/awesome-inspiration.md) - A collection of links that might be helpful to you during creative process
 - [Awesome images](lists/awesome-images.md) - A collection of amazingly awesome free (stock) photo resources
@@ -54,6 +55,8 @@ A curated collection useful awesome lists
 - [Awesome dotfiles](lists/awesome-dotfiles.md) - A curated list of dotfiles resources
 
 ## External
+- [Today I Learned](https://github.com/jbranchaud/til)
+- [Gitlogs](http://www.gitlogs.com/resource-guides) - The definitive list of open source resources on Github
 - [Tools of trade](https://github.com/cjbarber/ToolsOfTheTrade) - HN Tools of The Trade, 2014 Edition
 - [Remote job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote working resources
 - [Awesome OSX](https://github.com/iCHAIT/awesome-osx) - A curated list of awesome applications, softwares, tools and shiny things for OS X
