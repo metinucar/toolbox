@@ -267,6 +267,7 @@
 - [Paradeiser](https://github.com/lucidlemon/paradeiser) - Small and sleek mobile navigation
 - [Burger](https://github.com/mblode/burger) - The minimal hamburger menu with fullscreen navigation
 - [NavNav](http://navnav.co/) - A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web
+- [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated hamburgers
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
