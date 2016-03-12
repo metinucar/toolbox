@@ -52,6 +52,8 @@
 - [Theme Check](https://wordpress.org/plugins/theme-check/) - A simple and easy way to test your theme for all the latest WordPress standards and practices
 - [Public Post Review](https://wordpress.org/plugins/public-post-preview/) - Enables you to give a link to anonymous users for public preview of a post before it is published
 - [WP Rest API](https://wordpress.org/plugins/rest-api/) - Access your site's data through an easy-to-use HTTP REST API.
+- [Caldera Forms](https://wordpress.org/plugins/caldera-forms/) - Drag and drop responsive form builder
+- "Premium" [SearchWP](https://searchwp.com/) - Instantly Improve WordPress Search
 
 
 ## Themes

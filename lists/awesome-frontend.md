@@ -241,6 +241,7 @@
 - [Vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 - [Dynamics](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations
 - [Motion UI](https://github.com/zurb/motion-ui) - Sass library for creating transitions and animations
+- [Smooth State](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery
 
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
@@ -268,6 +269,7 @@
 - [Burger](https://github.com/mblode/burger) - The minimal hamburger menu with fullscreen navigation
 - [NavNav](http://navnav.co/) - A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated hamburgers
+- [okayNav](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation, [Codepen example](http://codepen.io/VPenkov/pen/wMZBOg).
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -455,6 +457,8 @@
 - [Accessibility cheatsheet](https://www.evernote.com/l/ACFnh7xvc4ZOvrGjjAOhCfc_8bNeJPyZCGk)
 - [Web Accessibility Checklist](http://a11yproject.com/checklist.html) - A beginner's guide to web accessibility
 - [HTML5 Accessibility](http://www.html5accessibility.com/)
+- [a11y Toggle](https://github.com/edenspiekermann/a11y-toggle) - A tiny script for accessible content toggles
+- [a11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - A very lightweight and flexible accessible modal dialog
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
