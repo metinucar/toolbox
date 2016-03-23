@@ -33,6 +33,7 @@ Title | Description
 [CSS Wizardy Grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system
 [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 [Grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox.
+[CSS Element Queries](https://github.com/marcj/css-element-queries) - CSS-Element-Queries Polyfill. proof-of-concept for high-speed element dimension/media queries in valid css. Here is an alternative: [EQCSS](https://github.com/eqcss/eqcss)
 
 ### Mixin libraries, toolkits, and utilities
 Title | Description

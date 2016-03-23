@@ -89,6 +89,11 @@
 ## Others
 - [WordPress Template Hierarchy](http://wphierarchy.com/)
 
+## Builders
+- [Beaver Builder](https://www.wpbeaverbuilder.com/)
+- [Divi](http://www.elegantthemes.com/plugins/divi-builder/)
+- [Themify Builder](https://themify.me/builder)
+
 ## Default setup
 ```bash
 

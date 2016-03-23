@@ -507,6 +507,7 @@
 - [Pure CSS off-screen menu](http://codepen.io/SitePoint/pen/uIemr)
 - [Mask/Unmask password](http://codepen.io/CreativeJuiz/pen/cvyEi)
 - [SVG Silkscreen Effect](http://codepen.io/dudleystorey/pen/HnxJw)
+- [A safe way to toggle passwords](http://codepen.io/shellbryson/post/toggle-passwords)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
