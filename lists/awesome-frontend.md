@@ -2,6 +2,7 @@
 > Initially forked from [Awesome frontend](https://github.com/moklick/frontend-stuff)
 
 - [UI Frameworks](#ui-frameworks)
+- [Templates](#templates)
 - [Boilerplates](#boilerplates)
 - [Charts](#charts)
 - [Forms](#forms)
@@ -62,6 +63,9 @@
 - [Angular Material](https://github.com/angular/material) - Material design for Angular
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+
+### Templates
+- [gentelella](https://github.com/puikinsh/gentelella) - Free Bootstrap 3 admin template
 
 ### Boilerplates
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit)
