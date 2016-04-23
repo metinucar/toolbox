@@ -68,6 +68,7 @@ A curated collection useful awesome lists
 - [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things
 - [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science!
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews) - A curated awesome list of lists of interview questions
+- [Awesome Head](https://github.com/joshbuchea/HEAD) - A list of everything that goes in the <head> of your document
 
 ### Other awesome lists
 - [Awesome awesomeoness](https://github.com/bayandin/awesome-awesomeness)

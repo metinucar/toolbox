@@ -171,6 +171,7 @@
 - [Typeset](https://github.com/davidmerfield/typeset) - An html pre-proces­sor for web ty­pog­ra­phy
 - [Font CDN](http://fontcdn.org/) - A search tool for Google web fonts
 - [Ffffalback](http://ffffallback.com/) - A simple tool for bulletproof web typography
+- [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Get eot, ttf, svg, woff and woff2 files + CSS snippets
 
 ### Video
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
