@@ -13,6 +13,7 @@
 - [WordPress Functionality Plugins Boilerplate](https://github.com/chriscoyier/css-tricks-functionality-plugin)
 - [Custom Post Type Class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily
 - [Custom Post Type Boilerplate](https://github.com/devinsays/team-post-type)
+- Ready to use CPTs. [Documentation CPT](https://github.com/devinsays/documentation-post-type), [Team CPT](https://github.com/devinsays/team-post-type) and [Portfolio CPT](https://github.com/devinsays/portfolio-post-type)
 - [ACF Field Type Template](https://github.com/elliotcondon/acf-field-type-template)
 - [Github Plugin Updater](https://github.com/radishconcepts/WordPress-GitHub-Plugin-Updater) - This class is meant to be used with your Github hosted WordPress plugins. See the how to guide [here](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-wordpress-github-plugin-updater--cms-23924).
 - [Kirki](https://github.com/aristath/kirki) - Extending the customizer
