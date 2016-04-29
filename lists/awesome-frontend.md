@@ -264,6 +264,7 @@
 - [Vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
 - [Chocolat](https://github.com/nicolas-t/Chocolat) - Responsive jQuery Lightbox Plugin
 - [Light Gallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery
+- [Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
@@ -307,6 +308,7 @@
 - [Material Refresh](http://lightningtgc.github.io/material-refresh/) - Google Material Design swipe(pull) to refresh by using JavaScript and CSS3
 - [CSS Spinners](http://www.css-spinners.com/)
 - [Loading Buttons](https://github.com/lmgonzalves/loading-buttons) - Loading buttons
+- [Popper](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -414,6 +416,8 @@
 - [Color Hunt](http://www.colorhunt.co/) - Curated collection of beautiful colors, updated daily
 - [CSS Filters](http://www.cssfilters.co/) - Custom and Instagram like photo filter playgorund for CSS
 - [Color Safe](http://colorsafe.co/) - Accessible web color combinations
+- [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces from the world's greatest artists
+- [Colorion](http://www.colorion.co/) - Curated color palettes
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
@@ -534,6 +538,7 @@
 - [Skewed one page scroll](http://codepen.io/suez/pen/gadLre)
 - [One page navigation CSS menu](http://codepen.io/hrtzt/pen/NPZKRN)
 - [Gooey navigation effect](http://codepen.io/lbebber/pen/RNgBPP)
+- [Multi-layered Parallax Illustration](http://codepen.io/zabielski/pen/MyoBaY)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.

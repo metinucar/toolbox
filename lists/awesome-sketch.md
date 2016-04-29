@@ -62,6 +62,8 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator)
     - [Sketch flex layout](https://github.com/hrescak/Sketch-Flex-Layout) - Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
     - [Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) - A plugin that integrates constraints in Sketch to lay out layers
+    - [Sketch Runner](http://sketchrunner.com/) - Speed up your Sketch workflow
+
   - Nice-to-have
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
     - [Git Sketch](https://github.com/mathieudutour/git-sketch-plugin) - A Git client generating pretty diffs built right into Sketch
