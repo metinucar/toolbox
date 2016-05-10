@@ -19,6 +19,7 @@
 - [Kirki](https://github.com/aristath/kirki) - Extending the customizer
 - [Redux Framework](https://wordpress.org/plugins/redux-framework/) - Extensible and fully responsive options framework for WordPress themes and plugins
 - [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress option framework
+- [Timber](https://github.com/timber/timber) - Plugin to write WordPress themes w Object-Oriented Code and the Twig Template Engine
 
 
 ## Administrator plugins
@@ -88,6 +89,7 @@
 
 
 ## Others
+- [WP Gear](http://wpgear.org/) - WPGear.org is a compendium of useful developer tools for working with WordPress.
 - [WordPress Template Hierarchy](http://wphierarchy.com/)
 
 ## Builders

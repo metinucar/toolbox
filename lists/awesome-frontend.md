@@ -539,6 +539,7 @@
 - [One page navigation CSS menu](http://codepen.io/hrtzt/pen/NPZKRN)
 - [Gooey navigation effect](http://codepen.io/lbebber/pen/RNgBPP)
 - [Multi-layered Parallax Illustration](http://codepen.io/zabielski/pen/MyoBaY)
+- [Cross-browser fluid type](http://codepen.io/indrekpaas/pen/VarLaJ)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.

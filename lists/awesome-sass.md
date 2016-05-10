@@ -71,7 +71,7 @@ Some of the frameworks listed below do not have SASS support *yet*.
 
 Title | Description
 :--|:--
-[Bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
+[Bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. Consider using it with [Material theme](https://github.com/FezVrasta/bootstrap-material-design).
 [Foundation](https://github.com/zurb/foundation) | An advanced responsive front-end framework
 &#9734;[Semantic UI](https://github.com/Semantic-Org/Semantic-UI) | A UI component framework based around useful principles from natural language
 &#9734;[UI Kit](https://github.com/uikit/uikit) | A lightweight and modular front-end framework for developing fast and powerful web interfaces
