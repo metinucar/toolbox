@@ -174,11 +174,11 @@
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Get eot, ttf, svg, woff and woff2 files + CSS snippets
 
 ### Video
+- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
-- [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [Embed progressively](http://embedresponsively.com/)
 
 ### Audio
