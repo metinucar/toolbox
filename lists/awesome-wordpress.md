@@ -56,6 +56,7 @@
 - [WP Rest API](https://wordpress.org/plugins/rest-api/) - Access your site's data through an easy-to-use HTTP REST API.
 - [Caldera Forms](https://wordpress.org/plugins/caldera-forms/) - Drag and drop responsive form builder
 - "Premium" [SearchWP](https://searchwp.com/) - Instantly Improve WordPress Search
+- [Envira Gallery](https://wordpress.org/plugins/envira-gallery-lite/) - The best responsive WordPress gallery plugin. It's easy and powerful. Create beautiful galleries for your site in minutes, not hours!
 
 
 ## Themes
