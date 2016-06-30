@@ -1,11 +1,28 @@
 # Awesome Wordpress
+- [Essentials](#essentials)
 - [Extending WordPress](#extending-wordpress)
 - [Administrator plugins](#administrator-plugins)
 - [Themes](#themes)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
-- [Tutorials](#default-setup)
+- [Personal Vagrant Setup](#personal-vagrant-setup)
 
+## Essentials
+- [Jetpack](https://wordpress.org/plugins/jetpack/) - Adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools.
+- [Advanced Custom Fields](http://www.advancedcustomfields.com/) - Powerful fields for WordPress developers
+- [Block Bad Queries](https://wordpress.org/plugins/block-bad-queries/) - Helping to protect WordPress against malicious URL requests
+- [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - Checking your posts, comments and other content for broken links and missing images, and notify you if any are found
+- [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO
+- [BackWPup](https://wordpress.org/plugins/backwpup/) - Schedule complete automatic backups of your WordPress installation. Decide which content will be stored (Dropbox, S3…).
+- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery
+- [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
+- [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue!
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Create and manage multiple contact forms
+- [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
+- [Wordfence](https://wordpress.org/plugins/wordfence/) - Wordfence Security is a free enterprise class security and performance plugin that makes your site up to 50 times faster and more secure
+- [Polylang](https://wordpress.org/plugins/polylang/) - Making WordPress multilingual
+- [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
+- [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
 
 ## Extending WordPress
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
@@ -23,24 +40,12 @@
 
 
 ## Administrator plugins
-- [Advanced Custom Fields](http://www.advancedcustomfields.com/) - Powerful fields for WordPress developers
-- [Block Bad Queries](https://wordpress.org/plugins/block-bad-queries/) - Helping to protect WordPress against malicious URL requests
-- [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - Bringing automatic default responsive images to WordPress
-- [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - Checking your posts, comments and other content for broken links and missing images, and notify you if any are found
-- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Create and manage multiple contact forms
 - [Really Simple Captcha](https://wordpress.org/plugins/really-simple-captcha/) - Really Simple CAPTCHA is a CAPTCHA module intended to be called from other plugins
-- [Wordpress SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO
 - [WP Optimize](https://wordpress.org/plugins/wp-optimize/) - Extensively cleans up your WordPress database and optimize it
 - [WP Maintenance Mode](https://wordpress.org/plugins/wp-maintenance-mode/) - Adds a splash page to your site that lets visitors know your site is down for maintenance
-- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - Reduce file sizes for images in WordPress including NextGEN, GRAND FlAGallery
-- [Wordfence](https://wordpress.org/plugins/wordfence/) - Wordfence Security is a free enterprise class security and performance plugin that makes your site up to 50 times faster and more secure
 - [Bulletproof Security](https://wordpress.org/plugins/bulletproof-security/)
-- [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
-- [Relevanssi](https://wordpress.org/plugins/relevanssi/) - A better search
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - View debugging and performance information on database queries, hooks, conditionals, HTTP requests, redirects and more
 - [P3 Profiler](https://wordpress.org/plugins/p3-profiler/) - Creating a performance report for your site
-- [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
-- [Jetpack](https://wordpress.org/plugins/jetpack/) - Adds powerful features previously only available to WordPress.com users including customization, traffic, mobile, content, and performance tools.
 - [iThemes Security](https://tr.wordpress.org/plugins/better-wp-security/) - The easiest, most effective way to secure WordPress in seconds
 - [Theme Authenticity Checker](https://wordpress.org/plugins/tac/) - Scan all of your theme files for potentially malicious or unwanted code
 - [Codepress Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - Customize columns on post listing
@@ -98,7 +103,7 @@
 - [Divi](http://www.elegantthemes.com/plugins/divi-builder/)
 - [Themify Builder](https://themify.me/builder)
 
-## Default setup
+## Personal Vagrant Setup
 ```bash
 
   # Install Virtualbox and Vagrant
