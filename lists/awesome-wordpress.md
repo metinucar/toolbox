@@ -2,6 +2,7 @@
 - [Essentials](#essentials)
 - [Extending WordPress](#extending-wordpress)
 - [Administrator plugins](#administrator-plugins)
+- [Developer plugins](#developer-plugins)
 - [Themes](#themes)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -62,6 +63,15 @@
 - [Caldera Forms](https://wordpress.org/plugins/caldera-forms/) - Drag and drop responsive form builder
 - "Premium" [SearchWP](https://searchwp.com/) - Instantly Improve WordPress Search
 - [Envira Gallery](https://wordpress.org/plugins/envira-gallery-lite/) - The best responsive WordPress gallery plugin. It's easy and powerful. Create beautiful galleries for your site in minutes, not hours!
+
+## Developer Plugins
+- [Developer](https://wordpress.org/plugins/developer/) - A plugin, which helps WordPress developers develop.
+- [Debug Bar](https://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
+- [Query Monitor](https://wordpress.org/plugins/query-monitor/) - View debugging and performance information on database queries, hooks, conditionals, HTTP requests, redirects and more.
+- [Theme Check](https://wordpress.org/plugins/theme-check/) - A simple and easy way to test your theme for all the latest WordPress standards and practices. A great theme development tool!
+- [User Switching](https://wordpress.org/plugins/user-switching/) - Instant switching between user accounts in WordPress.
+- [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Allows you to regenerate your thumbnails after changing the thumbnail sizes.
+- [Log Depreceated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - Logs the usage of deprecated files, functions, and function arguments, and identifies where the deprecated functionality is being used.
 
 
 ## Themes
