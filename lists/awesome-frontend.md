@@ -469,6 +469,7 @@
 - [HTML5 Accessibility](http://www.html5accessibility.com/)
 - [a11y Toggle](https://github.com/edenspiekermann/a11y-toggle) - A tiny script for accessible content toggles
 - [a11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - A very lightweight and flexible accessible modal dialog
+- [Stratability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -540,6 +541,8 @@
 - [Gooey navigation effect](http://codepen.io/lbebber/pen/RNgBPP)
 - [Multi-layered Parallax Illustration](http://codepen.io/zabielski/pen/MyoBaY)
 - [Cross-browser fluid type](http://codepen.io/indrekpaas/pen/VarLaJ)
+- [Cursor trails](http://codepen.io/chrisdoble/pen/WQLLVp?mc_cid=e1ff606a1a&mc_eid=679d523b99)
+- [Decorative text underline](http://codepen.io/jonneal/pen/PzGYEE?mc_cid=e1ff606a1a&mc_eid=679d523b99)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
