@@ -452,6 +452,7 @@
 - [rrssb](http://kurtnoble.com/labs/rrssb/) - Ridiculously Responsive Social Sharing Buttons
 - [share-button](http://sharebutton.co/) - Fast, beautiful, and painless social shares
 - [Social Likes](http://sapegin.github.io/social-likes/) - Single-style sharing buttons with counters for jQuery
+- [Share Buttons](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking
 
 ## Accessibility
 - [accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - The polyfill for a more accessible HTML5
@@ -543,6 +544,7 @@
 - [Cross-browser fluid type](http://codepen.io/indrekpaas/pen/VarLaJ)
 - [Cursor trails](http://codepen.io/chrisdoble/pen/WQLLVp?mc_cid=e1ff606a1a&mc_eid=679d523b99)
 - [Decorative text underline](http://codepen.io/jonneal/pen/PzGYEE?mc_cid=e1ff606a1a&mc_eid=679d523b99)
+- [Social Media Sharing: Automated Link Creator](http://codepen.io/adamcoti/pen/jVGWdG)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.

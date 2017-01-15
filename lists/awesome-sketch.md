@@ -45,8 +45,9 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
   - [Sketch Repo](http://sketchrepo.com/) - Mockups, icons, ui kit, etc.
 
 - Plugins
-  > [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
-  > [Sketch Plugins](https://designcode.io/sketch-plugins) has almost all essential sketch plugins for designers and developers
+  - [Sketch App Extensions](https://sketchapp.com/extensions/) is Sketch's official extensions page
+  - [Sketch Toolbox](http://sketchtoolbox.com/) is highly recommended.
+  - [Sketch Plugins](https://designcode.io/sketch-plugins) has almost all essential sketch plugins for designers and developers
 
   - Absolutely essential ones
     - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
@@ -56,13 +57,14 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
     - [Duplicator](https://github.com/turbobabr/duplicator)
+    - [Auto Layout](https://animaapp.github.io/Auto-Layout/)
     - [Bookmarker](https://github.com/turbobabr/Bookmarker) - Bookmarker is an ultimate solution for bookmarking layers
     - [Marvel Sketch](https://github.com/marvelapp/marvel-sketch) - Sketch plugin for marvelapp
     - [Page Switch](https://github.com/mauehara/sketch-page-switch)
     - [Sketch Data Populator](https://github.com/preciousforever/sketch-data-populator)
     - [Sketch flex layout](https://github.com/hrescak/Sketch-Flex-Layout) - Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
     - [Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints) - A plugin that integrates constraints in Sketch to lay out layers
-    - [Sketch Runner](http://sketchrunner.com/) - Speed up your Sketch workflow
+    - [Sketch Runner](http://sketchrunner.com/) - Speed up your Sketch workflow ([Tutorial](https://www.youtube.com/watch?v=obpFuPAlcTw))
 
   - Nice-to-have
     - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
@@ -70,6 +72,11 @@ A curated list of awesome Sketch videos, articles, guides, whatever for designer
     - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
     - [Sort me](https://github.com/romashamin/sort-me-sketch) - Sort artboards and layers by name
     - [Sketch Iconfont](https://github.com/keremciu/sketch-iconfont) - Its a small plugin to use icon fonts in Sketch for developers and designers
+    - [Compo](https://github.com/romashamin/compo-sketch) - Makes it easier to work with interface components in Sketch
+    - [States](https://github.com/edenvidal/States) - Create different artboard states and switch between them easily
+    - [Palettes](https://github.com/andrewfiorillo/sketch-palettes) - Sketch plugin that lets you save and load colors in the color picker
+    - [AnimateMate](https://github.com/Creatide/AnimateMate) - Create your animations directly in Sketch using AnimateMate
+
   - Where do you get more
     - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins-for-sketch.html)
     - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
