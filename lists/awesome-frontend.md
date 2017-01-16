@@ -63,6 +63,7 @@
 - [Angular Material](https://github.com/angular/material) - Material design for Angular
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [Spectre](https://github.com/picturepan2/spectre) - A lightweight, responsive and modern CSS framework
 
 ### Templates
 - [gentelella](https://github.com/puikinsh/gentelella) - Free Bootstrap 3 admin template
@@ -112,6 +113,7 @@
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 - [Strectchy](https://github.com/LeaVerou/stretchy) - Form element autosizing
+- [Cleave](http://nosir.github.io/cleave.js/) - Format your `<input/> content when you are typing
 
 ### Validation
 - [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
@@ -247,6 +249,7 @@
 - [Dynamics](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations
 - [Motion UI](https://github.com/zurb/motion-ui) - Sass library for creating transitions and animations
 - [Smooth State](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery
+- [Animate on scroll library](https://github.com/michalsnik/aos)
 
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
@@ -263,8 +266,10 @@
 - [Remodal](https://github.com/VodkaBears/Remodal) - Responsive, lightweight, fast, synchronized with CSS animations, fully customizable modal window plugin with declarative configuration and hash tracking
 - [Vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style
 - [Chocolat](https://github.com/nicolas-t/Chocolat) - Responsive jQuery Lightbox Plugin
-- [Light Gallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery
+- [Light Gallery - jQuery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery
+- [Light Gallery - VanillaJS](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans
+- [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
@@ -366,11 +371,14 @@
 - [Algebra](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations
 - [Clipboard](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard
 - [CSSGram](https://github.com/una/CSSgram) - CSS library for Instagram filters
+- [Color Filter](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS
 - [Smart Crop](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [Notie](https://github.com/jaredreich/notie.js) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies
 - [Jump](https://github.com/callmecavs/jump.js) - A small, modern, dependency-free smooth scrolling library
 - [Mo.js](https://github.com/legomushroom/mojs) - Motion graphics toolbelt for the web
 - [Feature](https://github.com/viljamis/feature.js/) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
+- [Embed](https://github.com/ritz078/embed.js) - A JavaScript plugin that embeds emojis, media, maps, tweets, gists, code, services and markdown
+- [Fuse](https://github.com/krisk/fuse) - Lightweight fuzzy-search, in JavaScript
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
@@ -392,6 +400,8 @@
 - [Marka](http://fian.my.id/marka/) - Beautiful transformable icons built for the web
 - [SVG Icons](http://svgicons.sparkk.fr/) - Ready to use SVG Icons for the web
 - [SVG Porn](http://svgporn.com/) - High quality SVG logos
+- [CSS Icon](https://github.com/wentin/cssicon) - Icon set made with pure css code, no dependencies, "grab and go" icons
+- [Bytesize Icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset
 
 ### Colors
 - [chromajs](http://old.driven-by-data.net/about/chromajs/) - Library for all kinds of color manipulations
@@ -418,6 +428,7 @@
 - [Color Safe](http://colorsafe.co/) - Accessible web color combinations
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces from the world's greatest artists
 - [Colorion](http://www.colorion.co/) - Curated color palettes
+- [Grade](https://github.com/benhowdle89/grade) - JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
