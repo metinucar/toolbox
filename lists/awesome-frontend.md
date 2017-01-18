@@ -250,6 +250,7 @@
 - [Motion UI](https://github.com/zurb/motion-ui) - Sass library for creating transitions and animations
 - [Smooth State](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery
 - [Animate on scroll library](https://github.com/michalsnik/aos)
+- [MoJS](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
 
 ### Sliders, Carousels and Lightboxes
 - [Slick](http://kenwheeler.github.io/slick/) - the last carousel you'll ever need
