@@ -4,7 +4,7 @@
 - [UI Frameworks](#ui-frameworks)
 - [Templates](#templates)
 - [Boilerplates](#boilerplates)
-- [Charts](#charts)
+- [Visualisation](#visualisation)
 - [Forms](#forms)
 - [Validation](#validation)
 - [Numbers & Currencies](#numbers-currencies)
@@ -64,9 +64,12 @@
 - [Milligram](https://github.com/milligram/milligram) - A minimalist CSS framework
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Spectre](https://github.com/picturepan2/spectre) - A lightweight, responsive and modern CSS framework
+- [Tachyons](https://github.com/tachyons-css/tachyons/) - Functional css for humans
+- [Concise](https://github.com/ConciseCSS/concise.css) - A CSS framework that's lightweight and easy-to-use
 
 ### Templates
 - [gentelella](https://github.com/puikinsh/gentelella) - Free Bootstrap 3 admin template
+- [Material Kit](https://github.com/creativetimofficial/material-kit) - Free Bootstrap Material Design UI Kit
 
 ### Boilerplates
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit)
@@ -74,7 +77,7 @@
 - [ExpandJS](http://expandjs.com/) - ExpandJS is a modular library with 80+ custom elements and 350+ utility functions to kickstart your Web Applications
 - [Boy](https://github.com/corysimmons/boy) - HTML5 Boilerplate with older browsers in mind.
 
-### Charts
+### Visualisation
 - [Awesome d3](https://github.com/wbkd/awesome-d3)
 - [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
@@ -96,6 +99,7 @@
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/) - HTML5 & CSS3 time sheets
 - [morrisjs](https://github.com/morrisjs/morris.js) - SVG charts based on jquery and Raphael
 - [Knob](https://github.com/aterrien/jQuery-Knob) - Nice, downward compatible, touchable, jQuery dial
+- [VIS](https://github.com/almende/vis) - Dynamic, browser-based visualization library
 
 ### Forms
 - [Garlic](https://github.com/guillaumepotier/garlic.js/) - Automatically persist your forms' text and select field values locally, until the form is submitted
@@ -221,6 +225,7 @@
 - [Lazy Loading Google Maps](http://osvaldas.info/lazy-loading-google-maps)
 - [Responsively Lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images
 - [Antimoderate](https://github.com/whackashoe/antimoderate) - The progressive image loading library for great good
+- [LoadJS](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers
 
 ### Scrolling
 - [Scroll reveal](https://github.com/jlmakes/scrollreveal.js) - Easy scroll animations for web and mobile browsers
@@ -271,6 +276,7 @@
 - [Light Gallery - VanillaJS](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans
 - [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense
+- [Siema](https://github.com/pawelgrzybek/siema) - Lightweight and simple carousel in pure JavaScript
 
 ### Navigation
 - [Slideout](https://github.com/mango/slideout) - A touch slideout navigation menu for your mobile web apps
@@ -282,6 +288,7 @@
 - [NavNav](http://navnav.co/) - A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated hamburgers
 - [okayNav](https://github.com/VPenkov/okayNav) - The world's okayest responsive navigation, [Codepen example](http://codepen.io/VPenkov/pen/wMZBOg).
+- [MenuSPY](https://github.com/lcdsantos/menuspy) - A JavaScript library to make navigation menus highlight the item based on currently in view section.
 
 ### UI Elements
 - [awesomplete](https://leaverou.github.io/awesomplete/) - Lightweight autocomplete
@@ -315,6 +322,7 @@
 - [CSS Spinners](http://www.css-spinners.com/)
 - [Loading Buttons](https://github.com/lmgonzalves/loading-buttons) - Loading buttons
 - [Popper](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
+- [Bttn](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -430,6 +438,8 @@
 - [Color Lisa](http://www.colorlisa.com/) - Color palette masterpieces from the world's greatest artists
 - [Colorion](http://www.colorion.co/) - Curated color palettes
 - [Grade](https://github.com/benhowdle89/grade) - JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images
+- [Open Color](https://yeun.github.io/open-color/) - Open-source color scheme
+- [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 
 ### Keyboard Events
 - [jwerty](http://keithamus.github.io/jwerty/) - Handling of keyboard events
