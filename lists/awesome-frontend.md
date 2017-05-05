@@ -388,6 +388,9 @@
 - [Feature](https://github.com/viljamis/feature.js/) - Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
 - [Embed](https://github.com/ritz078/embed.js) - A JavaScript plugin that embeds emojis, media, maps, tweets, gists, code, services and markdown
 - [Fuse](https://github.com/krisk/fuse) - Lightweight fuzzy-search, in JavaScript
+- [Tippy](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
+- [CSS Generator](https://cssgenerator.org/) - A CSS generator that helps you demonstrate and quickly generate CSS declarations for your website
+- [debugCSS](https://github.com/imbrianj/debugCSS) - CSS to highlight potentially malformed, invalid or questionable markup
 
 ### Icons
 - [fontastic](http://fontastic.me/) - Icon and svg fonts
