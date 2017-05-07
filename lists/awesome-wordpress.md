@@ -24,6 +24,7 @@
 - [Polylang](https://wordpress.org/plugins/polylang/) - Making WordPress multilingual
 - [Velvet Blues Update URLs](https://wordpress.org/plugins/velvet-blues-update-urls/) - Updates all urls and content links in your website.
 - [Adrotate](https://wordpress.org/plugins/adrotate/) - Easy ad management
+- [Flamingo](https://wordpress.org/plugins/flamingo/) - Save Contact Form 7 submissions in WordPress
 
 ## Extending WordPress
 - [Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate) - Clear and consistent guide for building your plugins.
