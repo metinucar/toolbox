@@ -42,6 +42,7 @@
 - [Repositories](#repositories)
 - [CSS Secrets](#css-secrets)
 - [Articles](#articles)
+- [Tools](#tools)
 
 ### UI Frameworks
 - [Material design](https://www.google.com/design/spec/material-design/introduction.html)
@@ -186,6 +187,7 @@
 - [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 - [Embed progressively](http://embedresponsively.com/)
+- [Bideo](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video
 
 ### Audio
 - [blip](http://jshanley.github.io/blip/) - Web Audio API wrapper
@@ -323,6 +325,7 @@
 - [Loading Buttons](https://github.com/lmgonzalves/loading-buttons) - Loading buttons
 - [Popper](https://github.com/FezVrasta/popper.js) - A kickass library to manage your poppers
 - [Bttn](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [Push](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for the JavaScript Notifications API
 
 ### Templating
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
@@ -374,6 +377,7 @@
 - [Pure CSS Apple Devices](http://purecssapple.com/)
 - [Rucksack](https://github.com/simplaio/rucksack) - A little bag of CSS superpowers, built on PostCSS
 - [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips
+- [Balloon](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [UpUp](https://github.com/TalAter/UpUp/) - UpUp is a tiny javascript library that makes sure your users can always access your site's content
 - [Offline.js](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
 - [Jets](https://github.com/NeXTs/Jets.js) - Native CSS search engine
@@ -496,6 +500,7 @@
 - [a11y Toggle](https://github.com/edenspiekermann/a11y-toggle) - A tiny script for accessible content toggles
 - [a11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - A very lightweight and flexible accessible modal dialog
 - [Stratability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top
+- [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/) - The current accessibility support status of HTML5 features across major browsers
 
 ### Flexbox
 - [A Complete Guide to Flexbox by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -618,3 +623,6 @@ Here I collect those repositories that are educational and cover more than one a
 
 ### Articles
 - [Checkbox trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/)
+
+### Tools
+- [Parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool

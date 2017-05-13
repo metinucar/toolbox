@@ -46,6 +46,7 @@ Title | Description
 [Buttons](https://github.com/alexwolfe/Buttons) | A CSS button library built using Sass and Compass
 [Hover](https://github.com/IanLunn/Hover) | A collection of CSS3 powered hover effects
 [Lemanz](https://github.com/grayghostvisuals/lemanz) | A starting point for Sass and Compass projects
+[Family](https://github.com/LukyVj/family.scss) | A set of Sass mixins which will help you to manage the style of :nth-child'ified elements
 
 
 ### Colour lists, mixins, and tools
