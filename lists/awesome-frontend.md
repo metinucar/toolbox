@@ -184,7 +184,6 @@
 - [Plyr](http://plyr.io/) - A simple HTML5 media player with custom controls and WebVTT captions
 - [medialementjs](http://mediaelementjs.com/) - Video and audio handling
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
-- [talkie](https://github.com/kiln/talkie) - Combines audio and animations
 - [Videojs](http://www.videojs.com/) - Open source HTML5 video player
 - [Embed progressively](http://embedresponsively.com/)
 - [Bideo](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video
