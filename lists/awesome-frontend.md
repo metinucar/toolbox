@@ -504,6 +504,7 @@
 - [Flexbox in 5 minutes](http://flexboxin5.com/) - Take an interactive tour through all the major features of the new flexbox CSS property
 - [Using flexbox today](http://www.chriswrightdesign.com/experiments/using-flexbox-today/)
 - [Flexbox dice](http://codepen.io/LandonSchropp/pen/KpzzGo) - [Here](http://davidwalsh.name/flexbox-dice) you find the tutorial explaining how to create flexbox dice
+- [Flexbox playground](http://codepen.io/enxaneta/full/adLPwv/)
 
 ### Performance
 - [Justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics
@@ -570,6 +571,12 @@
 - [Cursor trails](http://codepen.io/chrisdoble/pen/WQLLVp?mc_cid=e1ff606a1a&mc_eid=679d523b99)
 - [Decorative text underline](http://codepen.io/jonneal/pen/PzGYEE?mc_cid=e1ff606a1a&mc_eid=679d523b99)
 - [Social Media Sharing: Automated Link Creator](http://codepen.io/adamcoti/pen/jVGWdG)
+- [Direction-aware CSS only hover effect](http://codepen.io/gabriellewee/post/how-to-create-direction-aware-css-only-hover-effects)
+- [Rings navigation](http://codepen.io/bennettfeely/full/qRJOZJ/)
+- [Bloomberg article scroll indicator](http://codepen.io/derekjp/pen/pJzpxB)
+- [Decorative text underline](https://codepen.io/jonneal/pen/PzGYEE?editors=0100)
+- [Animating SVG Polygons](http://codepen.io/nsayenko/pen/BpdzOZ)
+- [Email templates](http://codepen.io/reallygoodemails/)
 
 ### Email newsletter
 - [Zurb Ink](https://github.com/zurb/ink) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
