@@ -118,7 +118,7 @@
 - [Progression](https://github.com/aarondo/progression.js) - A jQuery plugin that gives users real time hints & progress updates as they complete forms
 - [Parsley](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
 - [Strectchy](https://github.com/LeaVerou/stretchy) - Form element autosizing
-- [Cleave](http://nosir.github.io/cleave.js/) - Format your `<input/> content when you are typing
+- [Cleave](http://nosir.github.io/cleave.js/) - Format your <input/> content when you are typing
 
 ### Validation
 - [is.js](http://arasatasaygin.github.io/is.js/) - Micro check library
