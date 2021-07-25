@@ -11,7 +11,7 @@ A curated list of awesome Sass
 * [SASS Guidelines](#sass-guidelines-too-long-didnt-read-version)
 * [Dev tools](#dev-tools)
 * [Learn from others](#learn-from-others)
-* [Hugo Giraudel&rsquo;s recommendations](#hugo-giraudels-recommendations)
+* [Kitty Giraudel&rsquo;s recommendations](#kitty-giraudels-recommendations)
 * [Screencasts](#screencasts)
 * [CodePen / SassMeister](#codepen-sassmeister)
 
@@ -39,7 +39,7 @@ Title | Description
 Title | Description
 :--|:--
 &#9734; [Bourbon](https://github.com/thoughtbot/bourbon) | A lightweight Sass mixin library
-&#9734; [Boilerplate](https://github.com/HugoGiraudel/sass-boilerplate) | A boilerplate for Sass projects using the 7-1 architecture pattern
+&#9734; [Boilerplate](https://github.com/KittyGiraudel/sass-boilerplate) | A boilerplate for Sass projects using the 7-1 architecture pattern
 [Toolkit](https://github.com/at-import/toolkit) | Toolkit for Responsive Web Design and Progressive Enhancement with Compass
 [Andy](https://github.com/gillesbertaux/andy) | Open-Source Collection of Useful SASS Mixins Library
 [Scut](https://github.com/davidtheclark/scut) | Sass utilities for the frontend laborer
@@ -158,20 +158,20 @@ To sum up, we want:
 
 
 
-## Hugo Giraudel's recommendations
-- [Awesome Sass](https://github.com/HugoGiraudel/awesome-sass)
+## Kitty Giraudel's recommendations
+- [Awesome Sass](https://github.com/KittyGiraudel/awesome-sass)
 - [Sass Guidelines](http://sass-guidelin.es) - an opinionated styleguide for writing sane, maintainable and scalable Sass
 - [Sass-Compatibility](https://github.com/sass-compatibility/sass-compatibility) - Sass Compatibility tables
-- [SassyBitwise](https://github.com/HugoGiraudel/SassyBitwise) - bitwise operators implemented in Sass
-- [SassyCast](https://github.com/HugoGiraudel/SassyCast) - a small lib for type conversion across data types
-- [SassyJSON](https://github.com/HugoGiraudel/SassyJSON) - a JSON encoder/decoder in Sass
+- [SassyBitwise](https://github.com/KittyGiraudel/SassyBitwise) - bitwise operators implemented in Sass
+- [SassyCast](https://github.com/KittyGiraudel/SassyCast) - a small lib for type conversion across data types
+- [SassyJSON](https://github.com/KittyGiraudel/SassyJSON) - a JSON encoder/decoder in Sass
 - [SassyLists](https://github.com/Team-Sass/SassyLists) - a collection of functions to manipulate lists
-- [SassyMatrix](https://github.com/HugoGiraudel/SassyMatrix) - a collection of functions to manipulate matrices
-- [SassySort](https://github.com/HugoGiraudel/SassySort) - a Sass sorting function using various algorithms
+- [SassyMatrix](https://github.com/KittyGiraudel/SassyMatrix) - a collection of functions to manipulate matrices
+- [SassySort](https://github.com/KittyGiraudel/SassySort) - a Sass sorting function using various algorithms
 - [SassyStrings](https://github.com/Team-Sass/Sassy-Strings) - a collection of functions to manipulate strings
-- [SassyLogger](https://github.com/HugoGiraudel/SassyLogger) - a message logger in Sass
-- [SassyGradients](https://github.com/HugoGiraudel/SassyGradients) - a collection of tools to help manipulate gradients in a dynamic way
-- [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators) - iterators and generators implementation in Sass
+- [SassyLogger](https://github.com/KittyGiraudel/SassyLogger) - a message logger in Sass
+- [SassyGradients](https://github.com/KittyGiraudel/SassyGradients) - a collection of tools to help manipulate gradients in a dynamic way
+- [SassyIteratorsGenerators](https://github.com/KittyGiraudel/SassyIteratorsGenerators) - iterators and generators implementation in Sass
 
 
 
@@ -215,20 +215,20 @@ To sum up, we want:
 - [Prefixer mixin](http://sassmeister.com/gist/9431719)
 - [:matches() polyfill in Sass](http://sassmeister.com/gist/9481816)
 - [Sass to CSV converter](http://sassmeister.com/gist/9327085)
-- [An alert component in Sass](http://codepen.io/HugoGiraudel/pen/Dzloe)
-- [Sass + calc: a creative grid system](http://codepen.io/HugoGiraudel/pen/hEaFt)
-- [Programmatically finding one color from another one](http://codepen.io/HugoGiraudel/pen/gHEkA)
+- [An alert component in Sass](http://codepen.io/KittyGiraudel/pen/Dzloe)
+- [Sass + calc: a creative grid system](http://codepen.io/KittyGiraudel/pen/hEaFt)
+- [Programmatically finding one color from another one](http://codepen.io/KittyGiraudel/pen/gHEkA)
 - [Levenshtein distance between two strings in Sass](http://sassmeister.com/gist/8334461)
-- [Google Font Sass mixin](http://codepen.io/HugoGiraudel/pen/aEzLf)
-- [Float: down with Sass](http://codepen.io/HugoGiraudel/pen/AxmBK)
-- [CSS counters + Sass](http://codepen.io/HugoGiraudel/pen/mnavc)
-- [Sass mixin for scrollbar styling](http://codepen.io/HugoGiraudel/pen/KFDuB)
-- [Issues with Sass lists](http://codepen.io/HugoGiraudel/pen/kDvua)
-- [Hyphens and underscores in Sass names](http://codepen.io/HugoGiraudel/pen/pJKek)
-- [Leap-year in Sass](http://codepen.io/HugoGiraudel/pen/qrjmd)
-- [Prime number in Sass](http://codepen.io/HugoGiraudel/pen/wiFHk)
-- [@for loop in keyframes](http://codepen.io/HugoGiraudel/pen/Jyimb)
-- [Step wizard component](http://codepen.io/HugoGiraudel/pen/scluw)
-- [Nested Sass lists as property/value pairs](http://codepen.io/HugoGiraudel/pen/yGFri)
-- [Differences between () and null](http://codepen.io/HugoGiraudel/pen/gaBhe)
-- [Gradient from loop](http://codepen.io/HugoGiraudel/pen/poJxy)
+- [Google Font Sass mixin](http://codepen.io/KittyGiraudel/pen/aEzLf)
+- [Float: down with Sass](http://codepen.io/KittyGiraudel/pen/AxmBK)
+- [CSS counters + Sass](http://codepen.io/KittyGiraudel/pen/mnavc)
+- [Sass mixin for scrollbar styling](http://codepen.io/KittyGiraudel/pen/KFDuB)
+- [Issues with Sass lists](http://codepen.io/KittyGiraudel/pen/kDvua)
+- [Hyphens and underscores in Sass names](http://codepen.io/KittyGiraudel/pen/pJKek)
+- [Leap-year in Sass](http://codepen.io/KittyGiraudel/pen/qrjmd)
+- [Prime number in Sass](http://codepen.io/KittyGiraudel/pen/wiFHk)
+- [@for loop in keyframes](http://codepen.io/KittyGiraudel/pen/Jyimb)
+- [Step wizard component](http://codepen.io/KittyGiraudel/pen/scluw)
+- [Nested Sass lists as property/value pairs](http://codepen.io/KittyGiraudel/pen/yGFri)
+- [Differences between () and null](http://codepen.io/KittyGiraudel/pen/gaBhe)
+- [Gradient from loop](http://codepen.io/KittyGiraudel/pen/poJxy)
